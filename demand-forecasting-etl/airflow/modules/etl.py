@@ -9,3 +9,9 @@ def extract_csv():
     df.to_pickle("/tmp/df_csv.pkl")
 
 
+def extract_api():
+    with open("../api_suppliers.json") as f:
+        data = json.load(f)
+    df = pd.json_normalize(data)
+    df.to_pickle("/tmp/df_api.pkl")
+
