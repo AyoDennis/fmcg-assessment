@@ -10,6 +10,8 @@ logging.getLogger().setLevel(20)
 conn = sqlite3.connect('./demand-forecasting-etl/suppliers.db')
 cursor = conn.cursor()
 
+logging.info("cursor connected")
+
 cursor.execute('''
 CREATE TABLE supplier_records (
     supplier_id TEXT PRIMARY KEY,
@@ -18,6 +20,8 @@ CREATE TABLE supplier_records (
     last_order_date TEXT
 )
 ''')
+
+logging.info("db schema created")
 
 for _ in range(1000):
     cursor.execute('''
@@ -30,4 +34,6 @@ for _ in range(1000):
     ))
 
 conn.commit()
+logging.info("conection commmitted")
 conn.close()
+logging.info("conection closed")
