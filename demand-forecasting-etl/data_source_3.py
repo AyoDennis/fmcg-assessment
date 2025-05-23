@@ -7,7 +7,7 @@ from data_source_1 import fake
 logging.basicConfig(format='%(asctime)s %(levelname)s:%(name)s:%(message)s')
 logging.getLogger().setLevel(20)
 
-conn = sqlite3.connect('suppliers.db')
+conn = sqlite3.connect('./demand-forecasting-etl/suppliers.db')
 cursor = conn.cursor()
 
 cursor.execute('''
@@ -19,7 +19,7 @@ CREATE TABLE supplier_records (
 )
 ''')
 
-for _ in range(300):
+for _ in range(1000):
     cursor.execute('''
     INSERT INTO supplier_records VALUES (?, ?, ?, ?)
     ''', (
