@@ -3,25 +3,38 @@ import json
 import sqlite3
 from datetime import datetime
 import boto3
+import logging
+
+logging.basicConfig(format='%(asctime)s %(levelname)s:%(name)s:%(message)s')
+logging.getLogger().setLevel(20)
 
 def extract_csv():
     df = pd.read_csv("../mock_supplier_data.csv")
+    logging.info("csv read")
     df.to_pickle("/tmp/df_csv.pkl")
 
+logging.info("csv data source pickled")
 
 def extract_api():
     with open("../api_suppliers.json") as f:
         data = json.load(f)
+    logging.info("api data read")
     df = pd.json_normalize(data)
+    logging.info("api json data normalized")
     df.to_pickle("/tmp/df_api.pkl")
 
+logging.info("api data source pickled")
 
 def extract_sql():
     conn = sqlite3.connect("../suppliers.db")
+    logging.info("connected to db source")
     df = pd.read_sql_query("SELECT * FROM supplier_records", conn)
+    logging.info("queried db source")
     conn.close()
+    logging.info("closed db connection")
     df.to_pickle("/tmp/df_sql.pkl")
 
+logging.info("db source pickled")
 
 def transform_and_merge():
     df_csv = pd.read_pickle("/tmp/df_csv.pkl")
