@@ -15,3 +15,11 @@ def extract_api():
     df = pd.json_normalize(data)
     df.to_pickle("/tmp/df_api.pkl")
 
+
+def extract_sql():
+    conn = sqlite3.connect("../suppliers.db")
+    df = pd.read_sql_query("SELECT * FROM supplier_records", conn)
+    conn.close()
+    df.to_pickle("/tmp/df_sql.pkl")
+
+
