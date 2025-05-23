@@ -12,7 +12,7 @@ def extract_csv():
     """
     Converts csv data source into a pickle binary object
     """
-    df = pd.read_csv("../mock_supplier_data.csv")
+    df = pd.read_csv("./mock_supplier_data.csv")
     logging.info("csv read")
     df.to_pickle("./tmp/df_csv.pkl")
 
@@ -22,7 +22,7 @@ def extract_api():
     """
     Converts api data source into a pickle binary object
     """
-    with open("../api_suppliers.json") as f:
+    with open("./api_suppliers.json") as f:
         data = json.load(f)
     logging.info("api data read")
     df = pd.json_normalize(data)
@@ -35,7 +35,7 @@ def extract_sql():
     """
     Converts database source into a pickle binary object
     """
-    conn = sqlite3.connect("../suppliers.db")
+    conn = sqlite3.connect("./suppliers.db")
     logging.info("connected to db source")
     df = pd.read_sql_query("SELECT * FROM supplier_records", conn)
     logging.info("queried db source")
@@ -47,28 +47,53 @@ logging.info("db source pickled")
 
 def transform_and_merge():
     """
-    Converts all pickled data sources into daaframes
+    Loads pickled DataFrames, merges side-by-side, renames columns, then saves to CSV.
     """
+    
     df_csv = pd.read_pickle("./tmp/df_csv.pkl")
-    logging.info("pickled csv converted into dataframe")
+    logging.info("Pickled CSV data converted into DataFrame")
     df_api = pd.read_pickle("./tmp/df_api.pkl")
-    logging.info("pickled api data converted into dataframe")
+    logging.info("Pickled API data converted into DataFrame")
     df_sql = pd.read_pickle("./tmp/df_sql.pkl")
-    logging.info("pickled db data converted into dataframe")
+    logging.info("Pickled SQL data converted into DataFrame")
 
-    df_csv.rename(columns={"supplier_id": "supplier_uuid"}, inplace=True)
-    logging.info("csv df columns names transformed for consistency")
-    df_sql.rename(columns={"supplier_id": "supplier_uuid"}, inplace=True)
-    logging.info("sql df columns names transformed for consistency")
+    df_merged = pd.concat([
+        df_csv.reset_index(drop=True),
+        df_api.reset_index(drop=True),
+        df_sql.reset_index(drop=True)
+    ], axis=1)
 
-    df_merged = df_csv.merge(df_api, on="supplier_uuid", how="outer") \
-                      .merge(df_sql, on="supplier_uuid", how="outer")
+    logging.info("DataFrames merged side-by-side")
+
+    # Rename columns AFTER merging
+    df_merged.rename(columns={
+        "supplier_id": "supplier_uuid",  # Rename if present in any DataFrame
+        "supplier_id_x": "supplier_uuid",  # Handle possible merge suffixes
+        "supplier_id_y": "supplier_uuid"
+    }, inplace=True)
+
+    logging.info("Column names standardized post-merge")
+
+    # Fill NaN (if any) and save
     df_merged.fillna("N/A", inplace=True)
-    logging.info("csv, db and api columns names merged for consistency")
-
-    output_path = f"./merged_supplier_data.csv"
+    output_path = "./merged_supplier_data.csv"
     df_merged.to_csv(output_path, index=False)
-    logging.info("all data sources successfully merged")
+    logging.info(f"Merged data saved to {output_path}")
+
+
+try:
+    logging.info("Starting ETL pipeline")
+    
+    extract_csv()
+    extract_api()
+    extract_sql()
+    transform_and_merge()
+    
+   
+    logging.info("ETL completed successfully")
+except Exception as e:
+    logging.error(f"ETL failed: {str(e)}")
+
 
 
 # def upload_to_s3():

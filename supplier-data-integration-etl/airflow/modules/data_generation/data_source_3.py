@@ -7,7 +7,7 @@ from data_source_1 import fake
 logging.basicConfig(format='%(asctime)s %(levelname)s:%(name)s:%(message)s')
 logging.getLogger().setLevel(20)
 
-conn = sqlite3.connect('./demand-forecasting-etl/suppliers.db')
+conn = sqlite3.connect('../modules/suppliers.db')
 cursor = conn.cursor()
 
 logging.info("cursor connected")
@@ -34,6 +34,6 @@ for _ in range(1000):
     ))
 
 conn.commit()
-logging.info("conection commmitted")
+logging.info("connection commmitted")
 conn.close()
-logging.info("conection closed")
+logging.info("connection closed")
