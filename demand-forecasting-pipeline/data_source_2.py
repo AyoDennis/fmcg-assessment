@@ -7,6 +7,9 @@ logging.basicConfig(format='%(asctime)s %(levelname)s:%(name)s:%(message)s')
 logging.getLogger().setLevel(20)
 
 def simulate_api_data(n=1000):
+    """
+    This function created json data to silumate api source
+    """
     return [
         {
             "supplier_uuid": fake.uuid4(),
@@ -20,3 +23,5 @@ def simulate_api_data(n=1000):
 api_data = simulate_api_data()
 with open("api_suppliers.json", "w") as f:
     json.dump(api_data, f, indent=2)
+
+logging.info("json api data created")
