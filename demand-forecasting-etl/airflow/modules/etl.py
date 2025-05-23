@@ -9,6 +9,9 @@ logging.basicConfig(format='%(asctime)s %(levelname)s:%(name)s:%(message)s')
 logging.getLogger().setLevel(20)
 
 def extract_csv():
+    """
+    Converts csv data source into a pickle binary object
+    """
     df = pd.read_csv("../mock_supplier_data.csv")
     logging.info("csv read")
     df.to_pickle("/tmp/df_csv.pkl")
@@ -16,6 +19,9 @@ def extract_csv():
 logging.info("csv data source pickled")
 
 def extract_api():
+    """
+    Converts api data source into a pickle binary object
+    """
     with open("../api_suppliers.json") as f:
         data = json.load(f)
     logging.info("api data read")
@@ -26,6 +32,9 @@ def extract_api():
 logging.info("api data source pickled")
 
 def extract_sql():
+    """
+    Converts database source into a pickle binary object
+    """
     conn = sqlite3.connect("../suppliers.db")
     logging.info("connected to db source")
     df = pd.read_sql_query("SELECT * FROM supplier_records", conn)
@@ -37,9 +46,15 @@ def extract_sql():
 logging.info("db source pickled")
 
 def transform_and_merge():
+    """
+    Converts all pickled data sources into daaframes
+    """
     df_csv = pd.read_pickle("/tmp/df_csv.pkl")
+    logging.info("pickled csv converted into dataframe")
     df_api = pd.read_pickle("/tmp/df_api.pkl")
+    logging.info("pickled api data converted into dataframe")
     df_sql = pd.read_pickle("/tmp/df_sql.pkl")
+    logging.info("pickled db data converted into dataframe")
 
     df_csv.rename(columns={"supplier_id": "supplier_uuid"}, inplace=True)
     df_sql.rename(columns={"supplier_id": "supplier_uuid"}, inplace=True)
