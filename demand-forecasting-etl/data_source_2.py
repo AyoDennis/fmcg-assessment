@@ -21,7 +21,7 @@ def simulate_api_data(n=1000):
     ]
 
 api_data = simulate_api_data()
-with open("api_suppliers.json", "w") as f:
+with open("./demand-forecasting-etl/api_suppliers.json", "w") as f:
     json.dump(api_data, f, indent=2)
 
 logging.info("json api data created")
