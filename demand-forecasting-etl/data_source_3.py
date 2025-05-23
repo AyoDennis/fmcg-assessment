@@ -19,3 +19,15 @@ CREATE TABLE supplier_records (
 )
 ''')
 
+for _ in range(300):
+    cursor.execute('''
+    INSERT INTO supplier_records VALUES (?, ?, ?, ?)
+    ''', (
+        fake.uuid4(),
+        random.choice(["Raw Materials", "Logistics", "Manufacturing"]),
+        round(random.uniform(1.0, 5.0), 2),
+        fake.date_between(start_date='-2y', end_date='today').isoformat()
+    ))
+
+conn.commit()
+conn.close()
