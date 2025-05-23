@@ -39,3 +39,8 @@ def transform_and_merge():
     df_merged.to_csv(output_path, index=False)
 
 
+def upload_to_s3():
+    s3 = boto3.client("s3")
+    bucket = "your-s3-bucket"
+    key = "supplier_data/merged_supplier_data.csv"
+    s3.upload_file("/tmp/merged_supplier_data.csv", bucket, key)
