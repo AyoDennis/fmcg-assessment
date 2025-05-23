@@ -14,3 +14,6 @@ def simulate_api_data(n=1000):
         for _ in range(n)
     ]
 
+api_data = simulate_api_data()
+with open("api_suppliers.json", "w") as f:
+    json.dump(api_data, f, indent=2)
