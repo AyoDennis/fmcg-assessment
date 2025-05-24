@@ -6,16 +6,11 @@ from datetime import datetime
 import boto3
 import logging
 from airflow.models import Variable
+from botocore.exceptions import ClientError
 
 logging.basicConfig(format='%(asctime)s %(levelname)s:%(name)s:%(message)s')
 logging.getLogger().setLevel(20)
 
-# Configure paths
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-CSV_PATH = os.path.join(BASE_DIR, "mock_supplier_data.csv")
-JSON_PATH = os.path.join(BASE_DIR, "api_suppliers.json")
-DB_PATH = os.path.join(BASE_DIR, "suppliers.db")
-TMP_DIR = os.path.join(BASE_DIR, "tmp")
 
 def extract_csv():
     """
@@ -90,51 +85,80 @@ def transform_and_merge():
     logging.info(f"Merged data saved to {output_path}")
 
 
-extract_csv()
-extract_api()
-extract_sql()
-transform_and_merge()
+def aws_session():
+    """
+    Creates a boto3 session using credentials from Airflow Variables
+    with proper error handling and fallback to environment variables.
+    """
+    try:
+        session = boto3.Session(
+            aws_access_key_id='AKIAU6VTTFBOBIN7EV6P', #Variable.get('aws_access_key_id'),
+            aws_secret_access_key= '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',#Variable.get('aws_secret_access_key'),
+            region_name= 'eu-central-1'#Variable.get('aws_region', default_var='eu-central-1')
+        )
+        # Verify credentials work
+        sts = session.client('sts')
+        sts.get_caller_identity()
+        return session
+    except Exception as e:
+        logging.error(f"Failed to create AWS session: {str(e)}")
+        # Fallback to environment variables or IAM role if available
+        return boto3.Session(region_name='eu-central-1')
+
+def boto3_client(aws_service):
+    """
+    Creates a boto3 client for the specified service
+    using credentials from Airflow Variables.
+    """
+    try:
+        client = aws_session().client(aws_service)
+        return client
+    except Exception as e:
+        logging.error(f"Failed to create {aws_service} client: {str(e)}")
+        raise
+
+def upload_to_s3():
+    """
+    Uploads the merged CSV file to S3 with proper error handling and logging.
+    """
+    try:
+        s3 = boto3_client("s3")
+        bucket = "fmcg-de-assessment"
+        key = "supplier_data/merged_supplier_data.csv"
+        local_path = "./merged_supplier_data.csv"
+        
+        # Verify file exists before upload
+        import os
+        if not os.path.exists(local_path):
+            raise FileNotFoundError(f"Local file not found: {local_path}")
+        
+        # Perform upload
+        s3.upload_file(local_path, bucket, key)
+        
+        # Verify upload succeeded
+        s3.head_object(Bucket=bucket, Key=key)
+        logging.info(f"Successfully uploaded to s3://{bucket}/{key}")
+        return True
+    except ClientError as e:
+        logging.error(f"S3 upload failed: {str(e)}")
+        if e.response['Error']['Code'] == '404':
+            logging.error("The file does not exist or permission denied")
+        raise
+    except Exception as e:
+        logging.error(f"Unexpected error during S3 upload: {str(e)}")
+        raise
 
 
-
-# def aws_session():
-#     session = boto3.Session(
-#                     aws_access_key_id=Variable.get('access_key'),
-#                     aws_secret_access_key=Variable.get('secret_key'),
-#                     region_name="eu-central-1"
-#     )
-#     return session
-
-
-# def boto3_client(aws_service):
-
-#     client = boto3.client(aws_service,
-#                           aws_access_key_id=Variable.get('access_key'),
-#                           aws_secret_access_key=Variable.get('secret_key'),
-#                           region_name="eu-central-1")
-
-#     return client
-
-# def upload_to_s3():
-#     """
-#     This function loads the csv to s3"""
-#     s3 = boto3.client("s3")
-#     bucket = "fmcg-de-assessment"
-#     key = "supplier_data/merged_supplier_data.csv"
-#     s3.upload_file("/tmp/merged_supplier_data.csv", bucket, key)
-#     logging.info("data has now been loaded to s3")
-
-
-# try:
-#     logging.info("Starting ETL pipeline")
+try:
+    logging.info("Starting ETL pipeline")
     
-#     extract_csv()
-#     extract_api()
-#     extract_sql()
-#     transform_and_merge()
-#     # upload_to_s3()
+    extract_csv()
+    extract_api()
+    extract_sql()
+    transform_and_merge()
+    upload_to_s3()
     
    
-#     logging.info("ETL completed successfully")
-# except Exception as e:
-#     logging.error(f"ETL failed: {str(e)}")
+    logging.info("ETL completed successfully")
+except Exception as e:
+    logging.error(f"ETL failed: {str(e)}")

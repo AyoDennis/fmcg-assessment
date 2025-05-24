@@ -1,17 +1,20 @@
-import sqlite3
 import json
-import random
 import logging
+import random
+import sqlite3
+
 from faker import Faker
 
 fake = Faker()
 logging.basicConfig(format='%(asctime)s %(levelname)s:%(name)s:%(message)s')
 logging.getLogger().setLevel(20)
 
-conn = sqlite3.connect('../modules/suppliers.db')
+conn = sqlite3.connect('./suppliers.db')
 cursor = conn.cursor()
 
 logging.info("cursor connected")
+
+cursor.execute("DROP TABLE IF EXISTS supplier_records")
 
 cursor.execute('''
 CREATE TABLE supplier_records (
@@ -33,6 +36,7 @@ for _ in range(1000):
         round(random.uniform(1.0, 5.0), 2),
         fake.date_between(start_date='-2y', end_date='today').isoformat()
     ))
+
 
 conn.commit()
 logging.info("connection commmitted")
