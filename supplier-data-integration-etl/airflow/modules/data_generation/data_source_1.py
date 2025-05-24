@@ -38,5 +38,3 @@ df.to_csv("../modules/mock_supplier_data.csv", index=False)
 
 
 logging.info("csv created")
-# supplier-data-integration-etl/airflow/mock_supplier_data.csv
-# /Users/user/Documents/fmcg-assessment/supplier-data-integration-etl/airflow/modules/mock_supplier_data.csv
