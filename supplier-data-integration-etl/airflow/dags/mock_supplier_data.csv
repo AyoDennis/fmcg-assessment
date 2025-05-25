@@ -1,0 +1,1001 @@
+supplier_id,supplier_name,contact_name,email,country,phone,performance_score,last_audit_date,preferred_supplier
+bdd640fb-0667-4ad1-9c80-317fa3b1799d,Sanchez-Taylor,Patrick Gardner,fjohnson@hall.com,Monaco,886.737.9402,1.66,2023-12-13,Yes
+562b0f79-c374-49ee-b50b-ea63371ecd7b,Davis Inc,Gregory Baker,blairamanda@miller-carter.org,Turks and Caicos Islands,(993)710-3413x164,1.32,2023-09-19,No
+4458a885-ab90-49a4-b5a2-40ae5af30553,"Zuniga, Wong and Lynch",Nicholas Martin,onelson@hawkins.com,Denmark,9568413953,4.38,2025-02-28,No
+43cf2fde-2493-4b83-b577-50a9a491f0b2,Wright PLC,Nicole Patterson,icox@snyder.com,Niue,(669)216-6978,2.99,2024-10-02,Yes
+8976e334-e281-4efd-ae84-92171d53434b,Mack-Peterson,Christopher Smith,teresa28@harrell.net,New Caledonia,925.228.8095,1.17,2023-08-13,No
+d4e80839-fc3e-458b-a0f3-eab05cec4eb5,Allen-Allen,Angela Dennis,spenceamanda@anderson.net,Chad,989-363-8346x578,3.68,2023-11-21,No
+969b6662-0562-4059-968c-c69b1064005c,"Hall, Robinson and Jones",Crystal Whitehead,chad34@washington.org,Morocco,337.263.1165x6670,3.05,2024-03-13,No
+1bf90e27-dc96-425e-8cf3-a17156dc8907,Lee PLC,Javier Ramirez,nancyjones@garcia.com,Bermuda,001-932-667-7360x26064,1.19,2024-03-28,Yes
+c88a618e-fed4-457d-bb02-6576f512c4c3,"Stanley, Tucker and Lee",Anthony Fitzgerald,adkinsbrian@woods.com,Malawi,521-291-3619,4.97,2024-08-18,Yes
+90b2b633-956b-4c0c-a849-9b926b5252e3,"Stewart, Green and Santiago",Derek Anderson,stephen10@howell-hart.com,Barbados,+1-638-442-5135,4.03,2024-04-08,Yes
+9c96e9ec-4d71-4366-b41b-31438b10550c,"Rice, Contreras and Spencer",Ashley Humphrey,darrell18@nelson.com,Saint Barthelemy,634-487-4016x40052,3.49,2024-11-15,No
+8f9797b0-6d7c-43c9-b4a6-9f3c8d3aed99,Rodriguez Ltd,Kimberly Davenport,russellwilliams@nolan-flynn.com,United Arab Emirates,(833)215-8692x322,3.67,2023-10-02,Yes
+ee49f329-c84a-4b28-950a-1b46ecab3301,Pham-Shields,Debra Cobb,reyesbenjamin@walker-velasquez.info,Guernsey,733-203-6541x4586,2.92,2023-08-16,Yes
+94a1875d-2db6-4edb-82de-ffccf86c2ca2,Johnson-Carlson,Richard Graham,cruzbarbara@williams-graham.net,Uzbekistan,+1-635-661-5951,4.34,2024-09-22,No
+4bb00f20-b27c-4026-a703-b6365380b904,"Martinez, Fisher and Bentley",Stephanie Gilbert,richard04@clark-floyd.org,Palau,577-673-8721x48951,4.4,2023-11-04,No
+0bd4a990-0640-4e0f-a5b8-fd4b32fa2de8,Riggs PLC,Angel Perry,jennifercruz@sanchez-douglas.com,Uganda,001-716-932-8708x31727,2.24,2024-08-13,Yes
+6d3ee1dc-8139-4443-a45b-712eb8225688,"Griffin, Moore and Hensley",Paul Larsen,katie87@allen.com,Faroe Islands,958-812-2362x31665,2.73,2023-07-08,No
+e7a37e81-63b4-408b-ab8e-869fd5385b0e,"Shah, Smith and Gilmore",Karen Bender,karen68@navarro.info,Cyprus,267-806-5627x298,3.07,2024-07-29,No
+a48b3dbe-157d-44a1-86f0-28ffa9ba5a27,Taylor-Murray,James Lewis,matthew64@king-miller.com,San Marino,+1-205-431-0033,3.89,2023-11-14,No
+90604f62-1d48-4071-ab61-a7b1793b4c32,Marshall LLC,Carol Lawson,stricklandfrank@rodriguez-johnson.com,Morocco,+1-866-731-9314x91905,1.87,2023-07-13,Yes
+d97dc9cd-033d-4bce-975a-ed2ca5c5650c,Short-Garcia,Madison Poole,ryangross@nelson.info,Lao People's Democratic Republic,(294)953-1473x79965,4.72,2025-02-04,Yes
+5ad5cf06-364d-4c87-bcd0-129d2e8d0e87,Peterson-Beard,Desiree Smith,christophercortez@peters-allen.info,Oman,001-977-701-4363x495,3.03,2024-03-30,Yes
+5a104129-54ae-4d1b-8ce6-424dbef59fe6,"Chavez, Parker and Hall",Emily Newton,jamesrodgers@hardy-bray.net,Nepal,213-643-5240x8240,1.94,2024-10-14,Yes
+c0b6fce2-de53-490a-a34b-6cf62053da42,Garcia-Smith,John Peterson,kingmichelle@short.info,Barbados,001-802-529-4131,3.16,2024-12-11,Yes
+715629ee-e893-4e3d-b354-ea6f61607459,Dalton-Branch,Marc Lynch,mezajared@baker.com,Dominican Republic,(681)220-6797,2.15,2023-11-09,Yes
+dc0f2fcf-b3f6-4e0d-8860-3b32b4fb0eb9,Jones-Hall,Rick Lawrence,ronaldstephens@hernandez.com,Chad,999-347-1746x4887,2.06,2024-08-03,Yes
+5283aac7-bc0a-4a5d-ae99-6e3ee3b137fc,"Wright, Davis and Hayden",Laura Sampson,barbara27@pearson.org,Jordan,+1-671-875-6551x2567,2.46,2025-01-07,No
+168b1625-746f-4891-8964-fbbf8cd321b0,King-Wilson,Sharon Bryan,sandovalamy@brown-stone.org,Saudi Arabia,570.434.8247x7109,4.28,2024-01-06,Yes
+17dc8eff-6872-43f9-8d60-593603802b70,Gay Inc,Bruce Collier,scantu@thornton.info,Ecuador,682.263.9821x465,3.65,2023-12-16,No
+9475dbc9-9641-4ced-9664-d2644c6e27ff,"Burns, Hernandez and Ryan",Juan Daniels,mcantu@allen.biz,Aruba,976-262-7028x95171,1.42,2024-11-02,Yes
+f84f16b3-a79f-4faf-9ef5-768968f45bce,Jones LLC,Michael Santos,melissa86@sims-clay.info,Tunisia,+1-309-313-4316,1.94,2024-04-12,Yes
+0769165f-e746-4cb9-8ca9-cf07b1aa0f6a,Nguyen Inc,James Thomas,yknight@jackson.org,Trinidad and Tobago,(693)479-2374x7407,4.59,2023-07-16,No
+966b1964-fcd6-4dca-9876-fd09f1faf665,Fowler-Coleman,Ryan Gonzalez,gcastaneda@james.org,French Polynesia,001-740-564-0909x743,2.97,2024-08-31,Yes
+c16d83ed-ad81-48bd-8029-13ec9ef2b93e,"Saunders, Becker and Taylor",Mark Williams,xjohnson@anderson.biz,China,928.658.8424,3.83,2024-11-19,No
+77e490c7-1d7b-4313-8de2-2f1c56b60afc,Taylor and Sons,Misty Whitney,christopher60@herrera-gibson.com,Myanmar,(651)837-0985x9317,4.46,2023-08-17,No
+4dead645-0986-4beb-b23e-323d0b9bd934,Wilson-Young,Jasmine Watson,umatthews@mcclure.com,Syrian Arab Republic,796.240.5377x3515,2.91,2024-03-10,Yes
+f2f25eef-1f45-4bfd-b7dc-67e030974b2b,Davis-Lewis,Tricia Williams,john29@jones.com,Namibia,635.429.0422,1.62,2023-08-12,Yes
+03cde2e3-21bd-4b41-8699-8731ddcf8766,Tyler-Young,Christopher Williams,vfox@alvarez.net,Nauru,278-239-0847,4.45,2025-05-22,No
+afa415e5-6d20-4496-a6d0-6371d8e88ebb,Henry Group,Bobby Franklin,martinezclaudia@kelley.net,French Polynesia,789.961.1836x736,3.36,2024-03-10,Yes
+6d4067f4-5003-4b35-9857-8bafbac7e2b9,Ortega-Brooks,Thomas Jones,daviscolin@watson.net,Monaco,416-956-0494x51983,2.73,2023-11-03,No
+8e676a01-d86a-4460-99a1-120e1bb43332,Wilson-Ramirez,Jeffrey Hoffman,lynchdiane@adams.com,Uruguay,850-922-9612x01836,3.24,2024-01-28,Yes
+530ac1c7-b8ba-4368-8fc7-77685ebbcca5,"Carlson, Ware and Moore",Amber Miller,fstanley@ramos.com,Guatemala,(614)597-8403x69003,2.14,2024-12-04,Yes
+53ffd3a2-4a19-4501-8169-b9fcc3a00c6f,Smith Ltd,Carl Patel,vincentwhitaker@jones-hensley.com,Jordan,6713596966,3.37,2024-03-15,No
+cd2372c2-2bff-417b-9324-01fcf758dce2,"Stevens, Norris and Cox",Brian Graham,zwarren@reese-walker.com,Belarus,418.383.5523x12432,4.01,2023-09-30,No
+76c5a0dc-7e7e-4419-a0c1-4035c5d95f51,"Wolf, Cole and Glass",Madison Weber,edward17@welch-hogan.org,Azerbaijan,(881)947-7005x411,3.0,2024-07-21,Yes
+e5582e16-bd29-4de9-8ab4-923bf4488385,Cole PLC,Erica Alvarez,susanhayes@haas-miller.com,Armenia,677.888.9255,3.29,2024-03-17,No
+0d67d38e-990f-4c5b-adcc-3daf569f3ab3,"Holland, Jones and Davis",Diane Cummings,mathewaguilar@rangel.biz,Bulgaria,+1-214-786-5281x685,2.68,2024-01-04,No
+f29a6339-577b-455a-b6d5-5494f37fd50d,Lee-Cooke,Edward French,stanleynancy@anderson.org,Sudan,(970)565-3794,2.26,2024-06-17,Yes
+c8cc7cfe-cf01-4944-b731-57494f3949a8,Mckee-Lee,Laura Alexander,kimberly88@burch-montoya.org,Burundi,907-458-1814x124,1.9,2025-01-20,No
+38d77b9a-e916-4a57-b248-23ab177a8a5f,Wilkerson-Arias,James Brooks,xvang@johnson.com,Somalia,(220)347-2779,4.25,2023-06-06,No
+8c7e6f42-2646-4af9-95c0-244d3735262d,"Lynch, Henderson and Parsons",Bryan Allen,fbrown@herrera.com,French Guiana,(209)853-9621x85188,4.39,2025-02-20,Yes
+fb25664d-630a-4767-a2bb-522b0b251279,King-Smith,Haley Quinn,ingramjill@anderson-bell.com,Suriname,+1-227-772-2170x4303,2.91,2025-04-05,Yes
+d0be73ee-fd37-4539-a5f2-02f983f02dc7,"Kennedy, Johnson and Lucas",Scott Williams,joshua56@paul-kline.biz,Guadeloupe,(877)458-4161,4.82,2024-06-25,Yes
+53f28f11-147f-4570-9a43-db54523ae993,"Phillips, Griffin and Robbins",Jeremy West,christina64@whitney.biz,Haiti,220.429.7021x35569,4.7,2024-10-01,No
+71a6014c-5f3c-44dc-9ef7-87b8f2e6195f,Berry PLC,Ernest Ramirez,johnsonjacob@hughes.com,Romania,339.747.3121x727,2.29,2024-09-23,No
+8acbbe09-8ccc-4cea-909f-d8eeb5a47200,Vance-York,Tammy Little,william13@young.com,Guyana,+1-695-878-2911,4.59,2025-05-23,No
+6929de73-8693-4d9d-ba89-cbebb807d78a,Morrow-Jones,Maria Cole,david89@saunders.biz,Macao,7186242253,1.6,2025-01-31,No
+f4d375c1-a293-49fa-b240-d7a14027ab7d,"Hill, Weber and Mendez",Martin Vargas,georgeweber@morgan.com,Belgium,6946396907,4.14,2024-05-11,No
+67f5ae02-af5b-4f47-8eae-71cfce000af0,Chavez-Barker,Jason Marshall,catherine55@travis.com,Malaysia,+1-415-337-1473,1.34,2023-06-29,No
+9d896047-dd39-4793-a257-a4a2f204be89,Wright-Grimes,Garrett Lane,james27@owens.com,Western Sahara,(687)233-9500x4797,3.97,2025-02-01,Yes
+43b47ee5-e1e8-4e7e-a249-8f666e51484d,"Diaz, Powell and Williams",Justin Cox,charles87@ramirez.com,Brunei Darussalam,865-258-5239,3.52,2023-06-26,No
+cdd0b4d4-5542-47de-b6ad-f48b2314d0c8,Stone-Hernandez,Brenda Velazquez,francisco94@rogers.org,French Southern Territories,505.251.6940x9749,1.41,2024-07-23,No
+b89f7039-a107-4c46-8634-17182ba6adb3,"Hampton, James and Underwood",Kenneth Graves,andrewedwards@gutierrez.biz,Macao,001-997-702-8385x78652,2.18,2024-06-26,No
+b88e830f-de1e-494a-85a1-1f5cad05b912,"Schneider, Steele and Bishop",David Grant,shellyhendrix@bush-vaughn.info,Ghana,258.644.1986x6524,1.73,2025-04-21,No
+713f8f8c-ec8b-4537-98ab-4778143b45e3,"Scott, Mendoza and Harris",Taylor Horton,danielyang@sanchez.net,Czech Republic,+1-930-916-5712x0826,2.81,2024-09-10,Yes
+52380bf2-4988-4418-b6c3-1218c1836315,Brewer-Velez,Kenneth Nichols,gentrygregory@peck.biz,Solomon Islands,924.400.4991x5478,2.74,2025-02-04,No
+cf0e6d2b-315c-467a-85d8-a6ad77d0359e,Rivera Ltd,David Lopez,krystal93@carr.biz,Sweden,(585)916-1227x53046,3.97,2024-11-24,Yes
+951c25d5-4d4c-4280-9462-52e7f43ba052,"Berry, Green and Ward",Michael Marshall,richardshaw@carrillo.com,Heard Island and McDonald Islands,+1-533-527-2795x687,3.61,2024-10-02,No
+14f573d0-c991-4032-9f85-c77798874bfe,"Griffin, Padilla and Miller",Amy Kelley,ashleyhernandez@bond-ramos.com,Saint Barthelemy,001-871-987-0728,3.21,2024-07-09,No
+ce920136-ac3a-412f-b65e-6cb58f0d5540,Cummings-Foster,Nichole Lane,hendersonisabella@mcknight.info,Antigua and Barbuda,762-326-5676x6182,3.18,2023-10-01,Yes
+2099d180-8762-4997-a49f-7d888989c5ab,"Irwin, Davenport and Avila",Julie Ball,opatel@murray.com,Comoros,001-210-569-0331x1907,4.12,2024-11-15,Yes
+8a2db2e6-3bfd-48a6-b05f-ddf566fadca0,Webster Inc,Wyatt Young,barbara53@walter-odom.net,Cyprus,(744)808-9268x70568,3.62,2024-03-17,No
+c12169db-2f12-4150-a05f-b1eb4cc57e0d,"Wells, Atkinson and Turner",Renee Melendez,jfaulkner@anderson.com,Uzbekistan,551.583.0469x901,3.57,2024-05-08,Yes
+4d9dbaeb-553d-4625-a833-4da5de95d695,Lewis and Sons,Autumn Key,srocha@padilla.com,Singapore,767-585-4458x7717,4.62,2024-02-18,Yes
+dd34aa18-9001-4ed4-8bb4-01e769f753f1,Figueroa Inc,Timothy Riley,mphillips@hall-hudson.com,Luxembourg,+1-454-977-7252,2.77,2023-10-05,No
+a44d9fec-fd85-47fa-8ac9-7b01e3ad64d4,Warren Inc,Mary Duran,otaylor@jones.com,Cuba,275.609.9770x08860,4.06,2024-06-18,No
+d02b1243-8091-4ac1-8463-750e49646b96,"Craig, Drake and Browning",Brent Hernandez,christineking@adams-sanders.com,Iraq,993.234.1016x668,2.76,2024-08-31,No
+7ff6b824-152a-4aec-abdf-cb41b3eda8f1,Newman-Rivera,Valerie Jacobson,hallrachel@clay.com,Poland,689-402-5039x261,3.45,2024-07-09,No
+639fc471-d975-4f00-95ab-a8ae9112fbc0,"Mosley, Rivera and Campos",William Ramsey,brian63@peterson.org,Indonesia,001-350-647-7358x66296,3.15,2024-12-27,No
+4499d0a6-1500-4170-92d1-5585b68e47fa,James Ltd,James Ward,smithkyle@juarez-garcia.com,Colombia,(778)888-6101x58199,4.19,2023-06-02,Yes
+15aede0f-c777-407f-a346-d4ef69ef74e3,"Santana, Stein and Spence",Carolyn James,josephadams@brown.com,Italy,671-254-3799x3712,3.8,2025-04-16,Yes
+614077d3-9ec4-4a48-9773-f98d550c2fe9,Alexander-Jordan,Marilyn Wheeler,malik37@thompson-sanders.com,French Guiana,001-479-235-6465x1939,3.21,2025-04-19,No
+35ab8466-b557-4b00-b166-cdcf762cdfbc,Salinas-Guerra,Ryan Pope,ttaylor@king.biz,Somalia,(317)397-9688x6805,4.75,2024-12-06,Yes
+2a9528c3-5ae1-4bad-aa29-60fda85894df,"Salazar, Hart and Newman",Tracy Rivera,grodriguez@walker-burgess.net,Mozambique,001-993-375-6798x250,2.12,2023-12-25,No
+1db6b844-15fa-4483-b633-cc2deba900e1,"Thomas, Collins and Gibson",John Alvarez,cbowen@jones-williams.com,Angola,412-438-2825x86736,2.02,2024-09-03,No
+bcc57be0-0779-450a-a544-e3136ea05d13,"Ware, Cole and Jordan",Daniel Ramirez,raylauren@lopez.com,Paraguay,485.696.9691x5579,1.36,2025-03-25,Yes
+224a66a6-ac0f-4801-95b2-4e1d97154633,Wilson-Torres,Michael Dixon,kcarlson@henderson-tucker.net,Puerto Rico,+1-228-927-4225x7905,3.54,2023-08-31,Yes
+8fc3d7d3-f6bd-40c7-a24a-2a50d0b1fde0,"Delgado, Ortiz and Vasquez",Jill Jackson,flynnjeffrey@hill.com,Chile,001-979-578-8191x48580,3.25,2025-05-16,No
+a757075b-d47f-43b1-bc69-c1551a37f6bd,Evans Inc,Gregory Montoya,hgrimes@clark.org,Portugal,(696)429-2330x958,2.3,2024-01-15,No
+929ecc92-4a11-4e44-8aea-1b8fb43cde0a,Farley-Robertson,Robin Taylor,rsellers@martinez.com,Switzerland,367.329.4667,3.84,2024-03-13,Yes
+efb3b939-b1d8-4887-8739-cc7bbff30c8d,Gibson-Freeman,Sheila Boone,simonstephen@terry.biz,Cuba,(237)345-4589x29750,4.99,2024-08-23,No
+1fce01e3-042b-43ca-b5a7-2686d6321d31,Alexander Inc,Jessica Forbes DVM,erik41@ward.com,Austria,(943)261-1037x1293,3.77,2023-05-29,No
+fcf7b842-1edf-4bfa-912e-0eb557f479b5,Benson-Woods,Brandon Shaffer,edwardsnicole@reyes.com,Bangladesh,390.492.7532x69731,2.59,2024-11-24,Yes
+59fe3d53-624f-4a4b-bae1-e13796ee50e5,Edwards-Taylor,Bradley Tran,kimberly04@holmes.com,San Marino,(740)737-6137x9180,3.97,2023-08-28,No
+6bbdb66f-9181-4091-96c6-f45cdc5e4e78,Payne-Thompson,William Jones,smithjason@fry.net,France,+1-386-566-1889x2414,1.51,2025-05-05,Yes
+6406face-53a5-4850-8950-ddd627c6cbb1,"Walters, Davenport and Becker",Michael Blair,brianmiller@wilson-salazar.com,Georgia,+1-421-602-0275x88425,1.1,2024-11-09,Yes
+0783e43c-e65f-4d87-857c-74981e38f711,Roman-Nelson,Michael Ray,crawfordwilliam@porter.com,Heard Island and McDonald Islands,(241)591-3800,1.86,2023-06-26,Yes
+266bf2ea-eb93-478c-a20a-f1585d2d904f,Velazquez Inc,Suzanne Yang,pwalker@moon-flores.com,Montserrat,(618)702-3806x174,4.07,2023-07-26,No
+335f2f59-5e71-4fca-820a-449774ed5145,Elliott-Torres,Julie Vargas,xcuevas@oconnor.com,Canada,8606385050,4.58,2023-08-07,Yes
+6b790d01-3cf8-4d20-bbad-793f87a1ec02,Woodward-Kaufman,Douglas Williams,phyllismeyer@huang.org,Bhutan,726.719.9062x34456,1.98,2024-04-18,No
+33e4f986-f18c-4cdc-931e-b7233bcdf203,Chan PLC,Brian Cole,richard85@hayes.com,Timor-Leste,312-549-0352,1.8,2025-04-30,No
+ad5be3c8-0c88-4714-8372-17e0657046ea,Green-Ewing,Jared Chavez,codygarcia@martinez.com,Bulgaria,365.519.9410,3.12,2025-03-13,No
+178be968-20f8-4ba2-8f2e-32967184b713,Martinez-Dunlap,Thomas Hamilton,ycrawford@simmons.com,Fiji,220.399.9347x687,1.2,2023-12-14,No
+a484e035-330f-4aa3-ab52-f93c2321e64e,"Wright, Mcknight and Stephens",James Reeves,fstephens@durham-shaw.biz,Faroe Islands,(705)593-0407,2.41,2025-05-04,Yes
+3dbc3093-a828-4442-bf73-8f5019a2676f,Ferguson-Moody,Pamela Gould,lkelly@young.com,United States Minor Outlying Islands,001-605-499-2937,3.96,2024-05-16,Yes
+9a069295-3b8d-4447-8e61-065f171b1b80,Smith Group,Thomas Harris,matthewthompson@brown-hernandez.com,Singapore,685-715-6915,2.88,2023-08-31,Yes
+6fd69b3a-f2dd-4456-bb7b-6c0528522ca2,"Yu, Banks and Thompson",Melissa Mcfarland,jeffrey92@parker-barker.com,Christmas Island,001-909-469-0295x9391,1.36,2024-01-21,Yes
+fb7d3ba1-58c8-4c48-bced-4d1f13eb22c9,Jackson-Mcclure,Michael Fowler,sean43@steele.com,Solomon Islands,800-767-6267,1.47,2024-06-26,Yes
+c9ea356a-7abf-4ebf-942c-b1ae19f738cb,"Curtis, Mcdaniel and Martin",Ryan Phillips,jose11@jackson-bennett.com,Mexico,859-497-0629,1.79,2023-07-02,Yes
+30a2cee8-f972-4cc1-b49e-f4a954c29d5c,Terry-Bowen,Deborah Campbell,codylong@larsen.biz,Benin,897-931-0324x1714,3.71,2024-05-15,Yes
+a4515ae0-1754-4f08-83d7-5413a939ebd1,"Hughes, Watson and James",Andrew Gonzales,jeremy49@hernandez.com,Belize,+1-558-969-3806x86879,3.08,2023-12-28,Yes
+b6dcbd05-da9b-4cc1-a71c-681a6511e61a,Shaw PLC,Megan Oliver,averyshane@stanton.com,Armenia,(716)632-9451x16868,4.32,2024-06-06,Yes
+c95b61f8-032a-461a-9f9b-7c1feacb1f6d,"Dean, Mills and Barnes",Charles Matthews,buckleyanna@floyd.com,Turkey,(846)279-9702x46299,1.51,2024-03-08,Yes
+3cd1ff3f-b0c5-4278-94dc-cba5e1035e1c,Reese LLC,Alicia Roth,larry71@taylor.info,Singapore,446-391-3736x78508,1.41,2024-01-06,No
+c7cfeca8-22b9-424c-a744-3fb881bd55d5,"Suarez, Johnson and Lee",Sara Wright,xwilliams@gonzalez.biz,North Macedonia,703-757-9727,2.45,2023-09-20,No
+d4b3e8cf-bfbb-4ab3-8237-8962e4fd6c34,"Davis, Johnson and Williams",Penny Lewis,deborahbyrd@pearson-palmer.com,Lebanon,(829)803-4944,4.18,2025-02-04,Yes
+7779857f-37dc-4c78-8082-fcda7580e4e9,Byrd-Holloway,Brian Hunt,anna99@evans-rodriguez.com,Guadeloupe,754-444-3283x096,2.65,2024-11-01,No
+4bacbedf-ff5a-429e-bf53-d344a7c854e4,Meadows-Sullivan,Lauren Cooley,matthewreeves@nichols.com,Madagascar,528-724-1724x8251,1.66,2023-11-03,Yes
+c9c04b7d-6ba4-470b-8e9d-23e9df162ec3,Watson-Richards,Bruce Brown,kennedyjames@dillon.net,French Southern Territories,(702)423-5697x25217,3.66,2024-01-08,Yes
+4605ec0e-73b9-42ac-8134-e76b0ed9fa95,Juarez and Sons,Brooke Glover,andersonryan@powell-sanford.biz,Albania,2835505830,2.28,2023-11-05,Yes
+21019bff-4fe5-4745-9827-4e80e0821918,Reyes PLC,Austin Williams,stephen89@morgan.com,United Arab Emirates,453.326.0332x3098,1.48,2024-02-15,No
+600c9c71-0990-4647-8ac8-d87ea689d07f,"Scott, Nichols and Williams",Mary Valdez MD,butleromar@king.com,Gabon,(318)949-9261x89141,3.2,2023-10-16,No
+d4dd1b56-4353-41b2-8728-50c13322c68b,"Dudley, Howard and Ortiz",Joshua Lozano,arivera@powers.org,Paraguay,321.481.1437x4470,1.61,2025-02-20,Yes
+cd3566ef-5c37-4739-8a62-9c5eda2cf852,"Edwards, Rodgers and Davis",Amber Christian,markkline@adams.com,Cocos (Keeling) Islands,366-474-6762,3.31,2024-10-13,Yes
+d8274fc3-f145-4426-bb48-1ded0f037337,Garcia PLC,Mr. Jeffrey Carr,cheryl27@rodriguez-jenkins.com,Bahrain,850-589-9358x891,3.7,2024-05-10,Yes
+62874624-a433-4510-ad21-b4cca9e8f0d8,Combs PLC,Lisa Smith,williamharrison@booth-jones.info,Gibraltar,554.308.3866,3.89,2024-04-23,Yes
+1688782f-72b6-46ca-92b2-6acdcd1f75a3,West-Wilson,Matthew Garcia MD,petersenlatoya@walsh.info,Zambia,550-237-5899x75711,4.88,2024-01-28,Yes
+ccc7147f-f6e5-403c-a237-9e6fd4734534,Kelley-Brooks,Steven Vasquez,nrodriguez@lopez.com,Kuwait,451.960.9177,1.11,2023-05-27,No
+ef705d01-8da0-4d88-8c6f-3051bc788423,Roberson-Webb,Tammy Thompson,jessicaanderson@sandoval-obrien.com,Madagascar,(669)734-6547x2269,3.55,2024-10-25,Yes
+37a3c30a-a1f0-4a7a-8db7-8572ef7db821,Clark Ltd,Gregory Chambers,williambenson@page-hodges.net,Lesotho,001-296-884-6081,2.85,2023-09-07,No
+4458b006-332c-4e0a-8e7d-a698ab95c72f,Terrell Ltd,Ryan Vaughn,james80@cervantes-garcia.net,Tonga,886.738.4066,3.1,2025-04-29,Yes
+4057e470-be61-47a8-8351-b09d0dc5fb06,Oliver Group,Susan Bush,kari89@parsons.com,Kiribati,(612)628-1606,4.07,2023-08-27,No
+0171f5a7-4148-4d11-9894-62e895801c3a,Owens-Pineda,Timothy Carlson,tracy98@jones-zimmerman.net,Cyprus,(381)782-6886,3.76,2023-11-01,Yes
+54c0c6c2-54f6-416e-a9d0-49dc369e5af8,Carter-Clements,Karen Hoffman,wilsonmichael@conway.org,Ecuador,7569164840,4.93,2024-05-13,No
+31487df8-a6ca-4d50-a5f5-c8914be318a8,Palmer-Vaughan,Tyler Medina,simsjason@ayala.com,Costa Rica,+1-361-220-7501,4.94,2023-10-01,Yes
+9330ba83-1208-4e20-8ede-9b46407d0aff,Bartlett Group,Mark Hamilton,pricedavid@may.com,Saudi Arabia,001-890-815-8144x9147,4.82,2025-01-13,No
+889157fd-2804-40ac-b957-41bb07e3c39a,Taylor Group,Sarah Phillips,kennetheaton@wong.net,Cambodia,600-599-6881,4.75,2024-11-21,No
+3634646c-5806-4961-b9d7-07a9e74ed0b3,Whitehead-York,Clinton Jensen,james29@york.info,Oman,+1-714-714-1397,3.47,2023-08-25,Yes
+48febf6d-199c-4d94-bc0a-584ea7cd13cb,"Jones, Lee and Tucker",Matthew Steele,arianadiaz@benjamin-jackson.com,Egypt,764.652.5777,2.63,2024-05-13,Yes
+9b4bf377-a542-4eb9-acff-45f81bdc74a9,Wilkinson and Sons,Christina Gross,lunapatricia@welch.org,Croatia,5846887256,3.34,2023-08-29,Yes
+6593b659-172e-4c68-82aa-5c4680499bbf,Shaw-Bates,Renee Mendez,katherinetaylor@white.com,Saint Pierre and Miquelon,001-775-803-7314x5303,1.66,2024-05-01,No
+0a3731ab-0be3-434a-a1ad-640c7463835e,"Nguyen, Padilla and Boyd",Sandy Baker,nicholasgray@valdez.biz,United States of America,486.955.7790,3.41,2023-09-22,No
+47e321c2-a4ba-48bf-83b8-fa0513bc0dc6,Hernandez and Sons,Mitchell Wilson,robertrivera@olson.info,Cote d'Ivoire,001-426-403-0299,3.08,2024-08-26,No
+2598f383-9280-4da2-a40b-50e40a086989,Jackson and Sons,Jennifer Costa,johnsjessica@valentine-robinson.org,Latvia,923.369.2929x8425,3.87,2023-11-07,No
+043d72db-1bcb-404c-a1d8-b96a62ada157,Mills PLC,Samantha Jacobs,thomasmendez@rich.net,Sao Tome and Principe,817-729-8068,4.34,2025-02-21,No
+3abf9c65-6dd0-43f3-87a2-0e22b298b811,Clarke-James,Natalie Juarez,colemanjonathan@kent.com,Netherlands Antilles,+1-264-830-0981,1.74,2024-09-13,Yes
+68aa1236-50de-4f43-8de5-c35ab0117b0a,Rodriguez-Simmons,Deborah Herrera,cheryl63@arnold-grant.com,Heard Island and McDonald Islands,+1-387-544-9562,1.31,2024-04-14,Yes
+19abdc15-296b-47bf-b301-bb6cb3061300,Romero LLC,Lisa Cohen,martintamara@brock.info,Vanuatu,+1-661-214-3519x066,1.73,2025-04-14,No
+7e8eed12-a3ea-41a2-acde-9187d1fa82a6,Smith-Jefferson,Kelly Lee,christinacraig@allen-smith.com,Benin,665-766-9380x118,1.79,2024-02-02,No
+9b3aa1d1-39ee-40ab-86c9-37e0d0c59550,Gibson Group,Debbie Russell,hansenwesley@arroyo-pratt.com,Turkey,+1-994-976-9735,1.28,2025-03-09,No
+1dc3c26e-7b62-459e-8700-749adcad8ec2,Jones-Schultz,Megan Hall MD,zachary04@mitchell.com,Belarus,+1-527-955-3942,1.28,2024-11-12,Yes
+df6c0d60-3df7-4a69-bc45-144a3c1fdff0,Clark-Harris,Luke Moore,wilsonchristian@vasquez.com,Thailand,459.257.9472x8463,2.87,2024-06-11,No
+8a6fc4b3-f08d-412e-ba73-2f356c5540f0,Shaw Group,Patty Bryant,wolfesteve@smith.com,Greece,(494)928-4347x955,3.01,2024-03-28,No
+5f4faf10-c08f-46d7-b361-e70a6b49acc6,Dickerson-Ramirez,Carlos Johnston,lisale@peters.com,Cameroon,001-627-202-6728x8574,3.58,2024-03-10,No
+3728ddc2-0f5e-4b47-a9d0-c613b0c77002,Woods-Soto,George Ward,maurice61@dillon-mccarty.com,Morocco,001-382-845-5877,2.88,2024-08-14,No
+2514c7ce-f4e3-4f7b-a1b7-e3d876b874d3,Davidson LLC,Logan Sullivan,millermatthew@stewart-carter.com,Netherlands,+1-564-675-9876x2202,3.0,2025-04-10,No
+35e80364-147f-4f67-bfee-f19db360dfaa,Sanders Inc,Shawn Kelley,wisealexandria@garcia.com,Belize,+1-764-733-4722x8200,4.69,2025-02-13,No
+8a63b93c-def3-406a-b998-63f27799fddb,Dunn-Taylor,Kimberly Garza,owelch@graham.com,Liberia,+1-631-274-5642,3.11,2023-05-24,No
+22e49628-d913-457d-821f-84fcd0bcbad5,Mitchell-Nichols,Katherine Campos,albert64@hall.biz,Turkmenistan,+1-366-832-6634,3.3,2024-08-23,No
+e8f2c584-ccca-4e14-83b8-c80f84408e98,"Aguirre, Cohen and Mitchell",Rhonda Gutierrez,whitekeith@gibson.info,Comoros,302-408-0214x42703,3.33,2023-06-03,Yes
+4fc37d4e-6b95-4c1d-9787-99d93799a376,Bolton-Ford,Erin Bridges,brianrowe@daniels.com,Ukraine,560-913-6730x371,2.23,2024-03-03,Yes
+52b444e8-efab-4d73-8fe6-6636f6121d2c,Soto Inc,Krista Martinez,mlittle@clay-boyer.com,Bouvet Island (Bouvetoya),565.202.4916,3.86,2025-05-01,Yes
+79ab56d1-b0d5-45ab-8891-d55d94c176b9,"Carlson, Watson and Davis",Brandon Montgomery,browndeanna@herrera.com,Moldova,+1-657-930-6524x0778,3.43,2023-10-09,No
+52dcbffd-5900-4d65-8b2a-b7592fc6c4e6,"Mcdonald, Dillon and George",Caitlyn Schmidt,qphillips@richardson.biz,Saint Martin,(809)559-3518,1.86,2024-06-10,Yes
+277529a2-8d2c-4e83-8407-26547f5f61aa,"Campbell, Ortiz and Morris",Matthew Williams,gregoryjohnson@washington.com,Montserrat,+1-567-989-9405x3910,4.74,2025-04-01,Yes
+cd0fa4a6-77d2-494f-9478-0c9dd5030b43,"Brown, Grant and Hurley",Jacob Erickson,allison14@blackburn.com,Bolivia,001-338-763-3839x2886,1.63,2024-09-28,No
+e200c157-6d54-495a-aa4d-52a8b3da5808,Jackson and Sons,Kathy Sandoval,umahoney@frey.biz,Sweden,001-859-239-8368x4577,4.27,2024-11-04,Yes
+042c65ad-9883-49b1-88d3-d2cefba3091f,"Taylor, Zamora and Smith",Mrs. Emily Ingram,samantha88@howe.com,Cape Verde,(845)593-3441,2.97,2024-11-10,Yes
+7b874b4a-cafb-44fe-931f-04afb93c92d5,Freeman Ltd,Sabrina Davis,benjamin96@deleon.com,Turkmenistan,(461)739-0604x80589,4.93,2024-05-25,No
+ac735be0-0cee-4dc2-a737-f345388629ff,"Osborn, Maddox and Mullins",Ann Reynolds,vhernandez@alvarez.com,Mexico,(541)568-6227x8376,2.02,2023-11-17,No
+52cb1ae0-6e18-49b3-86da-85f144296ca2,"Glass, Davis and Powers",Gregory Flores,carrillogary@jensen-branch.info,Nigeria,(270)533-5211,3.62,2025-04-16,Yes
+d51b1974-de66-4dd0-a5ce-2a21ed3e2846,Smith-Benson,Jerry Johnson,jodylewis@mills.com,Puerto Rico,001-606-298-0420x439,3.59,2024-04-27,No
+637e3f94-110c-4d92-8222-305df1f71605,"Nelson, Christian and Keller",Alicia Dillon,yhall@bray.org,Martinique,623-787-8003,2.82,2024-05-16,Yes
+58c69158-04b4-4ac9-a831-7f0dbe9063fb,"Bell, Garrett and Young",Kathryn Cain,natasha08@perez-peterson.biz,Palestinian Territory,(416)889-3639,2.7,2025-05-02,Yes
+72fcc072-544c-4132-9af9-7493e8e46b31,"Anderson, Delgado and Carpenter",Christina Taylor,russellstout@douglas.com,Ghana,888-812-5205,1.52,2023-12-31,No
+e4e5b5b0-d25a-4576-af0b-743ebee04762,"Mahoney, Hill and Maxwell",Cody Farmer,catherine93@hall.info,Burkina Faso,297.652.6772x23306,4.09,2025-04-17,No
+fcfd8547-abdc-40da-be0b-bddd38f95001,Todd Inc,Troy Gonzales,dwatts@patterson.org,Saint Pierre and Miquelon,(256)599-9880x8177,4.83,2024-06-06,No
+0a0c64e5-bc34-4b4f-bbdc-532e6546c66d,"Hughes, Hubbard and Estes",Jeffrey Wilkerson,steven64@ellison.info,Switzerland,+1-271-481-2982x6657,3.83,2024-04-19,No
+33b1d0dc-e552-40a8-b66f-3507e588b999,Davis-Nguyen,Michelle Martin,davisjasmin@cox.net,New Zealand,(468)460-2592,2.81,2023-10-01,Yes
+4edd2a2a-6b69-44ae-8d22-af35b648be8a,Cross-Woodward,Christopher Roach,adamcannon@ellis.net,Sri Lanka,9973339776,4.29,2024-08-05,No
+8c1e9464-e1d5-40dc-bea5-85a901aec505,Harvey-Grant,Amber Hernandez,benjamin09@evans.biz,Christmas Island,(749)299-8279,2.83,2023-07-31,Yes
+e5c482ff-5e5a-40c1-92a4-73f94c9e903a,Wilkins-Chang,Ana Ruiz,nealjoshua@gutierrez.com,Botswana,001-681-779-4695,2.27,2025-03-31,No
+850b7073-7f13-4e67-9008-cdc99d421bae,"Welch, Vasquez and White",Michelle Krause,wilsonsteven@mclaughlin.org,Israel,(705)258-3034x41448,1.55,2023-08-15,No
+b9720eec-6563-4d1f-9763-790255520712,"Gilbert, Johnson and Thompson",George Chambers,probles@olson.info,Uganda,+1-257-560-8495,4.6,2024-07-19,Yes
+e355e636-ea8b-41f5-8cae-58fe54eb8e20,Jones-Hernandez,Gina Brooks,ashleyprice@wilson.com,Russian Federation,5466173574,2.11,2023-09-28,Yes
+c71d4564-0992-4886-88f2-16c15fcc997d,Gentry Group,Rebecca Stein,jamesmclean@russo.com,Swaziland,923.207.6810x40915,3.95,2023-08-07,No
+4ffebdfd-bedc-4cb7-a8b3-31a0c4246277,Lane LLC,Christine Gonzalez,joshua57@wilson.com,Nigeria,+1-481-638-5854,2.0,2024-07-16,Yes
+9cfecbd8-4fb6-4094-923c-f9112bd8ad4d,Fernandez-Williams,Steven Williams,bbrown@white-carlson.org,Norfolk Island,001-379-954-5381x792,4.41,2023-08-03,Yes
+b5d0b595-a4f8-4e23-af39-f2ce4f75d45a,Ruiz-Meza,Steven Scott,philip55@freeman-jones.com,Guernsey,372.645.9928x1615,4.44,2024-06-16,No
+3d134526-69d7-4427-972d-5d57669be896,"Sanchez, Moore and Olson",Daniel Benson,bmueller@cobb.com,Saint Vincent and the Grenadines,001-697-819-9758x172,4.2,2023-07-13,Yes
+98ae0666-d066-4d21-af7d-7f211bd6b03d,Murphy-Newman,Daniel Taylor,shermandonna@schmidt-price.org,Kiribati,235.849.4651,1.81,2025-02-01,No
+5e85643c-0ffa-4366-8b4f-afafda3dc780,"Faulkner, Smith and Castro",Ashley Campbell,youngjacqueline@garrett-joseph.biz,Hong Kong,(483)227-2386x56242,1.51,2023-07-15,Yes
+e288109d-b8a9-4014-a4dc-ea0704056d2b,Barrett-Proctor,Chad Shaffer,senglish@conrad.biz,Micronesia,665.832.6909x738,2.77,2025-03-31,Yes
+fa6d81ee-0890-4506-9df1-bf6f938bd3f8,Carroll Ltd,Kevin Nixon,thomasjessica@marshall-miller.org,Benin,271.989.4905,4.97,2024-04-19,No
+bbdb4536-92ef-43c1-b81f-9d3fe7f339dc,Fisher-Yu,Donna Johnson,jessica94@soto.com,Montserrat,3496047128,3.28,2023-11-24,Yes
+db9c9b7c-4674-40eb-87ed-c6dd9da4ec0f,Smith-Rodriguez,Kevin Hernandez,lwood@patton-young.com,South Georgia and the South Sandwich Islands,705.212.9276x63723,3.87,2024-09-04,Yes
+0d722918-1db1-4e86-91cc-c8d3c1676505,Marshall Group,Paul Goodwin,noahthornton@baker-moreno.biz,American Samoa,676-658-0185x6945,2.58,2024-12-30,No
+6422a73e-958c-4cfd-a783-0a8f415e3805,Mejia-Curry,Leah Lee,erica25@smith.biz,Bolivia,517.353.4430x09109,3.9,2024-10-22,No
+9accb00d-db3f-44a2-961d-6acf1eb6d1f0,Bennett Ltd,Tracy Kemp,jonowens@fowler.biz,Puerto Rico,+1-954-321-4066x50442,1.61,2024-05-17,Yes
+6483b0e7-9c3c-4e9d-b35f-0d14edb7d4e4,Brewer Inc,Randy Robinson,gainesjennifer@johnson.org,Saint Lucia,270-972-0064x256,4.8,2024-05-07,Yes
+c7eb7d43-ba4e-472f-9813-9af76766d37b,Fernandez Inc,Michael Chan,bradleysavannah@cook-turner.com,Norfolk Island,+1-515-685-1743x2806,4.44,2024-10-13,Yes
+b057fcd4-a170-4e8e-9b55-2618e57e72d3,Tucker-Mcclure,Collin Johnson,cortezbrittany@price-sparks.com,Luxembourg,+1-370-505-0506,3.38,2025-01-02,No
+f0a9b97f-7557-428c-85eb-2b3faad53fb8,"Berg, Herrera and Figueroa",Benjamin Moss,evaldez@williams.com,Norfolk Island,3419792911,3.82,2024-07-31,Yes
+cdf0aaba-1027-4bf7-b877-70f09d99d4c5,Simmons Ltd,Erika Daugherty,marcoconnell@duran.com,Grenada,914-526-2582,3.72,2025-03-30,Yes
+ca826730-1997-4e2e-a224-98130a6b3e3d,"Salazar, Strickland and Smith",Mr. Christopher Davis,robert72@thomas.net,Korea,(532)590-9279x14560,3.98,2023-08-17,Yes
+9e719a56-187e-4ca4-ba0f-01a487bb1f6d,Huffman-Hatfield,Julie Sims,joshualee@jennings.info,Christmas Island,(900)254-3645,1.54,2023-08-08,Yes
+2d06f862-8990-479c-acc3-b6990d6dcb42,Floyd Group,Andrea Young,uwatkins@gonzalez-rhodes.com,Denmark,001-215-831-3636x31797,4.85,2023-09-06,No
+2d9563ed-747a-4829-9c03-d65ced8a028c,Brooks-Ellis,Ian Nelson,david90@taylor-york.info,Italy,(553)349-2929,2.2,2024-03-19,Yes
+fee3dbaa-dcb9-43b4-bd3d-16ca8592a38f,Vargas Group,Nicholas Fitzgerald,johnhamilton@snow.com,United States Minor Outlying Islands,001-806-900-7806,4.76,2025-01-04,No
+73d3328c-1916-49d3-9240-25eab257e257,Allen-Hansen,Nicholas Dodson,michaelallen@smith.com,Central African Republic,001-279-390-7726x257,3.86,2024-02-29,No
+085ff4d1-87ea-451b-9539-562bb0d508a9,Simmons-Nelson,Kimberly Norton,olivermatthew@robertson.com,Tuvalu,4163579055,3.74,2024-07-06,No
+fb334e61-236e-4007-b468-0b6ec6090b78,Allen-Wilson,Todd Carpenter,karenhodges@gomez-adams.biz,Falkland Islands (Malvinas),9156577881,2.57,2024-04-18,No
+f2037633-ac5d-402d-8cc6-7ffd5e3ece60,"Lamb, Everett and Jones",Judith Miller,keithfrye@martin.com,Luxembourg,(738)804-6827,3.78,2024-04-12,No
+3066478c-4aa0-4842-857f-dd20a50a0a29,Johnson and Sons,Kelly Rogers,diana57@wade.info,Gabon,001-224-424-3754,1.32,2024-02-06,Yes
+9e5e8cfe-2a96-4526-b4ca-6e7074b799ec,Joseph LLC,Christopher Erickson,evanwilson@andrews-alexander.com,Colombia,480.655.2578,1.43,2023-08-20,Yes
+7fd9c96f-ee5a-4856-a791-659c06617f95,Gould LLC,Wayne Payne,deborah47@montes-webster.org,Papua New Guinea,(397)651-7028,1.28,2023-06-11,Yes
+722b4439-3869-43c9-9743-b5a89e15ebcc,Davis-Brown,Lauren Walker,james18@rhodes-rosario.net,India,475.899.8056,4.39,2024-02-18,No
+584cb0f7-48de-48be-831e-ef965f71dcc4,Parker-Griffin,Cindy Barron,slara@shaffer.biz,Burundi,001-391-823-4785,4.25,2023-07-27,Yes
+45f8e14d-ea16-4e6e-a388-ca3268d26992,Thompson-Murray,Suzanne Gonzalez,froberts@carson.org,Gabon,487.930.0244x7146,4.99,2025-03-16,Yes
+1e8e06ed-0748-4379-bea7-f419a510af65,Snyder-Arellano,Heidi Castillo,ooneill@alvarez.net,Saint Martin,001-404-729-0257,4.98,2023-09-20,Yes
+a2e11798-6b65-450b-9c75-352c45cdb96b,Williams-Carter,Angela Lee,kathygeorge@stephens.com,Faroe Islands,+1-751-489-5202x84576,3.33,2023-08-06,Yes
+d4e20134-389a-44fd-80dd-b3862790e92f,Pope PLC,Sandra Fox,butlersabrina@fuentes.info,Guernsey,452-579-8524x0132,1.15,2024-01-03,No
+141f746e-fb29-4f36-a155-fba835b823e4,Vazquez-Bowers,Raymond Todd,gonzalezantonio@palmer.com,Aruba,440-711-9393,2.92,2023-06-14,No
+f11cc0a4-bf06-4520-988a-617b254338df,Rush-Bailey,Jonathan Chandler,williamjones@hines.com,Chile,001-880-813-8759x27125,3.12,2023-10-27,No
+c2ebbaa2-1ce3-40ed-a857-07ac3a40fe39,Martinez-Rodriguez,Philip Bush,millertristan@campbell-burke.com,Poland,938.364.6317x520,2.85,2024-03-08,No
+15c2f297-ad30-43ce-a896-9e7085cd3384,Thomas Group,Vanessa Figueroa,calvinhester@gonzalez-anthony.biz,British Virgin Islands,967.849.9465,1.9,2025-05-14,Yes
+c49b9e62-25ba-4f03-8765-606982ec0fc3,Rodriguez-King,Mark Taylor Jr.,greertyrone@stanton.org,Philippines,624-799-1187x73477,3.73,2025-01-04,No
+f3dc50bf-0486-4bee-8bef-4a768a601b92,Ewing Inc,Ernest Bennett,ljohnson@hopkins.com,Liechtenstein,(424)267-1978x89778,3.8,2024-03-05,No
+60b759a9-f88a-4c64-974e-bb877ea413e5,"Rhodes, Miranda and Mitchell",Kevin Anderson,michael90@peterson.com,Isle of Man,(403)233-4911x415,4.76,2024-06-20,Yes
+dd05b827-a863-482e-b5fe-28570991946d,Bradley-Valenzuela,Michael Chapman,nicholas65@davis.com,Guadeloupe,685.629.4563x7183,3.42,2023-06-27,Yes
+cdfa76af-66eb-43b0-92d2-408eff08c739,Weber Inc,Laura Vargas,carlos87@clark-flynn.com,Madagascar,268-453-6649x8782,2.79,2024-07-18,No
+d2eba277-f64d-4de0-a92a-988036841339,"Hurley, Adams and Little",Sarah Meadows,boydmichael@allen.com,Tanzania,(365)413-6442x49363,3.13,2023-10-11,No
+4f7f963e-d3c5-44a3-8c0b-200d3edec38e,Washington-Esparza,Taylor Harris,derek44@pierce.info,Slovenia,3018594165,3.32,2025-04-12,Yes
+3c6d3173-23fb-401f-97be-7b4fb9676dc6,Duncan PLC,Kelly Calderon,tyler13@martinez.org,Saint Pierre and Miquelon,(236)932-1234x7649,3.19,2024-06-16,Yes
+51057c35-1ceb-48fe-b2de-b798b31a25b5,"Coleman, Vega and Richmond",Taylor Cox,lori09@skinner.com,Portugal,+1-634-686-4518x37606,2.59,2023-07-28,Yes
+4c23e844-3c47-42f3-81b4-fd44d29cf92a,Villarreal and Sons,Lynn Suarez,rmccormick@morrow.info,Saint Pierre and Miquelon,(256)212-4815x69857,1.54,2024-09-03,No
+ca803df8-7182-4cf2-a151-ed022f098f4d,"Taylor, Morales and Fuller",Bradley Moore,melaniejennings@hayes-russo.com,Eritrea,(895)843-1652,4.59,2025-04-13,No
+054edd71-3977-4d2f-9205-1da0e2643336,Leblanc Ltd,Crystal Davis,sgonzalez@williams.biz,Netherlands Antilles,321-552-9108x677,3.3,2024-10-26,Yes
+d03bcbfc-dca7-4284-b230-7c2230c7809b,Roberts-Snyder,Scott Greene,jessica36@ortiz.com,French Guiana,739-873-5971x072,2.01,2024-10-07,Yes
+6c5ccba7-b55d-4fc1-a22c-c212b69d2f48,"Harper, Jones and Hawkins",Timothy Ruiz,wendy90@king.biz,Gabon,(452)380-9242x8757,3.23,2024-01-10,Yes
+42a9f7e5-244c-49a8-aed4-7a6d87c9daac,Edwards and Sons,Dr. Douglas Ward MD,chloe48@graham-martin.info,Serbia,(287)903-2032,4.04,2023-11-30,No
+1db3c075-6fb9-4e37-b796-048fb4b9fb73,Williams-Kelly,Karina Vasquez,daviddavis@white-jackson.net,Swaziland,999-339-0892x613,1.4,2025-03-02,No
+fb38bc6c-ae6a-4c48-88c6-a7ed06a574ec,"Martinez, Brooks and Hickman",Frank Johnson,qrivas@gibson-moses.org,Palestinian Territory,2506975923,1.04,2024-01-15,No
+8c126e0e-121a-4952-be69-ad390e378b07,"James, Ross and Thompson",Sharon Davis,frankchan@holland-best.com,British Indian Ocean Territory (Chagos Archipelago),876-949-2515x8377,2.85,2023-12-06,No
+c1a95ee2-1718-4fde-ac4e-5a8c99afee64,Shepherd-Austin,Jeffery Williams,teresa32@rose-holland.com,French Guiana,261.374.2243x864,2.7,2025-03-24,No
+6cc721f0-82ba-4fed-9b8d-c821836f224b,Davis-Guerrero,Dawn Scott,mackallen@stanley.biz,Aruba,764-459-7794,4.38,2023-10-25,No
+9aa33580-fb70-4dd7-bf3d-5023140642a8,Savage-Rodriguez,Abigail Wilson,dianastevens@melton-church.org,Saint Kitts and Nevis,249.595.6412x2031,3.55,2025-02-09,No
+2528d32d-a60c-4bed-bb2a-7f1035901039,"Allen, Wilkinson and Garrison",Angelica Carrillo,thomasjohnson@barrera.info,Libyan Arab Jamahiriya,807.893.3496x0501,1.74,2025-02-02,Yes
+bb27f6bc-9888-40d9-9423-251ebcb12a00,"Duarte, Johnson and Ross",Misty Mcconnell,dhall@smith.com,Uganda,+1-967-717-9576x0243,3.0,2024-04-08,No
+e8b8d252-9670-4d19-b83e-69a481f46dfd,"Morgan, Guzman and Kirby",Bonnie Carter,rmoyer@navarro.com,Nigeria,941.372.2329,2.2,2024-12-24,No
+4dbc217c-7e64-444f-be67-8797f16c084e,Clark Inc,Mrs. Debbie Rhodes MD,romanmatthew@williamson.net,Czech Republic,945.350.8428x9107,2.0,2025-05-05,Yes
+c83b6467-9c12-47d2-9c4e-7b65c81a5f0f,Colon Inc,Carol Wilson,rhondamoore@erickson-gill.info,Saint Martin,225-552-1376,2.23,2025-01-23,Yes
+81492b7a-4968-4df2-9760-c0947942000a,Miller LLC,Jennifer Soto,edwardmolina@cobb-taylor.biz,Isle of Man,(478)850-7208x11556,2.05,2023-07-07,No
+ec2a322b-a901-4e33-897e-f98dc25a6eb3,"Hernandez, Andrews and Levine",Rebecca Liu,robert84@newton.com,United Arab Emirates,392.267.3899x75634,3.04,2024-06-19,No
+bd740fe0-b808-4e14-b9a0-113763d69dd8,Meyer PLC,Brandon Arnold,katherine20@zamora.org,Eritrea,746.381.0548,1.0,2023-06-27,No
+72e06bb4-1fef-4a77-b0fb-db65a6a5790a,Armstrong-Smith,David Reese,michaelmitchell@armstrong.com,Bosnia and Herzegovina,489-935-7126x61106,1.88,2023-10-28,Yes
+86b8afef-ad44-4c48-9e8a-10da13fc927f,Chapman-Stone,Dennis Porter,sbarajas@dennis-butler.com,Cambodia,727.372.8813x77028,1.51,2024-08-05,No
+5e9d2f8a-1ef1-4a27-9c3e-fda4689b4fb2,"Roberts, Mills and Wilson",James Carter,moodydouglas@fisher.com,Cuba,(970)618-5106,1.73,2024-07-10,Yes
+60971a15-c806-42d3-967b-9583e6793a4b,Davenport-Bass,Charles Fields,jcontreras@nguyen.biz,Iceland,265.680.7412,2.08,2024-07-07,Yes
+15cc861a-8f31-4f2e-a4d7-8f641fb026cc,Friedman PLC,Amy Hudson,karenshaw@martinez.com,Andorra,933-297-1895x690,2.65,2024-01-27,No
+dc11eb13-0628-4878-aa39-46072e35c5c8,"Stewart, Scott and Wilson",Christopher Thomas,kayla24@gregory-brown.com,Cocos (Keeling) Islands,6048615265,2.13,2025-04-11,Yes
+33daefc1-0d47-426d-9ef7-a52ee645bb00,Goodwin PLC,Jordan Gordon,adamslucas@russell.com,United States Minor Outlying Islands,8489913824,3.28,2023-07-24,Yes
+c86aed73-3415-4076-801c-5617a2c3b917,Brooks and Sons,Kimberly Henderson,dwilliams@roberts.info,Faroe Islands,+1-346-653-9840x289,2.86,2023-07-28,No
+23c01eb1-d49b-462d-9f7b-6b19b2cc4372,"Hawkins, Ramirez and Reynolds",Tina Flores,cynthia74@bates.com,Cote d'Ivoire,995.802.0970x026,3.79,2024-06-20,Yes
+a6b96653-a62b-4d30-a070-bdb9c98cd5fb,Ryan Ltd,Caleb Stanton,wcarey@thompson-tate.com,British Virgin Islands,653.570.3045x319,3.84,2023-11-11,Yes
+096b7724-5ced-43b3-b7a0-be7a7e6a3ea7,Vasquez-Padilla,Adrienne Joyce,rrodriguez@mason.org,Peru,+1-599-221-9212x49384,1.9,2025-05-18,Yes
+9d4d0658-886e-4ae8-ad80-016db16784b1,Becker-Ware,Jeffery Nunez,nashmarcus@hill-frazier.info,Lithuania,(580)730-4687x506,3.23,2023-07-22,No
+fd81fbc0-067e-4672-8ec3-a6f49262c536,"Perez, Norris and Rosario",Christina Murphy,garrettcolin@reynolds-johnson.com,Tajikistan,931-373-5058x319,2.73,2024-08-23,No
+f97a822c-15e5-4a0f-9ff4-9f0a94350cb1,Rangel Group,Ryan Brown,bryanlang@turner.biz,Bahrain,808-504-6619,2.03,2025-02-14,Yes
+02b71c51-9fbe-4fb3-a8e3-ac9bc997f2fa,Reyes-Pope,Lisa Morgan,gibsonmark@rodriguez.org,Rwanda,993-992-8456,1.89,2023-10-06,Yes
+0f7c59ad-0b48-4935-8c09-de64233e84ac,Collins Group,Marissa Howard,dylanparker@carter-cordova.net,Namibia,+1-520-938-8065x33315,1.12,2024-10-12,Yes
+b1420898-998a-45a8-b7a7-aed0fb5f5290,Christian-Knight,Elijah Murphy,gibsonkristina@crawford.com,Puerto Rico,879.433.7563,3.88,2025-01-16,Yes
+12e00b9c-0288-49d9-9ce1-95be01b8c14a,Johnson-Wilson,Cory Willis,bradley03@mitchell.com,Saint Helena,(358)232-3024,4.07,2025-01-20,No
+c993f819-a7a5-41e8-a101-14f423226464,Morgan and Sons,David Pacheco,shelleyrowland@keith.com,Turkmenistan,(533)286-5596,2.06,2024-12-01,No
+8914741c-dabc-47ce-b068-ffdd965afd0f,Clarke-Murphy,Robert Salas,fclark@gibbs-mendez.com,Malawi,(685)878-7255x8777,1.61,2024-09-01,No
+095ee97c-a655-4e7f-957f-e29fca665da6,Robinson and Sons,David Robinson,koneal@walls.com,Mexico,221-947-8539,4.07,2024-06-01,No
+77b16be3-737e-452f-ad15-0b06561c9af3,Ortiz-Ballard,James White,josephjones@phillips.net,Mayotte,+1-714-631-1150x8353,3.93,2023-12-31,Yes
+d86f4bb4-aefc-4ef1-84bb-4aced0c8da67,Lee-Munoz,Scott Moran,alan44@logan-powell.biz,Swaziland,001-907-582-6333,1.98,2024-06-04,Yes
+77ff3c31-c1f3-4837-8d78-3178c935a278,"Olsen, Peterson and Miller",Jessica Mcmahon,cclark@johnson.com,Western Sahara,001-207-255-3666x8459,1.74,2025-03-28,Yes
+fe87a6bc-f3e0-4dc5-ba2c-9e7927584f1a,Carroll-Lloyd,Laura Myers,zharris@ferguson.info,Botswana,597-341-2182x09702,2.19,2025-03-20,No
+3ba878d9-34b5-4b86-88a8-458762c9f4fc,Keller-Jones,Joseph Jackson,hmyers@herrera.com,Iceland,623.546.7299,3.72,2024-05-25,Yes
+33a2ca5f-4683-4cc5-b57e-2b43af516850,Ritter Group,James Aguirre,renee77@johnston-mclaughlin.com,Oman,854.469.2632x967,2.61,2024-10-15,No
+f2189128-b2da-41f7-a4bf-c76d1874ed7d,Allen and Sons,Mark Carter,wolfejennifer@kerr.net,British Virgin Islands,(911)285-6724x380,1.75,2023-07-16,Yes
+763f56ac-bfee-4533-acf5-9149b1c9d0dc,Cooper-Ross,Andrew King,markgoodman@murray-miller.com,Rwanda,827.442.2091x241,2.83,2023-07-19,No
+45f3dc5a-ad68-4b45-82de-b2e6c37a927b,Alexander and Sons,Andrew Leonard,scottwilliams@cain.com,Iceland,001-547-309-0063x353,3.15,2023-06-04,No
+564d46aa-03ba-43a0-bd42-269c07275940,Frazier Inc,Stephen Robles,jenniferwilliams@rodriguez.com,Nigeria,786.461.3315,2.51,2023-06-03,No
+63a1bcaa-0311-4626-90f5-1e97a76c11cb,Ellis Inc,Diana Hanson,jonesjeffery@saunders-porter.com,Rwanda,+1-792-441-9562,1.33,2024-08-30,Yes
+fa5f9e72-5166-488b-b008-32dae24ba9d4,"Olson, Rogers and Franklin",Janet Davidson,wesleybush@hall.com,Georgia,663.591.0257,3.92,2023-09-11,No
+3cf1c29e-09b4-413c-a45c-a94a345298c4,"George, Bautista and Stevenson",Donald Schneider,meyertiffany@hess.com,Guam,738.403.3968,1.57,2024-04-11,Yes
+7ddc44f5-deaf-4631-908a-bb5c018c0313,Mckay Inc,Brenda Harris,thompsonana@young.biz,Saint Kitts and Nevis,942.533.6293x449,4.14,2023-12-08,Yes
+f37599aa-147b-4d20-bb2e-00e6c8028d0e,Sanders-Jackson,Jonathan Moss,lorileon@gill.com,Senegal,998-328-2467x4746,4.35,2024-01-22,Yes
+279c058a-321a-4d71-b821-52e0b7014925,Smith PLC,Jacqueline Sullivan,vbentley@cruz-parker.org,Barbados,(801)869-2364x58750,2.74,2024-11-11,No
+ebe55cc4-08d5-4cf7-ba4c-38ef3e0ad66d,Mccoy-Rhodes,Maria Green,jblackburn@wright-lane.com,American Samoa,416-869-1836,2.15,2023-11-24,Yes
+887fe19c-f7ba-49f9-802a-63cc4d5e42e8,"Tanner, Willis and Gross",Tammy Booth,fieldskimberly@olsen-adams.com,Venezuela,001-864-402-7011x6864,4.09,2023-09-29,Yes
+32b1792b-2263-460a-b43c-6fef2fb7e9bd,White-Fry,Robert Lopez,bradylisa@green.info,Niue,+1-512-914-1614x150,2.15,2024-05-12,No
+0fa1659f-026f-45f6-99ce-a0c3c2b2547d,Walton-Smith,Victoria Davis,bennettabigail@frederick-kennedy.com,Netherlands,(255)955-3566x90551,1.9,2025-02-18,No
+e35209a0-d5de-493b-b9a8-07ba66dce997,Johnson Inc,Diana Lyons,miguelmontgomery@kane.com,Northern Mariana Islands,905-305-7397x69156,2.7,2024-11-10,No
+b641d449-31f0-4021-9b6f-be204b3a9a83,Kane PLC,Michelle Johnson,trobles@davies.info,Zimbabwe,878-233-3211,3.68,2023-09-18,Yes
+622c636f-e713-4930-9395-8e5cedd0ce02,Robinson-Scott,Steven Martinez,sandraschultz@davis-holt.com,Venezuela,001-591-656-6863,3.08,2023-08-16,Yes
+5719d3e4-16d1-4768-9c83-90ba1672380e,"Vargas, Lopez and Mcmahon",Bethany Edwards,aray@brown-nichols.biz,Jamaica,652-589-9316x08752,4.55,2024-05-23,No
+488c6ea4-99f9-4338-a5bd-ab1474ae4b96,Burgess Ltd,Francisco Shaw,hillmelanie@mendoza.biz,Bahamas,823-930-2764x20865,2.17,2025-05-16,Yes
+126301a0-641c-4619-a430-58d9c1f98e90,"Acosta, Campbell and Leblanc",Kimberly Davis,karen90@torres.info,Qatar,442.233.3059x1266,2.04,2023-08-02,No
+f1efa963-2dfc-4b9c-b94f-ebeff96277e5,Wilson PLC,Leslie Booker,hsanchez@sanders.org,Zimbabwe,(361)376-4750,2.84,2023-07-23,Yes
+e8920b25-ab35-475a-a433-66c97d3d6b72,"Walker, Matthews and Archer",Michael Davis,patrickcooke@hamilton.com,Rwanda,+1-326-306-8887,2.81,2024-11-24,No
+e5c943b1-a898-4ac4-b736-df7e351c586a,White PLC,Abigail West,david29@delgado.net,Equatorial Guinea,001-601-918-4582x60340,2.23,2023-09-03,No
+85cd74bf-501c-43a3-b1f2-2be57d8da92b,Obrien-Dixon,Mary Williams,lopezkevin@bernard.net,Cuba,001-654-829-6184,1.34,2024-09-09,No
+15502390-74c0-4b3e-a66a-4a8229cf4c70,Rhodes-Bentley,Dalton Soto,wanda35@sandoval.biz,Swaziland,(356)360-9314,3.45,2024-10-04,Yes
+a3e2ac17-5450-461f-90e2-b6766822d128,Cox LLC,Brianna Yates,alejandro63@lynn-patton.com,China,449.771.8594x84910,4.28,2025-04-14,No
+ce5b961f-585d-4011-ae40-8d5763ba6c3d,"Byrd, Kramer and Arnold",Jennifer Vargas,albert82@martinez.com,Uruguay,001-853-596-7275x7844,3.8,2024-01-02,No
+4e3fd50b-f28c-435f-9641-d960dba0bdec,Townsend-Bruce,Angela Allen,martinbrian@mitchell.com,Yemen,(782)577-8816x09306,1.75,2025-05-19,Yes
+d2c7f176-eba3-42b1-b36c-1c45a942b4d7,"Sutton, Williams and West",Timothy Gallagher,gregoryrichardson@palmer.biz,Lithuania,(525)215-3814x4744,4.79,2024-11-13,No
+ec4d6c00-37ab-4af8-a4c4-6086919fa02e,Hickman-Haley,Stephanie Walls,abrown@stevens.com,Tuvalu,001-826-350-1673x1882,4.15,2025-03-21,Yes
+a819213d-c4fa-44a4-a7d7-64ce01c4e229,Perez-Foster,Jeffrey White,daniel77@taylor.biz,Albania,(531)934-0266x502,3.11,2025-04-24,Yes
+6bcce72a-1e69-4c3f-840b-71a6fba13732,Pierce-Marsh,Erika Duran,vshaw@anderson-rosario.com,Brunei Darussalam,(258)803-0569,2.91,2024-05-09,Yes
+c2ca55ed-1526-4fef-bc65-dbfb483fca72,Wright-Hernandez,Danielle Wang,virginia36@wells.net,New Zealand,(639)523-1260,1.59,2025-04-02,No
+331bd602-9dd0-4e04-8485-742a6d22313c,Lin Group,Eric Schultz,jeffreysimmons@hicks.com,Gabon,445-245-6350,1.37,2023-05-24,No
+36442939-5256-4928-bea8-3e9fa911fd6d,Kennedy-Kerr,Cody Vaughan,matthew11@smith.com,Guyana,001-459-389-5343x9611,2.28,2023-06-22,No
+a783d1c8-e250-491a-a984-6baaf7e47c8c,Lee Group,Angela Payne,kevin73@le.net,Rwanda,285-457-1617x688,4.98,2024-08-03,No
+4a26eb59-2101-4598-b7ad-3965b25b56dc,Sosa Inc,Melissa Yang,isimpson@mata.biz,Monaco,001-966-694-3202x93908,1.48,2023-12-31,No
+44bd604f-b550-4e2b-8bde-7d883867f62d,"Wilson, Walker and Ferguson",Mark Mcmahon,sara40@whitney.com,Afghanistan,+1-259-255-1842x6945,4.32,2025-01-15,Yes
+4799c04b-f719-45ae-bb00-84fa3822b51b,Scott Inc,Veronica Osborne,sharphailey@scott.com,Svalbard & Jan Mayen Islands,435.943.9627x365,3.23,2023-07-31,No
+d0cb079f-2f5d-4f13-b59a-97252e77abe3,Lopez Group,Catherine Campbell,frank26@franklin.com,Korea,+1-261-482-0916x6010,2.15,2023-11-21,No
+f047fbeb-2483-4458-8485-229515668483,"Greene, Sparks and Smith",Kimberly Meyers,harristimothy@stafford.info,Cape Verde,608.348.1001,1.77,2024-05-31,Yes
+004f5362-244f-4ce3-aa50-18b5d623c671,Johnson Group,Harry Mitchell,tmcdaniel@vasquez.com,Bosnia and Herzegovina,751-495-1510x9226,4.98,2024-10-01,Yes
+afe9c3dc-aad2-4db6-a4a3-5a102674d1ff,Weber-Mitchell,Denise Porter,sarah10@strickland.com,Cameroon,(877)711-9642x1522,2.09,2024-01-12,No
+f90c9f84-b184-471c-bb35-b9f96c80423a,Guzman-Fields,Tony Dorsey,fbarnes@ferguson.biz,Belize,001-568-293-1350,4.36,2024-02-12,No
+ebc05f02-2233-412a-b526-4ea279533cb7,Brown LLC,Samuel Osborne,kenneththomas@bonilla.com,Azerbaijan,001-421-226-0650x1917,3.7,2023-09-08,No
+13ba8d24-3ebb-427c-9438-e799242ac30f,Carroll Group,Clarence Manning,theodore57@dominguez.com,Netherlands,001-828-420-6678x49843,4.62,2023-12-08,No
+fa59607b-60a7-4a57-8581-17a1178926f3,Paul Group,Colleen White,velasqueztaylor@delgado-sullivan.biz,Chad,7562341115,4.78,2023-11-15,No
+10b8c1c5-1b41-42aa-8aa4-31e929aaaa7e,Harper LLC,Dakota Hickman,josephdavila@williams.com,Germany,840-754-6835,3.63,2025-05-04,No
+54d144d5-18ed-4297-acb8-3fceb3e1511b,Mosley-Gordon,Patricia Johnson,cwoods@martin-fleming.com,Turks and Caicos Islands,+1-713-632-2889x8572,4.53,2024-02-11,No
+0a3e4918-6e4f-4ea3-b0ad-16f7db1fb4d4,"Schroeder, Hughes and Clark",Angela Hernandez,adavis@miranda.net,Trinidad and Tobago,671-775-2421,3.06,2024-02-06,No
+c59de4aa-b5ed-4ce8-addf-26751235d52e,Scott-Kennedy,Shawn Santos,shelbybonilla@williams-trevino.biz,Ireland,+1-627-258-9551x687,2.99,2024-08-19,No
+ca6425fc-bdb4-4711-8e9b-65bba4d47431,Lyons PLC,Samuel Roberts,ashleynash@price.com,Guernsey,778.371.1216x636,4.74,2024-01-10,Yes
+366f4268-7c7d-4490-9ab7-f449ff169376,"Figueroa, Wilson and Gibson",Tiffany Thomas,lukejohnson@schroeder.biz,Lebanon,403.306.4421,3.06,2023-12-10,Yes
+b6532dba-dfaf-46cf-8c5f-ccfb14eae37c,Savage-Warren,Debbie Rivas,jacobsonroy@martin-bailey.biz,Liberia,482.765.9608x9319,2.26,2024-09-20,Yes
+be2a85c6-bbfe-4b11-b060-46a1d2d12566,"Quinn, Smith and Mosley",Kathryn Stewart,ubaker@mcneil.info,Northern Mariana Islands,001-810-533-6829,3.24,2024-02-02,Yes
+adfc1dc4-f8c4-4f7a-b0ef-cbd3f3cef8b7,"Friedman, Wood and Cox",Eric Fuentes,lyonsdeborah@gutierrez-bell.net,Japan,651.827.6528x92866,3.2,2024-08-29,No
+ecd5afa3-f01a-4097-9ed0-fe5fb3bc5791,Cowan Inc,Alan Randolph,crawfordkaren@garcia.com,Papua New Guinea,863-837-8613x7157,2.63,2023-05-29,No
+81ef8162-3953-48bb-883e-00325fe8a7f4,Adams-Hopkins,Steven Blankenship,adamstout@smith.com,Tajikistan,895.452.9638x63960,4.39,2025-04-09,No
+2c78bc22-ba65-483d-ba33-fa9863f20557,Strong-Holmes,Brett Owen,welchkristen@rangel.com,Costa Rica,310-860-9209,2.44,2023-06-11,No
+742617e7-fbc1-485b-a16b-9833bbf282a9,"Welch, Howard and Allen",Elizabeth Nichols,jessicaroman@townsend-hopkins.com,Belize,(409)611-7911,4.07,2023-12-01,Yes
+7e86d7f8-13cf-44fe-97c0-3e282e3d9de2,Durham-Clark,Robert Gutierrez,echung@mcdaniel.com,North Macedonia,922.240.2990x155,2.89,2023-09-16,No
+1f20c257-ed34-4e32-8126-fa8fbddfd7eb,Obrien PLC,Jorge Hernandez,danny30@taylor-miller.com,Ethiopia,573-615-8477x686,1.37,2023-09-27,No
+b7a745e2-e327-419f-9895-cceaafe2ff5c,Hayden-Garcia,Laurie Martin,stephaniefreeman@henderson-burgess.com,Nigeria,996-463-9551,4.19,2025-03-04,No
+963d101f-40c8-47a3-82e8-47aef545dfb3,Carter-Serrano,Traci Bell,wilsonlisa@gibbs-howard.com,Cuba,+1-555-325-1050x53795,4.27,2024-02-29,Yes
+37abaed7-86fa-4a83-b651-1c939a0fb0b8,Hoffman Ltd,Sophia Heath,berrydebbie@avila.com,Australia,570.246.1172x9596,4.65,2023-12-18,No
+9364ecb5-db29-420a-8886-b7c6a4c755b0,Buck LLC,Walter Johnson,rogersallen@davis-lang.com,Falkland Islands (Malvinas),756-318-5790x64771,2.35,2023-06-14,Yes
+23841977-02a9-4064-9351-1e950c3edd5c,Holder Ltd,Courtney Miller,lisa80@parrish.com,Australia,714-459-6422x9712,2.08,2024-11-24,Yes
+e53dfc49-f741-4b94-99a3-ac28e346c1b7,Walsh-Barnett,Cynthia Woods,ubray@webb.com,Guinea,+1-533-911-7030,2.6,2025-01-11,Yes
+5727bd83-1ac2-499a-bcd6-572f301b5b4e,Cervantes PLC,Emily Blackburn,grios@sloan.com,Hungary,398.436.3146x249,4.93,2024-04-24,Yes
+3d958061-1c36-436f-beba-06191b6fb706,Shannon and Sons,John Schmidt,joseph81@reynolds-hernandez.net,Jersey,450.674.5106x63436,1.6,2024-06-14,Yes
+1bf384ef-6efe-4368-84c4-2de17e5da21a,"Williams, Wright and Rodriguez",Steven Johnston,camerongarcia@andrade.biz,India,(313)447-3235x4940,1.36,2024-05-25,No
+bd350d2a-7a0c-456d-9f43-25f4b3521505,Phelps-Watts,Michael Jackson,rachel20@wells.com,Turkmenistan,520-995-7907,1.59,2023-08-11,Yes
+ae1782f6-9138-4474-8473-b982d1a529db,Conley-Fox,Charles Davis,linda57@navarro-fritz.com,Panama,245.470.5458x9714,3.62,2025-05-08,Yes
+fe7c7d6e-a8cc-4515-b862-abcfdb3437bb,Howard Inc,Patrick Mcpherson,jamie13@fowler-sheppard.net,United Arab Emirates,282.745.5696x443,1.37,2025-01-22,No
+747cb18f-cb9a-4fff-aef7-35aa1f7a63af,"Donaldson, Sparks and Roberts",Kathryn Jennings,hbecker@hanson-beck.com,Libyan Arab Jamahiriya,214-807-0349x1074,1.6,2024-02-05,No
+405df186-0cc6-4163-802a-0e3dd5883c8f,Bell LLC,Kathryn Mullen,stephaniereeves@ferrell.biz,Myanmar,843-307-5366,3.55,2025-03-06,No
+4f8c61b9-98d7-48d9-8d51-5b58eb91d7bc,Elliott Ltd,Regina Taylor,johnbutler@turner.com,Montenegro,+1-978-726-6128x7585,1.15,2024-03-31,Yes
+7616b503-6906-4588-b621-62ab6ba64252,Gaines Inc,Jennifer Campos,kristin98@martinez-daniels.org,Turkey,306-726-0787x0104,2.37,2024-07-31,Yes
+7b417aed-90c0-4607-8a63-3fc3d26aab27,"Rivera, Brown and Yang",Nancy Brown,zacharyhart@taylor-jacobson.com,Gabon,+1-340-579-3110x2918,4.22,2023-10-20,Yes
+817c6779-d52d-4f91-864f-e16479472ea4,Myers-Howe,John White,meaganpayne@maldonado.biz,Cameroon,+1-302-923-2883x7744,2.54,2024-02-16,No
+b2995e18-62c5-46ab-a424-fa05467248f6,Marshall Group,Drew Wilson,tsmith@brewer.org,Kenya,5527774025,2.95,2025-03-13,No
+10116af4-8356-4d61-a3ff-f4b5866a0c09,Rios LLC,Kristine Stevens,joshuafarmer@mclean-jones.info,Honduras,892.398.8425x9959,3.7,2023-06-25,No
+3b50f94f-28bf-4fdd-bb9d-dc31da1eb729,Ortega Group,Karen Wolf,danielgilmore@stafford.com,Bahamas,+1-941-801-7590x251,2.59,2023-08-29,No
+3321cbb0-8e74-439c-92e3-3940a32c5e99,King Group,Courtney Harmon,zcervantes@miller.com,Costa Rica,4209569815,3.93,2023-10-09,Yes
+79468eae-d3dc-40ee-9203-c5d2351d1137,"Bell, Montgomery and Hansen",Austin Patterson,ksawyer@martinez.com,Bolivia,673-609-8503,3.86,2024-03-04,Yes
+df18e065-df58-44d5-9165-5b1e5b9facde,Donaldson Inc,Dana Holmes,reginald08@snow.com,Palau,5057643502,3.88,2025-03-29,No
+0ff4c2d6-e0d6-4081-a98d-c5f7a9d06567,Snyder PLC,Michele Cannon,reedchad@george-salazar.com,Tuvalu,+1-572-740-1078,3.69,2024-04-03,No
+e05f039c-d98e-4024-8813-20254dacd33c,Smith Inc,Richard Gonzalez,vfleming@tran.biz,Seychelles,(726)868-2171x9553,3.91,2025-03-25,Yes
+96afa28a-178c-45a0-bb66-8afa3cf8b913,Perez Ltd,Rhonda Herrera,ritteralexis@wright.info,Cocos (Keeling) Islands,305-659-3429x6711,4.26,2025-04-08,No
+bc3749b1-b48b-4a8c-beb3-aefc34b34dcb,Hurst-Trevino,Eric Richardson,misty38@flores-weaver.com,Austria,(569)374-1328x348,1.0,2024-02-20,No
+092e9fab-2457-4251-89b6-7093d0fe42af,Hale Ltd,Tiffany Smith,nelsonbrianna@wilcox-miller.com,Timor-Leste,+1-867-206-6703x362,1.88,2024-09-17,No
+5909b7d6-c353-49e4-8aa2-f7560803ad31,Kent LLC,Susan Patrick,katherinepeterson@hamilton.com,Sri Lanka,686-448-7699,4.22,2025-04-24,Yes
+ecb697a2-fe1b-43e9-bee1-dc6577a319c6,Anderson Inc,Michael Hill,kelseyphillips@foster.com,Slovenia,+1-290-914-9542x7707,2.03,2023-06-20,Yes
+d825b478-a343-41bf-baee-e7df5bd55037,"Robinson, Brown and Mcmillan",Leonard Edwards,alexanderjonathan@green-simpson.com,Norfolk Island,(929)703-1028,4.61,2023-06-23,Yes
+f3a2dc1d-0f91-4e97-ba5b-171cb7a4c108,"Braun, Hester and Smith",Sarah Fernandez,burkemichael@hunter.net,Belarus,435.295.6164,1.71,2024-01-17,No
+f9a013be-55c1-40d9-9c3b-c3e5c9c52567,Merritt-Brooks,Elizabeth Johnson,bradley29@rodriguez.com,Malawi,001-589-853-6902x611,1.24,2024-06-20,No
+871b0b1f-e0e4-4a11-98fb-fda51f09bd6b,Lawson Ltd,Jessica Adams,rhonda53@hall-edwards.com,Puerto Rico,776.951.5881,2.51,2024-08-08,Yes
+3ad1c48f-6b39-44dc-894b-3a6f72ef917e,"Carey, Hatfield and Frost",Terry Craig,catherineflynn@edwards-miller.biz,Madagascar,(897)632-7021,2.86,2024-12-03,No
+be2badee-7848-4332-ae1c-aec8b61d1f43,Martinez Inc,Allison Jackson,andersonmichelle@strong-gomez.biz,Qatar,+1-334-215-5999,2.13,2023-07-16,Yes
+72eace11-f32d-4530-9ade-80d4ebb48c9e,Mccoy-Yang,Peter Graves,jenniferlawrence@miller.com,Peru,+1-776-257-2894x1347,2.6,2024-07-09,Yes
+821b390c-946f-4f07-8673-173ae5b58f30,Mitchell-Cruz,Tiffany Williams,russellramirez@edwards.com,Falkland Islands (Malvinas),473.224.4913x4213,3.08,2024-08-03,Yes
+8a32484a-e401-461a-b5b9-2b3c0a2cbb1b,"Lloyd, Smith and Wall",Dale Mcmahon,hdennis@guerra.com,Saint Barthelemy,001-517-367-4124x151,2.25,2024-01-18,No
+7416386b-46af-440d-95d8-a81a81ceb20e,"Moss, Powers and Jones",Stephanie Johnson,randolphlaura@lee-grant.com,Yemen,+1-903-629-6334x7272,4.02,2023-08-28,Yes
+f369c683-16b5-4f7a-a038-9eb7a2807710,"Vincent, Curry and Smith",Justin Clark,benjaminwatts@james.info,Marshall Islands,+1-524-334-7769x58741,1.01,2025-04-26,Yes
+498a9d9d-c391-49b8-8145-217fe595e3fa,Montes-Nguyen,Audrey Marshall,donna56@anderson.info,Netherlands Antilles,(830)944-8360x85456,3.14,2024-03-29,No
+44b0703f-0dfc-43c1-a990-ff4942bd31c4,Chandler-Morgan,Elizabeth Ortiz,amandachan@gould.org,Greenland,(398)200-6155,1.5,2024-06-06,No
+fc37337a-32cc-439d-8914-bc965cb27033,Massey Group,Crystal Solis,martin38@wright.net,Bosnia and Herzegovina,867.402.4403x30416,2.21,2025-01-11,No
+15bd18ba-dcaa-46a5-851e-a1dbe06a46b2,Jones Ltd,Morgan Smith,codychapman@lee-obrien.com,Slovenia,868-304-4731x49764,3.72,2023-11-02,No
+7bbccb5d-474f-4205-8f9d-737568054a24,Velez-Ferguson,Alan Crawford,wbean@klein.com,Indonesia,001-537-957-9145x21182,2.11,2024-07-30,No
+9dd23036-6737-4ac9-a42e-3d711579bc24,Mills-Franco,Amy Snyder,vcollins@johnson.org,Netherlands Antilles,(304)338-7875x35778,4.76,2024-03-30,Yes
+c1c353c4-2095-45a4-a02c-f60413d754d6,Martin Ltd,Craig Kane,williamsroger@sims.info,Burundi,001-786-460-4164x4859,4.51,2023-09-04,No
+cd853347-3457-4c7f-af5d-b99c85f3cb12,"Crane, Watson and Munoz",Daniel Rivera,frankespinoza@smith-butler.com,Latvia,304-233-1875,2.0,2024-08-22,No
+59b7463f-1117-4840-a80d-4e22982e2afd,"Hansen, Perez and Fuller",Denise Hoover,tsilva@weber-powell.com,Monaco,+1-631-392-1342,3.12,2023-08-24,Yes
+c41c233d-a513-464e-965a-693e85b69e95,Rivera-Ingram,Destiny Aguirre,aclark@hays.org,Cameroon,(927)805-1028,4.77,2024-09-20,No
+c28fd8cb-8018-4536-8d74-764953bc20e0,Allen Group,James Wells,mary58@ware.com,Yemen,+1-242-768-7741x8652,2.52,2025-02-07,Yes
+ba7e6b51-5892-471a-ab87-aea4c54f87ad,Lewis-Castro,Dr. Janet White PhD,gonzalezmichael@smith.com,Bhutan,(648)209-4047x604,2.12,2025-05-02,No
+b7d0c829-dcf9-4680-87ca-07d8d2c57940,Osborn-Chen,John Golden DDS,johnsonanthony@hernandez.com,Belize,(410)770-5184x39055,3.98,2024-06-04,No
+6a97cbce-6736-49ef-aa1c-5dcaf0c7915e,"Caldwell, Brown and Bryan",Monica Miller,mwilliams@barker.com,North Macedonia,001-304-348-5157x9197,3.32,2025-03-25,No
+2f875748-161f-47a1-bac3-d0572eb86221,Garza-Sheppard,Rachel Robinson,steven34@may.com,Georgia,5645242956,1.37,2023-12-09,No
+4b80afa6-fab1-4a12-ad57-37a0330062f1,Wolfe-Baker,Kenneth Bailey DDS,rgallegos@johnson.biz,Cape Verde,+1-693-365-4358,2.32,2024-06-02,No
+77ba69f1-37df-4dfb-821a-4d9635f1e04b,Johnson-Wilson,Charlotte Taylor,nathan69@morris.com,Trinidad and Tobago,6264755125,2.78,2024-04-29,No
+7062dff6-0591-47e1-8086-08612fa83aa4,"Bryant, Johnston and Graham",Roy King,carolyn76@williams-hickman.com,Serbia,516.464.9690x28249,4.21,2023-08-26,Yes
+0dc5d7d9-f5bc-40c0-89df-af7c55492107,Parker and Sons,Judy Martin,hopkinsjames@turner.com,Dominica,461.732.8507,2.25,2023-08-05,No
+b2e33ad9-64e0-4880-afd1-3c738cc19913,Durham Ltd,John Sanchez,hugheslucas@ross.com,Svalbard & Jan Mayen Islands,+1-769-768-1579x03923,3.98,2024-01-27,No
+996337aa-9c4e-4662-8068-4d9cd2bfbc31,Melendez-Brewer,Cole Clark,ydavis@white.info,Antigua and Barbuda,262-426-8171x516,4.92,2024-01-12,Yes
+afb144b5-624d-4ff7-81c8-d068931e5f89,Smith-Valdez,Jenny Brown,ogreen@munoz.net,Holy See (Vatican City State),001-675-585-1268x61205,3.13,2024-06-03,Yes
+747a2ecd-df48-46fa-ba45-e0ff9d5130ae,Williams-Campbell,John Richardson,johnny54@daniels.com,Guinea-Bissau,(307)354-0915x08632,1.19,2023-08-24,No
+6e5c9ae7-7e52-422c-a207-0bf3250768f2,Reed-Ellis,Tamara Berger,uwilliams@johnson-lynch.com,Hong Kong,615.646.6024x16139,3.84,2024-08-15,Yes
+3e668eb8-cb31-4618-9aaf-b63a8a063bf5,"Lindsey, Brooks and Kennedy",Jessica Burgess,joshuapowers@ross.com,Ireland,306.524.4795,2.48,2023-11-04,Yes
+10501d65-3897-4d15-9319-9080b58194e0,"Roberts, Joseph and Wilcox",Madison Murphy,jalvarez@cooper.com,Swaziland,327.973.8264x609,1.49,2024-07-07,No
+bf7da45e-3522-4344-9545-847858658721,"Wood, Carter and Stewart",Alyssa Weber,claudiacunningham@forbes-johnson.com,Moldova,001-373-668-2691x1633,3.23,2023-10-01,Yes
+fc00814b-c70b-4b6e-8451-e56228bbecfb,"Werner, Pierce and Bell",Steven Ramirez,crystal58@patel.info,France,822.864.0857x216,3.98,2024-03-18,Yes
+3964afe6-9e6e-47d7-876f-3b07a2ec377a,Lynch PLC,Ms. Monique Dougherty MD,garrettgarrett@davis.biz,Micronesia,532.975.3273x52410,3.89,2024-04-23,No
+fd5dda42-7193-4177-9a6e-868daf051197,Robles Group,Ashley Munoz,monica23@bowen-jones.com,Pitcairn Islands,+1-968-276-1648x19807,1.07,2023-12-24,Yes
+b9a3773d-d283-4904-940b-f9dc65fd5412,Cox Ltd,Lori Alexander,garciamelanie@molina.biz,Palestinian Territory,623-973-4151x77345,3.57,2024-01-20,No
+91779972-4207-491e-b316-7953734bda19,Wheeler-Juarez,Dylan Walker,anna44@moore.info,Peru,422-229-4643x0394,2.71,2023-11-29,No
+dec78f9e-bed6-4914-8233-0e6eb89c96e9,"Sullivan, Montgomery and Jackson",Christopher Farrell,alexandra67@jackson.biz,American Samoa,+1-915-234-3324x91357,3.96,2025-01-27,No
+c9a5c042-c878-4b08-91a3-3332d882ce3c,"Villanueva, Figueroa and Cox",Mark Crane,nelsonsuzanne@medina.info,Montenegro,333.542.3372x09484,3.22,2024-11-10,No
+e733c344-e7f8-4aa8-904c-9b6eeadf1b58,Mills Inc,David Gill,imarshall@flores.com,Congo,217.817.3189x3974,2.16,2025-02-11,Yes
+7150f94f-e2f2-4f57-b850-b4401c8cd498,"Lee, Shaffer and Mendez",Aaron Webster,travis25@webb.com,Trinidad and Tobago,+1-435-948-8471,5.0,2023-05-28,Yes
+78731a4e-8271-4bba-b96f-4a1be4b3b66b,Martin-Jones,Eric Schaefer,rpeterson@carson.com,Croatia,484-558-7149x3925,3.3,2024-12-04,No
+286ef693-da34-4653-abf9-98adc92aeb0c,"Bates, Nguyen and Black",Kurt Butler,jeremy47@wood-torres.com,Switzerland,001-457-946-9660x6065,4.7,2024-12-04,Yes
+33c43cd1-b44f-4e12-918b-621e04fc9dd0,Bates LLC,James Morris,jnguyen@gonzalez.com,Botswana,932-557-9706,4.29,2023-12-14,No
+0f2f633b-6001-4e38-960b-97469b510232,Brown LLC,Jacob Mclean,ruiznicole@nguyen.biz,Sweden,(529)749-3817,2.04,2024-07-15,No
+8e82373e-42be-4d36-a923-0810c34604f9,"Roth, Norris and Taylor",Shelby Lyons,susan57@wilkerson.info,Guyana,234-749-0216x66708,2.5,2023-06-04,No
+f5b4aee1-0836-4865-bee3-36076feccac2,"Marks, Murphy and Ryan",Gene Jones,cunninghamterri@schmidt.com,Montserrat,793.916.4772x512,2.25,2024-06-12,Yes
+f2d1235d-d1f9-4f96-bd4d-28c8b14d53b0,Preston-Morales,Marcus Price,perezronald@foley-silva.com,Martinique,239.259.2323x421,1.11,2024-12-13,No
+11bb797a-f464-431f-9938-949e8a426ff0,Harrell-Hebert,Christina Martin,jesse35@taylor.com,Syrian Arab Republic,(307)336-0776x3369,4.68,2025-05-01,No
+b97a08ba-940b-434d-a9cc-edab81b74f35,"Martinez, Sherman and Martinez",Larry Brady MD,jasondavis@ward.info,Andorra,8666615541,2.14,2023-11-07,Yes
+a4c1c966-a682-40fb-959e-9c9fb382c1ae,Liu-Smith,Monica Merritt,taylorjohn@smith.info,Serbia,8094345962,3.72,2023-09-28,No
+bdf18708-26c0-4f52-b71d-e9c584c2f2c4,"White, Koch and Rodriguez",Jonathan Torres,regina49@johnson-johnson.com,Tuvalu,702.560.8698x2210,3.21,2023-07-30,No
+f7feb735-1cc6-40a0-90fa-b909fcfa1e61,Marshall-Perry,Jessica Vincent,collinsterrance@anderson-douglas.com,Zimbabwe,+1-317-379-3238x223,2.51,2024-10-29,No
+1af03c73-9d71-4800-a30d-0d834844cc49,Perez and Sons,Elizabeth Page,hbarnett@ray.com,Greece,(852)790-6032x02032,4.1,2023-06-01,No
+5809f249-db90-4232-bbdd-41b37b142917,Fuller PLC,Willie Chavez,amy14@mack.com,Equatorial Guinea,378-571-5841x56082,4.17,2025-05-05,Yes
+8ceb424f-1eca-45b3-9c73-78e6d47ffd35,"Phillips, Marks and Parker",William Miller,raymondpugh@lee.com,Congo,001-458-792-9880x8583,3.32,2023-09-17,Yes
+a2624fd2-a289-499e-aa67-16d4ae2e7dd2,"Perez, Arias and Moran",Tina Coleman,joshuahaley@phillips-santana.biz,Uganda,375.224.0148x4399,3.22,2024-11-26,No
+d28b829a-7b1e-4e13-a4cf-862923eaea4f,Duran and Sons,Christopher Barnes,johnbell@richmond.com,Uganda,(319)923-7245x0184,4.37,2023-11-09,No
+1ff71e8c-d27e-4846-8c7f-9cd6703297d2,"Paul, Gibson and Jones",Susan Peterson,stefanie06@rodriguez-owens.org,Chile,001-874-838-1199x537,3.73,2023-07-04,Yes
+47bb6bb0-c51b-4775-9d7b-99a61aedbcfd,"Oconnor, Conway and Bowman",Michael King,christopher17@willis.org,Jordan,+1-341-378-9969x86091,2.98,2023-08-17,No
+9482e11e-5c56-43aa-bd15-d3eec39783ae,"Fletcher, Munoz and Ochoa",Amanda Holland,kphelps@johnson.biz,Paraguay,2399205146,1.81,2025-02-02,No
+aed9dac5-d180-47f4-9bcc-7bfb40e64eed,Gomez-Sheppard,Richard Nguyen,kayla23@townsend.biz,Sao Tome and Principe,(327)815-5983x541,3.83,2024-01-07,No
+c1ae35bb-2faa-49dd-a3b4-a2407f480536,Harris-Chase,Mr. Jeffrey Ward,susanmorris@lopez.net,Reunion,+1-884-688-2691x3119,4.34,2023-09-07,Yes
+6591d99b-5a92-4d27-8867-66415714fc0b,Morse Inc,Nancy Walter,christina15@ramos.com,Mexico,(540)473-3337,4.98,2023-06-02,Yes
+db872c8f-0551-4102-b6ef-66e43e61d359,"Webb, Gonzales and Hawkins",Mrs. Charlotte Stone MD,tfrancis@lara-baker.com,Haiti,458.351.2538,3.34,2025-05-10,Yes
+b556aeac-81e8-4e90-bc4a-013fc8c28cfe,Nichols-Garcia,Crystal Bailey,stevenandrews@stevens.info,Nauru,(612)608-7805x72151,2.37,2025-04-15,Yes
+99056421-b6af-49df-870f-48c2ba4e832f,Jordan-Duran,James Stanley,amanda45@hudson.biz,Cambodia,001-889-450-9059x11918,1.75,2024-11-09,Yes
+c61371c1-99fd-42a4-bad2-fd693fb15376,Houston Inc,Kathleen Wilson,davisrichard@rush.info,Burundi,521-745-2647x12463,3.92,2025-05-13,No
+73a469a5-56f7-46bb-94e1-aabda20cc4ba,Warren Inc,Amy Hawkins,cody08@smith.com,Antarctica (the territory South of 60 deg S),001-595-712-3972,1.44,2023-08-02,No
+99872384-2798-479b-a9a1-1cc0aee4f488,Berry-Vance,Sheryl Thompson,lisawallace@williams.com,Sri Lanka,741-952-9821x7392,3.07,2025-04-01,Yes
+c8b8547b-638b-46ac-94ee-e3138c487218,Raymond-Barnett,David Thomas,zlopez@howard.org,Bolivia,915.589.9886x83452,4.62,2023-12-24,No
+6f654201-677c-45b0-ad23-4155a057c558,Miller-Johnson,Justin Lynch,tyler40@guerra.org,San Marino,001-882-550-8004,4.51,2024-02-05,Yes
+d34d09ae-d2e1-46a4-8d6c-659989aae145,"Russo, Rodgers and Warren",Jacob Lyons,coreydodson@joseph.com,Lithuania,299.500.6314,3.77,2024-09-17,Yes
+fc01c46c-54ac-43ce-94d0-5762ea4d7ed8,Benitez and Sons,Ryan Williams,carolhowell@macias-henderson.org,Russian Federation,+1-243-846-0666x4374,3.38,2023-06-23,Yes
+a9b7f1f5-20fe-41f3-b2fa-10f7c46268d6,"Walker, Walsh and Wilson",Katherine White,gary46@herrera-mitchell.org,Eritrea,216-931-8732,2.9,2024-05-08,Yes
+d545b254-09bc-4a80-ba88-7bed1c852510,Lopez-Farmer,Dana Gilbert,crodgers@hammond.com,Seychelles,750.990.2542,2.63,2023-10-17,No
+6149ee42-642d-43af-8e72-1365a4e60afd,Arroyo PLC,Clinton Lee,cjohnson@bridges.net,France,+1-222-485-0116,1.76,2024-11-03,No
+24bb8796-09d6-4cdc-9ed0-b58c52581086,Sutton Inc,Justin Cervantes,vincentkathleen@elliott.com,Pakistan,996.449.6737x9457,4.8,2024-04-20,No
+24f7e239-394d-4156-9c31-d125e123433f,Walsh-Thompson,Yvonne Macias,jody64@williams.net,Timor-Leste,962.953.6667,1.06,2025-04-19,No
+537574b0-567a-45f8-9d12-490e76a90f78,"Ross, Cummings and Harris",Connor Lee,rachel86@schneider-lewis.com,Latvia,787-449-6033,3.01,2024-09-17,Yes
+2e292386-6e89-4265-847a-efa5efe739dd,Johnson-Clark,Carrie Terrell,danielleandrews@hernandez.info,Ecuador,001-227-759-9801x1100,1.82,2025-02-05,No
+5b5073c7-e6dc-4c76-ae7a-e3bb50340715,Manning and Sons,Austin Hanson,brandy77@padilla-roberts.com,Spain,+1-422-926-1896,1.9,2024-10-16,Yes
+e755b655-d916-4e44-b0a1-762147fefddb,Cherry Ltd,Susan Davis,taylorparker@woods-wang.org,Portugal,(779)392-7079x551,1.16,2023-09-30,Yes
+64c40063-ad68-43c6-8cd3-a6a49fc08086,Rodriguez Ltd,Mark Carter,gomeztonya@smith-vance.biz,Chile,(643)684-8075x203,3.25,2024-04-16,Yes
+45d89da6-0a5b-4eb2-9667-91896ed5ca30,"Carney, Douglas and Hopkins",Andre Wiggins,navarroandrew@gonzalez-harrison.biz,Argentina,001-546-955-8665x254,4.18,2023-12-15,No
+eb34e953-732a-44e8-a9d1-c99415538cc9,"Miller, Wade and Flores",Ashley Cochran,sanchezgregory@moore.com,Tonga,700-359-1297,3.62,2024-08-13,Yes
+3313d402-2382-4280-b443-04e90e60ec16,"House, Lopez and Higgins",Jeffrey Jennings,brendanmiller@garrett-lee.com,Russian Federation,592.674.9072x8012,4.07,2023-09-06,No
+3078f3d0-f904-4be7-934f-a5c88ac068d3,"Martinez, Gill and Lopez",Nicole Perez,lreid@guzman-hunter.com,Cuba,(245)838-0442x10175,3.47,2023-07-21,No
+722899a2-b752-4753-a60d-400fc3b1ef08,Rowland Ltd,Kevin Hendricks,helen91@baker.info,Heard Island and McDonald Islands,947.758.3392x0567,1.69,2025-03-29,Yes
+673ad8cb-f8e7-458b-b1f9-7ce9d8b304a4,Melton-Marshall,Oscar Cruz,markskristina@fritz-chen.biz,Haiti,8629292310,1.8,2023-09-10,Yes
+7f5085e7-058c-4d44-b2a0-2b53565a4a42,Moore-Gallegos,Diamond Lee,kreynolds@costa-brown.com,Bangladesh,779-642-3873x67042,4.1,2024-10-05,Yes
+995fa798-1f31-43fa-9c93-92456dd2c683,Moreno LLC,Renee Shields,annette71@west.com,Cote d'Ivoire,535-574-8595x32593,2.84,2024-05-15,No
+503eeaf2-04f7-4882-a3fb-8c1d7841b3dd,"Gilmore, Cruz and Hernandez",Joseph Ford,carl63@joseph-cox.com,Lebanon,630.755.9782,3.43,2024-05-12,Yes
+894b9f90-e21a-47b9-9ad2-4609506d5518,Holloway Ltd,Thomas Jacobs,jessica38@campbell.com,French Southern Territories,832-440-0615x727,1.7,2024-07-31,No
+efd8dfa9-1b95-4ae5-9068-01b9c22a899a,Bryant-Gonzalez,Dominique Willis,stephanie10@tran-wood.com,Switzerland,001-268-206-5625x9045,1.44,2024-11-02,No
+105a4d40-7f26-42df-a1c2-0510b6b2b13c,Taylor Inc,Teresa Young,teresa51@cooper-jones.biz,Mayotte,4863628137,2.15,2024-12-01,No
+3d407ee0-3a36-426d-82c0-d1c2de60d544,Newman PLC,Marvin Terry,owilliams@dodson.net,Ghana,266-508-4706x81039,1.63,2023-11-07,No
+b3aac060-5971-416a-81d4-bcf67dd0a74b,Perkins LLC,Sandra Sanders,amandaherman@dean.biz,Cayman Islands,694.953.5461,2.16,2023-06-14,Yes
+abfe1fb5-a6c2-4716-b7bd-77509a7650dd,"Carrillo, Harris and Rodriguez",Brian Fitzpatrick,jameshudson@evans.org,Svalbard & Jan Mayen Islands,457-703-9438x0403,2.36,2023-10-21,No
+b84fe81c-6379-4fa5-b84e-203df2612977,Ellis-Myers,Tammie Castillo,laura31@rodriguez.com,Togo,2407476921,4.05,2023-10-28,No
+bde9a6a8-6c54-45bf-b88f-897930d7509d,Jones-Butler,Randy Roach,donald73@calhoun.com,Turkmenistan,920.311.3798x4409,3.68,2024-11-08,No
+65c51c9a-10ae-4dfc-b729-6854273e54e5,"Bennett, Johnson and Reynolds",Christopher Smith,douglassusan@mckinney-higgins.com,Spain,504-233-7009x687,1.63,2023-12-19,Yes
+74cd4a41-5e07-4fb2-9919-be9116a26e58,Stephens-Brooks,Molly Fernandez,jill56@carpenter.info,Guatemala,001-942-978-6561x94255,2.05,2024-11-24,No
+e3c60f79-2a0e-4060-ae2a-9c01dc9eec0b,Cooper Ltd,Glenn Chen,melissaberry@summers.com,Swaziland,(918)380-8190x48235,4.72,2024-01-16,No
+8c6743e1-5f92-49ec-8c02-7d43d622d179,Mills-Weiss,Gregory Russell,perezdawn@flowers.com,Uganda,217.221.4364x38130,3.34,2023-12-26,Yes
+c6ac61e7-d3e1-4d83-af8a-f5db3503ae05,"Jones, King and Tapia",Hunter Powell,matthew53@patterson-lawrence.info,North Macedonia,+1-390-870-7550x476,1.24,2024-10-08,No
+f2f9ade1-59de-4c39-a171-582b9ec78199,"Henry, Johnson and Johnson",Dr. John Stephens,sanchezmaria@nielsen.com,Netherlands,205.948.7396x1029,1.73,2023-07-13,No
+b2772e31-4655-4f9a-b692-f6812e654dcc,"Price, Buckley and Valdez",Kevin Wolfe,cthompson@nash-williams.org,Greenland,(412)513-7730x62604,2.83,2024-01-27,No
+7e4c410b-d875-44bf-9564-d4c1aedb4262,Reeves Ltd,Audrey Martin,joypotts@johnson.biz,Angola,001-385-381-6704x686,4.18,2023-07-26,Yes
+5b8e76fd-aa29-4e4c-b2db-83c8e0b641d0,Morales-Calhoun,Sheri Martinez,christopherlopez@griffin.com,Moldova,671-429-6180x332,1.08,2024-11-19,Yes
+0f5bc40c-5f32-4f6d-82dd-95c264058e04,"French, Rodriguez and Wade",Alexa Beard,luissanchez@solis-lopez.info,Lesotho,931.326.8812x2821,2.71,2024-07-10,No
+69dbb362-c0df-4921-a07f-33853f3fd62f,"Ward, Perez and Baker",Jeffrey Harrell,qjohnson@galvan.com,San Marino,(679)986-2398,2.37,2024-12-09,Yes
+6ad5401e-07e9-4b0b-998d-eba36ec8261b,Hoffman Ltd,Brianna Davidson,joshua47@roman.net,Netherlands,347-987-6989x99275,3.94,2025-05-05,Yes
+a1a131b4-9dca-4488-8459-f41e8861972e,King LLC,Shelly Wheeler,lawrencebullock@knight.com,Congo,786-544-9639x24358,1.31,2024-12-27,Yes
+1e018646-2c64-473d-8526-1ad494ed8114,"Sharp, Carter and Wright",Madeline Rogers,zbrooks@love-randolph.info,Mauritania,924-991-4168x60134,1.31,2025-04-06,No
+46ef7aaa-d237-4d22-9565-bc2f8cf70470,"Bradley, Gonzalez and Williams",William Larson,ukim@taylor.com,Senegal,3018418842,4.76,2023-10-20,No
+0f5449d1-910a-4ebf-a909-3889e42cfe33,Rodriguez PLC,Diane Allen,christineduncan@reilly-gomez.com,Canada,2894532638,1.28,2023-07-29,Yes
+f95db36f-fa8a-47d6-9d37-c5a6bd8e880c,Pacheco-Martinez,Jason Allen,patricialowery@rodriguez-allen.com,Jordan,001-996-973-3116,1.15,2023-09-10,No
+9d741bb0-d9c0-476f-a26c-fccce35bba6d,Johnson-Hubbard,Michael Kim,marc78@hughes.com,Romania,896-626-3355,3.64,2023-11-21,No
+61233eea-3b1b-4755-a600-fd684a69ed38,"Rich, Yu and Parks",Maria Brown,pricemichael@smith-graham.info,United States of America,(516)245-3454x72239,1.65,2025-05-08,Yes
+3a843b35-c2bd-4805-8c48-52175d549496,Mann and Sons,Michael Williams,foxjonathan@carter.com,Trinidad and Tobago,(236)442-8131,2.34,2023-12-20,No
+e5199bd9-6c5b-47b6-b127-f7bd78623252,Young and Sons,Angela Mejia,lisa28@maxwell.com,Saint Kitts and Nevis,(228)223-0524,4.96,2024-03-06,Yes
+27e9add3-7814-4492-8c60-4d992ac09858,Allen PLC,Laura Ramirez,spencermckinney@wright.com,Honduras,(804)978-7688,4.9,2025-04-26,Yes
+c950824d-5a9b-441d-8508-2f78f17b25ef,"Ray, Monroe and Sullivan",Timothy Jackson,cmartinez@jones.com,Brazil,+1-866-464-5057x303,2.93,2024-04-16,Yes
+bfcd3af7-c23d-4884-8a5f-ccf297266a28,Banks LLC,Charles Lester,zking@marquez-watson.com,Kyrgyz Republic,(760)932-1450,1.17,2025-03-18,Yes
+6ef22516-df42-4a29-a747-520fe3157b34,George LLC,Kristen Williams,vjones@collins.com,Algeria,728-240-0838,3.24,2024-04-15,Yes
+75d5a115-9ce8-4890-8c6b-3a6e5583b4db,Howell-Mitchell,Jose Martinez,bblake@johnson.org,Madagascar,326-857-4223,4.69,2023-12-11,Yes
+4d8b876a-0b44-46b2-8ab9-694f38617ce9,Mckay and Sons,Cory Lloyd,ronaldcarroll@smith.com,Togo,3479137271,1.27,2025-01-06,No
+fabdc4aa-ba59-46c5-9de6-7f2c57bd9ee6,Jefferson-Sosa,Justin Small,crystal58@contreras.org,Mali,+1-249-633-0674x58476,1.72,2024-12-30,Yes
+25e17dad-d2f6-4f9d-9b43-5fdc41f4d834,"Walker, Logan and Gilmore",Taylor Howe,robert66@rivera.info,Yemen,+1-615-506-6626x70551,2.05,2024-05-13,Yes
+f5517659-ed86-40c9-bdea-9676ff6fb946,Chapman-Sullivan,Donna Bishop,matthewharper@bennett.com,Canada,+1-267-412-0072,2.66,2023-12-23,No
+af878674-adc1-42f7-9de4-70f7d7f4d848,"Howard, Armstrong and Williams",Erin Williams,mcneilchristina@clarke.info,Botswana,694-498-1942x179,2.47,2024-09-05,No
+7f151663-189b-4535-83cf-ed3bb32f7256,"Walker, Campbell and Long",Christopher Kennedy,ghoward@carter-thornton.biz,Italy,345.233.7220,3.12,2024-07-26,No
+ff8bb891-1b90-4e3f-a5ce-5ac51e22c6b2,Martinez-Sharp,Gary Flores,jennifergraham@spears.net,Saint Lucia,001-743-370-5263,1.47,2023-06-28,Yes
+408eff3d-cdba-4621-9a62-a307d753ba99,Lopez-Jimenez,Jennifer Fletcher,shannon56@edwards.com,Albania,(546)917-5202,4.0,2025-04-22,Yes
+2e361846-b885-4367-b3c7-024de84543c7,Johnson-Smith,Grant Mendez,aaron78@clark.net,Falkland Islands (Malvinas),968.299.9360x79848,3.17,2023-12-17,Yes
+a085df47-96dd-4159-a847-31030496122f,Wells Group,Suzanne Lynch,sandradavenport@cole.com,Svalbard & Jan Mayen Islands,594.964.0830,2.93,2023-11-14,Yes
+f5694392-0c3a-4ed8-ae15-2f7100937ba0,Lang LLC,Stephanie Case,shawstephanie@french.info,Mozambique,488.541.3685,2.82,2023-06-03,No
+a5978064-542a-465f-9465-b4666df3be7a,Potts Inc,Timothy Simon,dianepowers@martin-simmons.com,Guyana,244-588-1121,3.53,2023-07-11,No
+f1c1d53b-c229-4415-8b5f-8951c534f723,Sanford-Wilson,Bryan Miranda,edixon@mendez.com,Guinea,(463)484-0911,1.82,2024-01-29,Yes
+88e941fd-b085-4679-90b2-1f9885a7797f,Mendoza Ltd,Gerald Price,ggarcia@lewis-lee.info,Singapore,001-513-278-7655,3.13,2023-06-19,No
+5afce6a6-9229-43f1-80f3-e86630260bb1,Huerta LLC,Jennifer Monroe,michelle12@wheeler.com,Nauru,(777)588-5190,3.84,2024-01-07,No
+09f7e468-4b1f-4028-acf6-c879d27960a4,Brown LLC,Yvette Dominguez,rkidd@atkinson-zavala.net,Haiti,474-346-0045,2.25,2025-02-17,No
+997bd7bb-9a58-431a-8663-686eee70e803,Cox Inc,Patricia Flores,whitejason@hall.com,Tajikistan,001-888-318-9848x41604,4.81,2024-09-15,No
+230b5490-0d53-4045-bdb8-5b9744e05787,Davis PLC,Steven Williams,richard14@garza.com,Belgium,622-591-0732x28360,1.06,2024-05-18,No
+360496b6-6e02-4590-8f32-fb393ce7c807,"Estrada, Lee and Rose",Jared Garza,joseph91@fisher.com,Iraq,001-434-229-2913,4.07,2023-11-08,No
+bb335cf7-0beb-41de-beb0-77223fffbc75,Sutton and Sons,Destiny Rodriguez,pearsonjennifer@smith.com,Cameroon,001-715-556-6847x3236,1.16,2025-02-17,Yes
+3e2613ab-a98c-49cf-b25f-3382dbad54e6,Burns-Hill,Aaron Ford,harringtonmartha@ellis.com,Cambodia,942-560-7819x7543,3.14,2024-10-08,Yes
+f6a878cc-7a11-4f76-96e7-5f73468ebdf8,Nelson-Castillo,Casey Norman,jcruz@may.com,Mali,614-584-6019x134,4.94,2024-11-27,Yes
+db18fefb-8e53-4765-ae6e-5ef6ab1f5666,"Andrews, Middleton and Weeks",Vanessa Smith,murphyhannah@barnes.com,Botswana,001-846-944-9369x9951,1.38,2024-08-22,Yes
+0bb9c606-5320-46af-beb0-b8d1e3e7e32d,Kelly-Blake,Katherine Jordan,norrisdakota@hall.com,Lao People's Democratic Republic,(281)818-7233x35104,2.75,2023-08-19,No
+e3ca0915-96b0-456c-a49c-e87c47c9021f,Orozco-Davis,Lisa Davis,kylie83@alvarez.net,Chad,+1-807-736-5118x93940,1.75,2025-04-06,No
+b2290f1c-8e68-40c1-b3cd-9709c0da1043,Johnson Inc,Ms. Mary Lee,jimwilliams@gonzalez.com,Bulgaria,470-373-9201x3546,1.8,2025-01-22,No
+01f39146-60ca-40ea-b946-5f6628b8bcc2,Brooks PLC,Ryan Fisher,duranjason@perry.com,Reunion,(448)588-9957,2.62,2025-04-20,Yes
+d6315151-9c67-4338-ac11-0a436cc55999,Ramirez-Green,Nicholas Ingram,gonzalezkenneth@marshall.com,United Arab Emirates,2384187692,1.33,2024-06-21,No
+3d9049bb-205d-4635-8c87-858c3b5745df,Romero PLC,Angela Ryan,morganamanda@green-dunn.com,Aruba,(773)923-1829x71681,3.08,2023-09-21,Yes
+56724b4c-d8e3-4b62-be24-fcd446bc55db,Johnson Inc,Patricia Vazquez,millerfrederick@morton.com,Liberia,778-850-9025,2.79,2024-09-26,Yes
+a54680ad-8107-45f3-aa0c-e0e1cb70c67b,Goodwin-Green,Robert Burke,hmitchell@hernandez.net,Nigeria,2562708670,2.01,2023-05-26,Yes
+60bdc662-3ee0-4bb3-a2c3-50af42e397d9,Fields-Davis,Denise Hernandez,phart@hernandez-adams.com,Gibraltar,(805)542-9608x070,2.19,2023-11-15,No
+8eea487f-9d3c-49ca-9b24-7ea29a2363fe,Montgomery-Buchanan,Marcus Fields,davidbrown@hebert.com,Syrian Arab Republic,818.580.4428x77383,2.87,2024-06-13,No
+3e0299f6-448e-4117-a653-4f79106d2d9c,Nunez and Sons,Lisa Phillips,aimeebrewer@cross.com,Turkmenistan,(825)486-3144x17064,4.64,2024-02-07,No
+4a658a7d-c1f5-4014-9fa8-81b0c0133339,Lopez and Sons,Jackie Stephens,kellychung@johnson.biz,Somalia,448-698-8031x538,3.33,2024-01-21,Yes
+9c2f3381-7736-4b28-a25e-75c8f8f431f9,"Brown, Watts and Johnson",Amy Farrell,jamesrobinson@lee-fox.org,Germany,001-316-232-1119x787,2.09,2024-08-09,Yes
+17673700-97e3-4b40-bdb8-7d1532d8aff9,"Shelton, Vasquez and Taylor",Yvonne Williams,ubond@huber.net,Luxembourg,001-256-317-8688x00230,1.63,2024-01-23,No
+20be8394-8cbb-4a01-9cac-fd9f6a3eed4f,"Warren, Smith and Barker",Mark Jimenez,mackenzie91@velez.com,India,(695)320-1491x189,3.88,2024-06-21,Yes
+87a6c63c-65a1-4e9c-bb39-b8aa39d0eb01,Cooper-Johnson,Zachary Lee,shellyobrien@hernandez.com,Italy,214-704-2886,1.55,2024-08-26,Yes
+3cd68ac3-5665-4d0b-8ac2-9f1dc72c3764,Walls-Patterson,Natasha Stone,wilsondavid@mcmillan.com,Mali,956.369.1062,1.67,2024-01-13,Yes
+f3e9d42f-1996-4b40-b67d-9053bec2e40d,Saunders LLC,Heather Roth,ryanrodriguez@boone.com,Nigeria,284.940.1348,3.51,2024-12-14,No
+7a15422e-3cc7-4dc8-8c66-94ab57b53de2,"Durham, Doyle and Rice",Daniel Brewer,brownelizabeth@vazquez-smith.com,Madagascar,(499)814-4920x749,3.17,2024-11-26,No
+f14da3ea-9faf-417e-92a2-319db4c70241,"Fisher, Weber and Morton",Mary Greer,hdavis@thomas-bowers.org,Hungary,+1-593-425-9140x8499,4.62,2025-03-04,No
+c7c40854-d6d4-4b06-af59-2f3e1bbd2513,Phillips and Sons,Jessica Elliott,russellholly@kennedy.biz,Uganda,5727348389,4.44,2024-09-24,No
+a672d32f-5c9f-4999-a869-839a9a36e49e,Roach PLC,Steven Sherman,maria56@wilson.org,Jordan,808-726-9582x64186,4.0,2024-03-16,Yes
+377533ab-d447-4a01-ac67-f7b712a34b04,Hoffman Group,Ronald Khan,lindsayedwards@hooper-christensen.com,Tajikistan,646.282.3948,2.69,2025-02-06,No
+7a798ed4-2a0b-4d9f-b58f-9bddd520aef5,Smith Ltd,Jessica Myers,dbrown@bass.net,Cook Islands,213-695-0016,2.67,2023-07-21,Yes
+db9b318b-12ba-4c10-9b45-caa9a13ea32a,"Morris, Chavez and Ayala",Kelly Wiggins,omay@williams.com,Northern Mariana Islands,440-877-7946x207,3.06,2024-12-01,No
+98a7e77b-2149-40ed-abe0-70806961a383,Cooper PLC,Nichole Vasquez,dlivingston@cunningham.com,Seychelles,001-440-768-8413x33731,4.32,2024-02-09,Yes
+5840f425-33de-4f96-abd6-f0fbee3c8687,Rodriguez-Stephens,Adam Atkinson,erikamiller@smith.com,Sao Tome and Principe,(938)352-7789x56133,1.95,2025-03-05,Yes
+43bcbd12-4e9d-4db6-8bf6-60638b917e2d,"Williams, Ali and Lin",Charles Foster,dudleycody@mitchell-brown.info,Costa Rica,+1-241-467-8127x78221,4.19,2024-09-02,No
+d2152070-e4ee-41bc-bdd7-e170e0d0807c,"Herrera, White and Fuller",Timothy Barnes,jessica79@hall-simmons.com,Tunisia,+1-731-582-8560,3.54,2024-07-15,Yes
+05ddffbf-bd21-4b7d-b5b3-50ab731bd233,Floyd-Chapman,Jessica Becker,chavezisabel@valencia-crawford.biz,Maldives,001-420-350-6821x22355,3.09,2025-05-18,Yes
+5db4d496-a8d8-4b3d-9f9a-7704adc25f16,Waters PLC,Teresa Mcdaniel MD,jessicamills@jones.com,Greece,001-567-890-8984,4.85,2024-08-21,No
+8bf63e19-c889-44e7-89ef-10888ab72eb9,Benton and Sons,Amanda Rivera,beanheather@bates.biz,Saint Helena,+1-348-642-4959x881,3.66,2024-02-01,Yes
+7537fb16-81ed-4eb3-8bb2-7f15a045d9e6,Dominguez Group,Thomas Young,ewest@ryan.com,Anguilla,+1-874-461-9177x987,1.68,2025-02-08,Yes
+817c781a-6fbc-4464-aa52-4c6993188472,Higgins-Moore,Erica Ray,cgamble@patel.com,Pitcairn Islands,+1-235-204-0566x9579,4.31,2024-09-26,No
+8ab171e0-e657-4d38-8793-acb12afcc87e,Osborne LLC,Debra White,zmurray@taylor.com,Colombia,+1-832-489-4633x8915,4.77,2023-11-30,Yes
+53effcdf-ea7e-49ac-ae37-2e39af396095,Patel LLC,Tara Thompson,paul92@shah-walker.com,Guam,695.813.8186x55078,2.78,2025-04-17,No
+9c215920-0400-4c5d-930a-542a8f05f94e,Avila-Mejia,Dennis Smith,courtney18@jones.org,Liberia,(303)785-9340,1.26,2023-10-24,Yes
+4b2ca54d-5343-4238-9694-c02c4ebd9823,Rodriguez-Carey,Daniel Thompson,lisaalvarez@davis.com,Aruba,4949214105,4.8,2024-02-27,No
+1f3c4a38-ff62-499a-b2ae-7fce877a71fc,"Vargas, Kennedy and Brown",Bonnie Woods,michael38@grant.com,Vietnam,486-460-5986x78744,2.63,2024-05-18,Yes
+fbaff9ca-5658-44d5-829d-03f5567ffe50,"Barry, Ramirez and Chen",Jennifer Cox,kristin94@shaw.org,United States Minor Outlying Islands,416-650-2000,1.81,2024-02-20,No
+e0df542d-a5b8-43c2-9619-cf443ac5524f,Jones and Sons,Shawn Ware,lloydmiranda@clark.com,Liberia,6838682144,2.67,2024-03-01,Yes
+7d99e386-b77c-4be6-bebe-e6a69eb5d8d2,Porter Ltd,Courtney Cole DDS,sball@gutierrez.net,Saint Vincent and the Grenadines,001-525-343-1832x812,4.92,2023-08-24,Yes
+d756b927-e0f0-4008-a4a9-94d79b48c6fb,"Smith, Torres and Davis",Adam Davis,robertburns@robbins.com,Anguilla,+1-727-968-1722,2.34,2024-04-27,No
+5cf9d973-f929-4da0-bf30-070d42a5af9b,"Burton, Webb and Gray",Terri Nguyen,dixonkimberly@harmon.com,Saint Lucia,360-982-7172,3.51,2024-10-07,No
+b79a0c86-c986-43e4-b161-c88832c52d76,"Robinson, Cunningham and Aguilar",Ryan Johnson,geraldray@browning.com,Zimbabwe,465-591-4388,4.63,2025-03-09,Yes
+b3d51708-5d1a-4023-a73f-f5245339eb18,Clarke PLC,Justin Parker,umartinez@ford.com,Sri Lanka,(943)909-5449x7912,3.33,2023-05-25,Yes
+11e3d175-70ad-4070-aca0-ed97922fe35d,Brown and Sons,Linda Wolf,nhiggins@zimmerman-roth.com,Mozambique,+1-883-222-0125,4.07,2024-06-27,No
+0b62192a-e224-4224-89a3-e57e2c5b2eb0,Juarez-Burns,Melissa Owens,nbailey@singh.net,Guinea-Bissau,(638)560-0304,4.84,2025-03-28,Yes
+929a3bab-d08e-4441-94fe-9960a5396212,"Flores, Stevens and Reed",Tiffany Wiggins,johnsonedward@jackson.com,Panama,5142374830,2.94,2024-07-18,Yes
+35dde534-1528-4855-b858-406cfdff67de,"Watkins, Davis and Ponce",Anthony Hernandez,darrellmoore@bradshaw.com,Austria,491-211-6612,4.29,2023-08-20,No
+22d00779-724d-4c00-882b-bc6fb8bf6903,"Cooper, Newton and Rice",David Schaefer,benjaminarmstrong@james-clark.com,Panama,(374)681-2421,4.01,2023-06-09,No
+a016d50a-6510-4b6f-aedb-d2728ef26cac,"Taylor, Rogers and Smith",Vicki Hernandez,nicholas09@haynes.com,Saint Helena,(910)339-9529x7013,4.48,2023-09-04,No
+5be87a2a-ef67-49d2-ac82-3a4130d569ed,"Nguyen, Richardson and Parker",Christy Johnson,beasleykimberly@thomas.com,Jamaica,259-427-3874,1.76,2024-08-03,No
+b8b75626-b805-4666-b16f-f4f50fbfae31,Reynolds PLC,Darren Martinez,amanda15@green-shields.com,Cyprus,001-940-730-1095x679,4.0,2024-03-28,Yes
+109c21df-9f76-4b6f-8eea-155bc96e517f,Ramos-Rhodes,Mrs. Jessica Thompson MD,iskinner@murray-smith.com,Moldova,5183103068,1.02,2024-04-16,No
+1708f96e-f176-4fbd-8371-14e346b3138a,Martin-Black,Kelly Burnett,seth29@oneill.com,Romania,5712380671,1.4,2024-04-25,No
+f801a8bf-1467-473a-9507-14a73aac2179,Hess LLC,Joseph Hill,james62@padilla.com,Mongolia,(325)288-5766x94703,3.67,2024-01-22,No
+df466896-cdbc-4b08-abc9-fbb3fff03027,Lawson and Sons,Tamara Gonzales,mary66@miller.com,Malta,827.300.0466,4.03,2024-01-06,Yes
+066208b6-96dd-4b80-a078-6e8f54909f0a,Pope Inc,John Mcdonald,benjamin49@stephens.com,Swaziland,001-294-690-5315x204,1.02,2024-09-07,No
+ede40cf0-7f35-4843-925b-b219991228be,Logan-Rice,Danny Brown MD,ajennings@morrison-brady.com,Isle of Man,(412)737-4077x9433,1.85,2024-04-07,Yes
+f78ffd83-b05a-46bf-bca9-eeba35ffdd0c,"Santiago, Larson and Aguilar",Whitney Griffin,joneslynn@martin-jordan.com,Anguilla,870.287.8211,1.2,2025-01-27,No
+07059d15-a8c5-440f-aa54-e68fa9274d42,"Pratt, Burton and Davis",Taylor Acevedo,younggabrielle@duncan.org,Kiribati,(211)370-8894,1.94,2025-05-02,No
+4291b38c-e4e7-47a3-a624-f8eded965f31,Nichols-Martin,Travis Stephenson,ashleyalexander@brooks.com,Sudan,4485067571,1.85,2024-02-25,Yes
+673a0c97-987e-428b-8caf-ae2b15caf379,Duran Ltd,Christopher Macdonald,lacey96@mckee.biz,Mozambique,+1-770-840-9531x41961,3.31,2023-06-25,No
+3f843c8f-a46f-47b5-8d45-e921e64b5523,Freeman Ltd,Melissa Grant,jennifer51@carpenter-trevino.biz,Cocos (Keeling) Islands,209-664-9668x3496,3.6,2024-04-19,Yes
+71a67925-1094-4b53-a6d5-1dc14ff90831,Hernandez LLC,Charles Zavala,bethany36@daniels-martinez.net,Montserrat,001-934-486-8839x06246,3.47,2025-05-17,Yes
+9a18e6bb-71f6-41a8-86f7-3047c0bdbeaf,"Jones, Johnson and Whitaker",Benjamin Lutz,williskatherine@wright.com,Swaziland,461.533.7605,2.76,2023-06-25,No
+82d3c040-8e69-44d3-923b-505c4127bbb7,Morales Ltd,Christopher Knox,karen72@martinez-davis.com,Pakistan,9349409661,3.73,2025-03-09,Yes
+c5bbff64-10b9-4399-bf5d-96d6ee6d7a27,"Martinez, Green and Medina",Lydia Payne,clinesteven@thomas.biz,Maldives,835-592-6648,4.07,2024-10-15,No
+9e58f8b6-b24c-4782-a554-f48c94eeda02,"Alexander, Conrad and James",Steven Davis,brianna50@martinez.org,Philippines,(307)953-6051,3.14,2023-07-20,Yes
+3a21356c-0fd6-4618-ba6b-295caec9c199,"Medina, Wise and Aguirre",Ernest Jenkins,craigriley@watson-brown.info,Albania,6094942489,3.42,2023-06-27,Yes
+6002ed7b-ffa6-4f21-a057-8624eba67102,"Grimes, Floyd and Yang",Jessica Jimenez,murphyryan@smith.com,Jamaica,(277)858-0974x533,1.55,2023-08-27,Yes
+4212173f-5e99-4f0d-8840-42f9db66cc53,Liu-Logan,Cathy Barnes,brian65@franklin.biz,Central African Republic,(912)624-2767,4.11,2024-03-12,No
+113cb009-9cff-47c5-90e5-b83bc388fb0e,Johnson-Miller,William Davis,amanda86@smith.com,Botswana,798.967.7823x1299,3.28,2025-04-03,Yes
+cd4a3c8e-ee55-4e96-837c-9932e5b32f0b,Griffin-Gamble,Dennis Martin,ujones@calhoun.com,Marshall Islands,737-453-6596x807,3.82,2024-02-17,No
+2cc18e4d-8399-4e41-b2af-577d43c527a4,Anderson-Powers,Crystal Nguyen,michael40@lowe.com,Gambia,+1-654-975-2311x2327,4.42,2024-10-03,Yes
+fbb8d9fe-d0cb-46e9-bbc2-b67c9eec1868,Hayes Group,Dana Carter,tracyjohnson@ryan.info,Guinea,001-208-801-9630x453,1.09,2024-08-11,No
+53332e5d-3ac3-4c05-ba96-a00dcaf6a7d4,"Gardner, Gallegos and Adams",Erin Perez,alexander18@espinoza.info,Lebanon,248.516.5244x45446,4.81,2025-01-12,Yes
+10e29558-b03d-4665-9c93-e629e106ae32,Morrison-Robinson,Kristen Smith,john91@herrera.net,Panama,286-699-9698x829,1.56,2025-05-19,Yes
+b3fce44c-942a-4c09-bb32-99df50833557,Monroe Inc,Jerry Taylor,zhall@hensley.net,San Marino,(542)342-3839x7283,1.11,2023-09-11,Yes
+a8d705bf-a564-4e98-bc3e-9ed11cdbd909,"Porter, Myers and Montoya",Lacey Lucero,josephangela@jackson.com,Suriname,802-932-0018,4.17,2024-04-05,No
+07a1012a-e8f8-4e43-8b99-69081d575d69,"Skinner, Carlson and Parrish",Megan Espinoza,smithchristopher@lopez-reyes.com,France,2389453198,3.64,2023-12-12,No
+db30e078-c435-4ad5-8046-75c7c87533e5,"May, Lee and Parker",Leah Collier,johnsonjames@bryant.com,Afghanistan,(845)896-7150x066,4.12,2023-12-06,No
+a5b5c511-e7ad-4be2-8356-b6fe12e63e97,Hendricks-Evans,Brandon Pittman,valeriesmith@weaver-garcia.org,Svalbard & Jan Mayen Islands,001-549-870-8905,2.26,2024-03-25,No
+240d383a-8dd0-44e3-8b50-c34d33ca11ee,Ferguson-Bradley,Caitlin Lawson,riceamber@peters.info,Marshall Islands,+1-979-815-0596x25719,1.97,2023-06-10,Yes
+05b3f116-2062-4446-bc9b-7cd1983e5d3b,Anderson Ltd,Heather Sweeney,omarturner@tran.org,Heard Island and McDonald Islands,(917)955-8517,1.36,2023-12-22,No
+2351fc3a-bf79-4cb6-abc4-4f76171827df,Phillips-Guzman,Anne Chambers,juanfranklin@powell.com,Cambodia,+1-375-789-1704x542,4.22,2024-10-02,Yes
+d5c31b18-d55c-41b2-bc71-7adb5f72fe57,Flores PLC,Ryan Thomas,tyler09@hurley.com,Norfolk Island,(435)764-0723x2472,3.84,2025-03-02,No
+014b6836-47ad-4c55-899c-b5f3e2aebd53,Davis PLC,Susan Black,haleylove@davis.com,Iceland,+1-350-371-0580,3.02,2024-07-16,No
+2d916caf-9c44-4194-8043-384af9878ca6,Blackwell-Rodriguez,Angelica Lopez,adkinsbradley@perez-montoya.info,Austria,001-723-200-7169,3.72,2023-05-27,No
+b35e85f5-e7f2-449d-81a5-1d1f7bdeb381,"Miller, Gordon and Glover",Erin Carter,laurenboyd@watkins-berry.biz,Guatemala,(494)947-1619,4.3,2023-10-18,No
+15280e7c-89d5-4178-8f99-8da34f942b3e,Winters Ltd,Amanda Cook,michaelhoffman@powell.com,Croatia,001-857-248-3526x8064,4.59,2024-11-18,No
+8c46b173-9699-4962-b19a-009f72a35369,Fritz LLC,Tara Gordon,tammy53@morse-salinas.com,Iraq,(280)855-0774,3.93,2024-02-11,Yes
+147eeb2d-5a39-44e8-95e7-7e009eb01a8e,Woodward-Moore,Monica Smith,fernandezmathew@rodriguez-snyder.com,Saint Martin,8913311178,2.81,2024-08-05,Yes
+541acd27-246f-4c1d-84e3-83ebafca225a,Padilla-Wallace,Michael Thompson,sullivanchristine@edwards.com,Pitcairn Islands,(201)222-7595,1.23,2023-09-16,No
+b31b58fa-cffd-4e28-8271-a48f6aed2058,Miller Inc,Scott Arias,tammy94@schultz-williamson.com,Kazakhstan,707-217-3279x8059,3.53,2025-03-21,No
+10d5d5b8-d448-470d-8041-47f5aa9af6c4,Smith Group,Michael Robinson,kendra03@merritt.com,Wallis and Futuna,6363089411,2.96,2025-04-21,No
+e16874df-5639-4a74-a768-b119fd9077b6,"Jensen, Thompson and Gardner",Paul Blankenship,dwayne56@johnson.info,Montenegro,001-800-969-6801,2.27,2024-05-07,Yes
+e53b7727-b209-41cd-873e-45170b4967db,Ferrell PLC,Michael Moran,eileenhudson@parker-hale.com,Tokelau,700.267.7625,3.38,2023-10-30,Yes
+02d4729d-d414-4afe-9912-853ea204a093,Snyder Group,Carlos Myers,daniel84@perkins.com,Panama,001-223-234-5110,2.58,2024-09-05,Yes
+ad409867-d6c4-422e-abf8-2001e470dab0,Kelly Inc,Tina Peters,pdixon@hernandez.com,Hungary,(973)729-0457x5988,4.13,2025-02-08,No
+2bc6206b-1675-4427-afa2-27c3dc5714da,"Mclaughlin, Wise and Collins",David Cameron,llambert@dyer.info,Heard Island and McDonald Islands,(382)314-7709x207,4.18,2024-12-29,No
+b6b4aaa5-39c4-4eed-a97f-8f1ed783b9d0,"Smith, Lopez and Graves",Matthew Franklin,carlosmeadows@floyd.com,Poland,(391)761-1863x855,4.78,2024-07-12,No
+786f186a-f90a-4610-b0b5-5ce776b851e9,Padilla Inc,Jose Fletcher,sally78@munoz.biz,New Caledonia,(289)372-8454,2.93,2025-05-20,Yes
+c105ab46-b8ee-4ec6-ab0a-0050235aa8e9,Martin-Brown,Lisa Herrera,derekdougherty@king.com,Libyan Arab Jamahiriya,432-281-1659x930,1.01,2023-08-25,Yes
+0cfb2d8a-fa8a-4ad2-b536-2888a250b2fc,Giles-Dominguez,Carlos Love,ihoward@liu.com,United Arab Emirates,001-528-916-5064x63005,1.17,2024-04-22,No
+95a5de44-e731-407b-a5db-b4045b199207,Carr and Sons,Benjamin Johnson,vickidavis@stephenson.info,French Southern Territories,(390)829-8310x4384,2.07,2024-03-05,No
+cd2c614b-14c6-4496-9146-f70a269d2c22,Mcmillan Group,Mr. Jacob Grant,tanya66@finley-wiley.com,Hungary,262.619.8655,3.0,2024-07-21,Yes
+41365c29-c881-464b-8358-5cfbc75fa0cf,Douglas-Alexander,William Cohen,jenniferbradley@smith-holland.biz,Chad,532.826.2611x424,4.99,2024-09-21,Yes
+57f119fb-bd24-4118-9428-df1ceb6d3598,"Peters, Flores and Nunez",Jose Palmer,fergusontrevor@clements.biz,Cameroon,+1-434-619-9643x3853,2.35,2025-04-15,No
+e3931b79-2fc8-4230-b53f-38c0f95f299a,Estrada-Diaz,David Avery,lambjohn@mccarthy.net,Luxembourg,(605)745-7694x7576,2.89,2025-04-15,Yes
+6fc41bf6-3d6b-4f76-b790-df8a5c493e43,Elliott-Ritter,James Chandler,erivers@clark-ramirez.com,Christmas Island,845-408-0959x48152,1.05,2024-01-15,No
+619c03d1-9362-4966-9f07-fe07f0a0a77d,Turner-Griffin,Thomas Smith,derrick59@baker.com,Venezuela,504-289-3326x1454,3.77,2024-04-19,No
+c533af2d-a864-4116-b852-9f4669a3618b,Perez-Woodward,Alicia Ferguson,simpsonalyssa@gillespie-thomas.com,Belgium,(887)918-4523x542,2.32,2023-11-29,Yes
+e3ea46a8-a686-4e54-ae26-9692d819a8d1,"Jimenez, Rodriguez and Lee",Sheila Peck,holtrobert@hutchinson-hoover.com,United Kingdom,277.329.6656x337,1.68,2023-12-13,Yes
+0bf0afdb-d3d1-4709-a54c-f4890fdba768,"Graves, Ochoa and Cervantes",Amy Pennington,mark80@johnson.info,Togo,+1-522-314-2573x16094,4.7,2024-12-06,No
+87723818-65e3-4112-8358-26a537b5ba07,"Benson, Snyder and Martin",Bryan Gray,michael28@thompson-le.org,Oman,(597)535-2595,2.11,2023-09-09,Yes
+c556f034-b177-4184-a3d2-e30b26994648,Perez-Gilbert,Lindsey Thompson,michael73@perez-perez.biz,Benin,950.376.1087x08269,3.7,2024-12-02,Yes
+da819b74-d46b-48f3-a88c-91ccce92b021,James Inc,Caleb Sanders,deanna83@byrd.com,Togo,564.584.6735x7422,1.16,2025-05-10,No
+f3c8e316-2442-46d7-a71b-b0acfb834299,Gillespie PLC,Brian Lawson,wendy58@hodge.com,Christmas Island,001-956-506-2953x5063,4.2,2023-07-11,No
+0e3020b6-8815-451c-9d5f-9ff2a5d339af,Sanders-Mcguire,Ronald Smith,jermaine84@delgado.com,American Samoa,+1-813-362-6084x63975,3.06,2024-01-08,Yes
+0b874724-79e4-4119-8a6e-dd5a46df90fb,Flores-Carroll,Taylor Keller,christopher41@knight.com,Greenland,(740)491-9693x95787,1.86,2023-07-07,No
+231830a3-cfab-47f4-8022-994ccdad7736,King Group,Mary Jones,udavis@davis.org,Ecuador,001-369-467-8976x09873,4.16,2024-03-30,Yes
+1474849f-3b38-402b-bbdf-1546e4a8844f,"Galloway, Lopez and Kim",Phillip Stevens,heather88@alvarez.com,Wallis and Futuna,+1-794-431-9165x4308,2.43,2023-11-10,No
+1efd393b-2896-4c25-8bb1-bad8250d235f,"Jones, Wilkinson and Hampton",Mr. Willie Hart,smarsh@smith-williams.com,Italy,+1-676-944-8676,2.55,2024-07-30,Yes
+f0e52458-e283-4379-8f3c-0388ec6123eb,Barnes and Sons,Gregory Vazquez,scottmark@russell.com,Qatar,473.909.6496,2.49,2024-04-10,Yes
+90c031a8-a28e-4ff6-a1fa-b7e41c230f19,"Howard, Hudson and James",Anthony Watson,lball@bailey-martin.com,Kyrgyz Republic,(836)743-1594x89895,2.09,2025-03-28,Yes
+3f7dd313-6f43-4da3-a84f-3d7569f876b9,Compton-Molina,Terri Carter,kylescott@conner.org,British Virgin Islands,(699)893-9344x9743,4.06,2023-12-02,Yes
+d636a89d-ad0f-40f7-8252-714e869c6fdd,"Lyons, Jackson and Walker",Kathryn Anderson,ncummings@caldwell.net,Myanmar,913-221-0972x021,1.95,2024-05-08,Yes
+84c12470-da04-43df-a634-727d4d25d614,Lee-Mccoy,Jacqueline Kennedy,michelemartinez@smith.com,Montenegro,(346)512-9390x02512,4.09,2024-11-10,No
+64bb419d-dbc4-4cdd-9554-5bb97622f59a,Rice-Larson,Kevin Burton,jmaynard@arellano-miller.org,New Zealand,814.858.4345,3.39,2023-11-01,No
+8ac31e08-ef3e-4770-b90a-e185128dfb82,"Watson, Dyer and Phillips",Ronald Moore,arthurwright@ellis-white.biz,Cote d'Ivoire,+1-710-443-7968x6800,3.97,2024-07-12,No
+9523175b-c0d5-4c17-a1a5-564247d41385,Hernandez Ltd,Matthew Freeman,caleb43@turner.com,Cape Verde,885.802.2894,3.13,2024-01-26,No
+bad65109-5636-43b7-8069-47d372cdfdd0,Gonzalez and Sons,Brittany Mcguire,taylordennis@berry-rodriguez.com,Turkey,3303334677,2.94,2024-09-25,No
+5d7dc0fd-74cf-432b-8887-36e96d82bf0b,Kim Group,John Bishop,john02@may-clark.com,Western Sahara,(539)684-7230,4.69,2024-10-28,Yes
+0bf2598c-21be-4ca5-8ada-f90ff365185d,Fernandez Group,William Perkins,davisjennifer@stanley.com,Austria,(807)364-8717x754,1.67,2024-08-20,Yes
+dcbd6ef5-ef8b-47d0-99c8-cca7d51878a7,Frost Inc,Mark Perez,rmoore@fuller-morgan.com,Cocos (Keeling) Islands,(659)609-5668,1.96,2025-03-22,No
+f278b488-25be-490a-bd4f-b6fcb9866767,Washington Ltd,Kenneth Shepard,corymiller@wilson.net,Armenia,958.669.0170,2.21,2024-10-12,No
+39bcae35-eeba-419d-a118-766acc45a5fe,"Hernandez, Garcia and Bonilla",Melissa Thompson,jill17@thompson.info,Yemen,(343)838-7220x5422,1.68,2023-09-29,Yes
+cf97b941-af62-4976-920c-7748addb47c3,Garza-Lucas,Cheryl Lee,schwartzlisa@cherry.com,Kenya,2486878995,1.22,2024-04-27,Yes
+dc34d926-02a4-4e9a-aa8c-befecdefbf07,Austin-Gray,Hannah Salazar,jake77@hanson-mckee.biz,Japan,+1-432-495-6342x7775,3.21,2025-03-20,Yes
+6b19b289-047d-4bc7-a753-0c4a91368ea8,Blackwell LLC,Brenda Jacobs,valdezashley@hernandez.com,Barbados,463-802-9559x63637,2.86,2023-09-26,No
+aa012ab9-4bf1-47a8-b904-2b4e9f571ce3,Williams Group,Matthew Hanson,lucasandrea@lee.com,Czech Republic,+1-380-404-9832x1122,4.15,2024-12-15,Yes
+82e89b5e-4bcb-48bd-bfca-79d85f42cf6b,"Buck, Rodriguez and Watson",Jeffrey Butler,tesparza@garcia.com,Marshall Islands,948-980-6442x00629,1.5,2024-09-01,No
+504d39e0-d4f7-415f-be9a-f4fb7afe3780,"Murphy, Doyle and Hughes",Tracy Ross,kimberly19@ramsey-robinson.com,Bouvet Island (Bouvetoya),+1-626-422-1320x410,2.94,2024-08-13,No
+f8fb04f3-cbbc-44a3-b78a-91e6882a6ff5,Campbell Group,Sylvia Carroll,davismichelle@hernandez-hodges.org,New Zealand,+1-294-598-1283x180,2.71,2025-02-21,No
+bcccd4b3-055c-4cac-a8ea-0d226c187782,"Mcgee, Mccarthy and Brown",Craig Martin,james63@smith.com,Greece,(443)883-8058,1.61,2025-01-28,No
+c7422b51-a8f4-42dc-abc1-28249dae8912,"Saunders, Brown and Hayes",Jessica Carson,omahoney@anthony.net,New Zealand,(933)376-1851x8626,3.13,2023-11-21,No
+c6e79a7b-f712-4813-8e01-009d8d59b363,Smith Inc,Matthew Moody,rachellove@garcia.net,Saint Martin,252.879.1875,1.45,2025-04-19,No
+1850147b-62b9-4bbf-be35-cb467b769a50,"Williams, Campos and Cummings",Carol Walters,chaselisa@townsend.com,Lao People's Democratic Republic,+1-576-617-8159x698,1.31,2024-02-03,Yes
+acf14cbe-bc03-4a02-ad9e-31457f5ac17a,Ewing Ltd,James Richardson,wferguson@carr.org,Switzerland,425-773-4989,1.36,2024-01-17,No
+6f6656b4-abd1-4dd5-85d8-1a459a3336ee,"Fields, Gallagher and Rojas",Lauren Franklin,eadams@hubbard.biz,Nauru,617-999-6708x0897,4.28,2023-11-26,Yes
+d9c175fd-9e28-484f-af82-6da05a18f557,"Mitchell, Hill and Mckay",Lee Gordon,daniel73@combs-stone.com,Costa Rica,(298)481-6498x0445,1.9,2024-09-19,Yes
+e036f00d-64fd-4a37-8e63-5ae083c7f1d9,Murphy and Sons,Stephen Johnson,dtaylor@sanders.net,Netherlands,3085248458,4.21,2023-05-24,No
+8e382a3d-92b8-4f90-8a24-cbe1e0941981,Golden Inc,Eric Briggs,christinedoyle@whitaker-paul.com,Micronesia,(763)802-7500x030,1.89,2024-11-29,Yes
+e37b9630-9798-44e0-9a11-0a4f673e79fe,"Kelly, Harris and Pruitt",Jasmine Davis,katrina37@ortega.info,Montenegro,2872018726,1.42,2023-08-14,No
+5f5310d7-6d7f-40cd-b43c-4990c007e123,"Martinez, Hall and Ellison",Wayne Anderson,longjoshua@blevins-hansen.biz,Svalbard & Jan Mayen Islands,(824)906-2215x599,3.25,2023-09-01,Yes
+2da279cb-c4a3-4864-aceb-9d92eeb450c8,Mcmillan and Sons,Adam Young,scott04@parker-lester.com,Mauritius,755-293-9652x1383,1.42,2024-05-15,Yes
+49979fe3-231e-488a-b82d-d1f514f32e9b,Chandler-Robinson,Ronald Lam,smithjohn@barrett.com,Vanuatu,001-773-727-7264x883,1.54,2024-10-25,Yes
+2bc4a319-5321-4cf1-8ddc-5f0e523c0ed4,Silva LLC,Ryan Taylor,craig18@burns-mendez.info,Bangladesh,6509805491,3.59,2024-04-19,No
+c3c27248-3af6-427f-b8bb-d25144ed3d94,Fowler-Kelly,Jeffrey Rice,daniel71@carpenter-park.org,Kuwait,244.593.0537,1.81,2023-10-13,No
+15490c7e-6bd9-4a4f-b7bf-fcbd87a45304,Barker and Sons,Kelly Burke,ronaldjohnson@hunter-preston.net,Bangladesh,(327)787-3048x625,1.75,2023-10-03,Yes
+689998d6-4e44-4af9-b106-c45a71f6aee9,Decker-Lewis,Darrell Burnett,garciaanne@kelly.info,Comoros,646-571-7762x9691,1.73,2023-10-24,Yes
+9ac72520-9670-4fb3-a2f5-0db16563c7d9,"Scott, Bennett and Leon",Taylor Williams,norrisdaniel@larson.com,Martinique,652.611.8968,2.2,2023-09-25,No
+bc728732-46e5-4c29-a3ce-06664b789b1f,"Frank, Evans and Potter",Meagan Ramsey,samuel85@murphy-mckinney.com,Saudi Arabia,328.419.0221x79789,1.46,2023-12-28,No
+9bc27450-a3a9-4472-b002-0f5e8a5acb4d,Roach-Murray,Nicole Rice,sara14@coleman.net,India,511.923.0388x56811,3.53,2025-01-22,Yes
+ea9b85eb-f1fc-4f26-866d-19a5146ce130,Ray-Clay,Robert Douglas,marthagriffin@williams.biz,Uzbekistan,(493)835-1588x07053,4.41,2023-06-07,No
+935f52da-1f32-4096-9f1d-1b20be91dd2a,Cobb Inc,Tyler Patel,pparker@bailey-sanchez.biz,Armenia,001-608-758-1810,1.54,2023-07-07,No
+b6f23b07-3651-4258-8ca1-572022b8952e,Clark-Jones,Michael Buchanan,wharris@taylor-gonzales.com,Portugal,(789)769-3353x900,4.06,2025-05-06,Yes
+f8930a13-d770-47c8-8053-9b74fa00a281,Davis-Chen,Max Miller,michelle63@freeman.com,Bolivia,(243)469-0283x7727,2.98,2024-06-25,No
+a670af0f-c405-46bc-bf2c-37dc6bfcabd7,Ortiz-Cooper,Christopher Miller,jonathan61@barry.info,Yemen,235-484-6405x10388,3.84,2024-05-16,Yes
+2488a330-4399-4af3-821e-268936c84263,Barnes-Henderson,Katrina Garcia,erica71@fischer.com,Vanuatu,2964906764,3.78,2023-09-27,Yes
+4739669a-dbb2-4f95-8376-caa7895d603d,"Hicks, Hubbard and Pitts",Heather Foley,mariahwang@goodman.com,Korea,630-568-8116x403,1.87,2024-07-28,Yes
+10a437d5-e6b1-4ece-85d0-cf83c28fcc52,"Snyder, Kelley and Ramos",Tonya Walker,jasoncampbell@cole-calderon.com,Djibouti,001-409-809-1538x602,1.66,2023-08-29,No
+f84a9bca-2ab7-413d-899b-316743b6c14b,Bradshaw Inc,Carolyn Kane,carrjennifer@cole-anderson.com,Senegal,710-507-9419x324,2.74,2025-01-27,No
+9f130820-0f3b-45f9-9345-c526a4abce56,Klein-Collins,Tammy Thomas,amy70@cross.biz,Equatorial Guinea,001-463-422-5174,4.75,2023-12-21,Yes
+b1a33f6d-e3db-4202-9516-f81c43d8015f,"Nunez, Jackson and Garcia",Lisa Johnson,patrick61@james.net,Iran,320.720.0953x662,2.28,2023-10-14,No
+07fb3bdd-9559-4433-8b30-0329f55c12c6,Morgan Group,Amanda Davis,derrickmoses@sheppard.org,Kyrgyz Republic,830-272-2113,4.36,2024-11-17,No
+a7b3b6f9-1358-46aa-a275-1ce678fd3b16,Simpson-Lopez,Rodney Stewart,julia17@hudson.com,Lebanon,6746436023,2.42,2025-02-08,Yes
+2f04cf18-21ba-4416-a703-20bdee409f44,Thomas-Wong,Gordon Lewis,karina20@nelson.info,Turks and Caicos Islands,(369)503-2655,3.58,2025-03-28,No
+a6cbb287-1432-4972-a8b2-9ad37867340f,Morrison-Evans,Tracy Byrd,stacy59@bell.com,Morocco,+1-615-989-1268x64986,1.28,2024-07-03,Yes
+fb0cd85d-e886-48a4-a0f9-9296ca89b460,"Craig, Martinez and Ford",Dr. Kathryn Adams DDS,dixonjerry@grant.org,Antigua and Barbuda,549.892.1640x0698,3.95,2024-08-10,No
+d5672f5d-20bb-45b0-a015-7233baf90557,Floyd and Sons,Derrick Kim,cblackburn@moore.biz,Ghana,762-720-2123x720,3.08,2023-05-25,No
+0081a704-37c2-40e3-82e8-a70035487cd7,Smith PLC,Danielle Carter,lchavez@salazar.net,Mali,001-391-814-1600,1.04,2024-07-12,Yes
+d205bba8-26fb-4b0c-a0b5-e6c3bdcb3eb2,Taylor Group,Jesus Decker,nsingh@price.com,French Southern Territories,+1-218-267-4630,1.3,2025-03-27,Yes
+96e89593-f8f1-41f4-9756-1954d0e12881,"Ramirez, Robinson and Hamilton",Miranda Sanchez,gmiller@khan.net,Oman,(345)782-9420x340,1.45,2023-10-19,No
+69b20a83-4719-44c9-bd3a-79abc33c518f,Johnson-Morris,Lisa Wright,michelle67@moran.com,Mexico,(540)928-1822,3.24,2024-08-02,No
+0049f6b8-f7d8-4a56-89fa-fbefc45de840,Woodward Group,Joseph Mason,crawfordhaley@mcdonald.com,Isle of Man,423-757-0041x2918,4.62,2023-08-10,No
+f03256d8-6b2e-458e-afc6-3d341dbefabd,Fuller Ltd,Hannah Smith,cwilson@marshall.com,Azerbaijan,366-200-1283x827,3.61,2023-07-28,Yes
+2cfffc6b-e849-4066-bee2-1b33e104bf7a,Terrell and Sons,Wanda Burton,belldavid@conway.com,Luxembourg,001-866-553-4460x4227,2.11,2025-02-04,No
+f7658613-d341-42ff-a200-72e04cc2b118,Rodriguez Inc,Adam Porter,tamaraparker@green.net,Italy,976-482-2512,4.4,2024-03-07,Yes
+64591a9b-8267-4f9a-80f8-99defca339e8,Padilla-Hughes,Michael Ross,melissahill@huber.info,Turks and Caicos Islands,(787)284-9477x12903,1.28,2023-06-19,Yes
+ce68210c-1bdd-4bea-aec2-1c06f99773b2,"Turner, Cunningham and Holder",Beth Edwards,lisa40@barber-koch.biz,Mexico,(412)715-6495,3.45,2023-11-27,No
+f84b241f-0466-404d-ac0c-9e4bc920aae9,Keller-Hill,Robert Miranda,lambertcheyenne@payne.net,Cameroon,430.363.4359x488,1.23,2024-06-13,No
+6b766741-cd26-422b-9631-15d046f860a9,"Johnson, Sullivan and Green",Hannah Garcia,kaiserhunter@ochoa.com,Congo,+1-541-923-0160x49860,3.59,2023-09-05,No
+df4eba91-a450-404f-bae0-054db6a9e66b,"Cruz, Archer and Harris",Michael Garcia,lpierce@munoz.com,Antigua and Barbuda,9348713171,2.21,2023-06-26,Yes
+a15e0655-e276-4b30-9ade-cee4bfcc8e33,Henson-Moore,Heather Espinoza DVM,bowenjonathan@wong.net,Greenland,(201)913-7535x821,1.89,2025-03-28,No
+de02ad35-ad0e-4e1b-874a-c31d8ee068b6,Mills-Smith,John Hodges,taylordougherty@simmons.net,Bouvet Island (Bouvetoya),001-597-922-3996x47718,1.2,2024-01-26,No
+e0d8b492-7289-4055-8a52-4e333a0807d8,Castro-Rodriguez,Catherine Mitchell,nunezjennifer@mueller-owens.net,Antigua and Barbuda,4243432362,1.81,2024-03-04,No
+626b6e7a-fe49-46cd-8a12-516809bdbd25,"Caldwell, Reyes and Gomez",James Kennedy,rowen@kelly.com,Morocco,(921)250-1642x610,2.44,2023-10-30,No
+f0e67cd5-faae-4f71-8be2-39725d2db4f9,"Mills, Scott and Casey",Daniel Adkins,harveymichelle@taylor.com,Cyprus,5042169105,4.18,2023-09-08,No
+6086ce8d-123e-42fb-a95e-17415e48f8b3,Cortez-Gallagher,Virginia Wolfe,pmarquez@contreras.com,Djibouti,981-810-5014x7642,1.33,2025-02-07,No
+3f2d1955-78f3-4ce3-91ef-467b1f4db543,"Rogers, Garner and Rocha",Joshua Jones,vvelez@anderson.com,Serbia,001-278-915-5426,1.46,2023-09-18,No
+274c51a1-04d4-4f6a-a223-61eebbfe7e0e,Buchanan-Graham,Wanda Ingram,dmejia@johnson.info,Bosnia and Herzegovina,6739087156,4.65,2024-06-15,No
+7b2cefe1-3ad9-4cc4-80ac-ea64a426d1c1,"Sharp, Robinson and Tucker",Darren Smith,pamelaphillips@pittman.com,Romania,426.902.9254x686,4.57,2023-10-06,Yes
+ff3d782f-4cdd-4af2-957a-d46184255121,West Group,Adam Delgado,jvega@dougherty-heath.com,Western Sahara,938-267-6259x23868,2.61,2024-03-16,No
+cc1de42d-07bb-4002-b1af-6608abfc8586,Holmes-Mayer,Leslie Hall MD,kimberly34@reed.net,Western Sahara,+1-227-739-6159x764,4.78,2023-10-11,Yes
+6957a9dd-5258-46d8-bce4-d414a7ff3051,Brown-Wells,Julie Page,jonathan61@bush.net,Eritrea,(227)436-2732,2.12,2023-09-29,No
+1a710bdf-7b6d-4071-a5b0-8a57a4ba1e5c,Juarez Group,Marilyn Henry,novakdaniel@brown.com,Nicaragua,+1-551-244-8698,4.01,2024-02-21,No
+6cc1bd55-d5e6-42b7-9a83-4240f0a3a412,"Smith, Silva and Drake",Steven Burgess,davistiffany@lopez-sanders.info,Switzerland,506-380-1770,3.16,2024-03-11,Yes
+c74de5e3-e318-46d5-b216-006c31ab2c49,Beasley Ltd,Andrew Aguilar,jackconley@king.biz,Morocco,217.529.4763,2.4,2025-04-23,Yes
+c1986cfb-65cf-4236-bdce-8c960852a95e,Green-Moore,Nicholas Roth,daniel93@jacobs.info,Cocos (Keeling) Islands,+1-612-891-6350,4.48,2023-07-06,No
+6b76c990-b7f1-46e8-ae31-c7bdd4980e1d,Foster-Rivera,Scott Tran,michael39@baker-curry.org,Holy See (Vatican City State),9707886406,1.41,2024-11-24,No
+2b6dee52-058e-4844-9efc-4d67d8b3680d,Gardner Ltd,Ashley Moyer,brookemartin@strong.com,Niger,4447890932,4.28,2025-04-22,Yes
+01adf395-2c5e-405e-b4cf-6b7f3f4cd64f,Sanchez Inc,Robert Bullock,maurice01@dyer.com,South Africa,001-503-569-8884x393,3.27,2025-02-21,No
+64e4abc2-3f0c-48c9-998c-9dc34b672fac,Vargas and Sons,Joshua Reed,daviddecker@goodwin-davis.org,Azerbaijan,559.965.9992x012,4.11,2024-03-12,Yes
+4f19f810-75b4-449c-bb2a-d1ba1343d7f9,"Watson, Moore and Escobar",Kurt Camacho,knightrachel@howell-robles.org,Bulgaria,(867)413-1753,4.9,2025-04-13,No
+79342fbd-4629-4ada-b367-043bdadf5f67,Hernandez-Farrell,Jennifer Reyes,jacquelinezamora@martinez-stokes.com,Anguilla,2995284524,4.72,2023-09-22,No
+b0ead4df-5a94-4a8a-9013-4e941b1beaa3,Dalton LLC,Brandon Clark,craigbowman@young-skinner.net,Thailand,479.372.4792x542,1.69,2024-05-24,No
+411e8bac-d192-4b21-b54c-54f93c7bfe7e,"Yates, Morris and Huynh",Leslie Fitzgerald,turneramy@williams-vasquez.biz,Switzerland,001-733-332-9986,1.27,2024-02-09,Yes
+2a7a5550-0ea2-4640-b158-75989e153705,Mcdonald-Daniels,Jeffrey Brown,dana58@lee.com,Reunion,(672)562-0846x72925,2.72,2025-02-12,No
+bcb37ddd-51a2-427a-9ff9-2d8fa33ce56f,Miller-Richards,Christopher White,alan18@gomez.biz,Chile,001-547-628-6394x20122,3.7,2023-07-26,No
+9811cd8b-2ccd-40e7-92ca-30b991d9ee26,French PLC,Jennifer Jackson,awilliams@smith-sellers.com,Sweden,2952632174,2.94,2024-10-29,Yes
+bcc14124-0cc6-44cb-932a-c1fa9d516508,Andrews and Sons,Curtis Harvey,ethanhuff@miller.com,Hong Kong,7068082770,1.64,2023-12-15,No
+bf94abfa-af61-425e-ac68-74df1c63c39b,Guerra-Brown,Sheila Myers,jeannereeves@smith-armstrong.com,Kyrgyz Republic,(334)561-7623,3.41,2025-05-11,Yes
+690dc911-c958-4c41-b2bf-07aee2d4c43c,Smith PLC,Micheal Hanna,derrick31@bailey-yoder.com,Brazil,001-537-627-7685x7606,4.66,2024-08-07,Yes
+0b854f50-f984-4030-9fa9-35b12e187603,Beard-Lamb,Scott Garcia,fsmith@harvey-cunningham.com,French Southern Territories,001-920-424-8374x441,1.23,2023-10-31,Yes
+55d25c83-c7e9-407b-adab-aa1c5868e32a,Mason Group,Joan Hodges,martinmorgan@wood.com,Italy,+1-690-347-2386,1.15,2024-09-12,Yes
+987a8f71-00d2-4f9f-b510-3222fab0509e,Perez-Baxter,Emily Harmon,greg64@morris.org,Andorra,6939781460,3.5,2025-01-31,Yes
+18076bff-bcae-49f6-a91a-cd19a2955303,Walker-Wagner,Deborah Lewis,fosternicholas@goodwin.com,Turkey,(746)272-6368x15418,1.73,2025-04-08,Yes
+ecac3756-79b2-4e7e-b3eb-73ce262edf5e,"Jackson, Cameron and Smith",Felicia Terry,psmith@jenkins-khan.com,Guadeloupe,5332746983,2.84,2024-03-08,Yes
+3603768d-aa76-44d9-b0a5-e979a5054cab,Roth Group,Stacy Martinez,isaacwhite@barron-alvarez.org,Norway,719-208-7886x538,3.23,2024-03-02,Yes
+6a2a6ffe-9298-4be4-b48b-03d8c05db544,Torres and Sons,Melissa Oneill,barcher@anthony.com,Tanzania,+1-949-222-1704x86186,2.66,2024-03-16,Yes
+0faa4b81-d6c4-40da-afd3-5f1634b80226,Morales and Sons,Tonya Kemp,wellssherry@perkins.org,Belgium,+1-998-227-1826x53371,2.07,2024-06-17,Yes
+9c59d8ee-4ed6-47d9-9498-ede9d28616ac,Jackson-Matthews,Daniel Dominguez,teresamiller@rosario.org,Puerto Rico,8144599670,3.23,2023-07-09,Yes
+706eb43a-89e2-4a88-91cc-75315708d618,Smith LLC,Kerry Benjamin MD,donna30@thomas.com,Lao People's Democratic Republic,001-281-367-8066x4315,2.47,2024-02-25,Yes
+c5bbed6c-e1ea-4e7a-80aa-3ee9d9d5815d,"Mccall, Barrett and Valenzuela",Anna Smith,hhampton@brown-george.com,Isle of Man,+1-440-870-3088x0817,2.83,2023-09-10,Yes
+6a247a0c-f224-4b8d-99c3-6e152a650cdf,"Thompson, Berg and Phillips",Joseph Goodwin,guerreroandrew@black.org,Guadeloupe,001-827-341-1680,1.07,2024-10-30,Yes
+dbcbded5-6287-44c1-a4f3-e04de27269b1,Jackson Group,Casey Grant,maryallen@bryant.com,Uzbekistan,(234)344-3596x24587,1.77,2023-10-01,Yes
+cf7d59dc-4b94-46e6-bf12-ac2cbc5c62d0,"Arias, Thomas and Martin",Cindy Carlson,mcmillaneric@ellis.com,Cocos (Keeling) Islands,+1-949-276-0396,1.79,2023-08-28,Yes
+601c5a40-3e06-4311-8b2c-4073c1143151,Anderson-Hubbard,Amanda Kelly,wscott@graves.com,Slovakia (Slovak Republic),903-564-8821x597,2.19,2024-06-05,No
+666ab560-b659-4e2e-b066-e6f746c51d5a,Hernandez-Gonzalez,Jeffrey James,nmunoz@russell.org,Georgia,001-872-420-4298,3.64,2023-09-22,No
+20f9bfc9-9eb0-4058-904d-0a5069258881,Reyes Group,Jesse Velazquez,wthompson@bishop-lawrence.org,Palestinian Territory,(899)983-3587,3.31,2024-10-24,No
+5f4676a1-2ff2-4e9a-9c64-edbe7370ca9f,Smith-Martinez,Christopher Mills,paula31@gonzalez-rice.com,Serbia,+1-912-826-0001x440,4.55,2023-09-08,Yes
+f1a31b44-bf3a-4e2d-b970-c05d9defc281,Frye LLC,Mary Farrell,jessica91@turner.com,Maldives,001-875-728-7209,3.37,2025-01-21,Yes
+be063f44-28e6-4d58-8c10-3b64623d134f,"Case, Taylor and Kerr",Wayne Banks,stonejesus@johnson.biz,Japan,+1-819-448-9629x805,3.31,2025-02-24,Yes
+5d4f9126-a8ac-4981-b94e-c32315ce0875,Burton Inc,Jason Garcia,earmstrong@todd.com,Thailand,5433474125,3.86,2024-09-15,Yes
+50d4e568-9e61-475c-a914-f7017b6ef5d2,Davis-Williams,Craig Jackson MD,bryan61@gill.com,Syrian Arab Republic,+1-599-619-3873x370,2.69,2024-11-08,Yes
+ff0df117-da0e-462a-8b3e-8d2acf7415e8,Hill-West,April Nelson,vjohnson@perry.com,Uzbekistan,7763519170,3.32,2024-05-11,No
+2a9d098c-a84c-44b4-b604-fcef3d280b41,"Watkins, Miller and Bell",David Jacobs,grantmichael@cooper.com,Saint Lucia,001-215-974-4965x3916,2.41,2025-01-13,No
+02e51343-48f9-45a1-8cf2-b53400b07a66,"Sanchez, Poole and Smith",Steven Wilson,traci39@gardner.com,Pitcairn Islands,896.662.0385,1.98,2024-08-25,Yes
+a8fa71a6-0562-4e16-be65-f35db180e74c,Ferguson-Smith,Christopher Wolfe,arellanopatrick@kim.com,Guam,001-262-830-3974x4088,3.22,2024-05-14,Yes
+9ae91610-f707-42dd-b847-0eb8816e49e9,"Webb, Novak and Carlson",Michael Wilson,fernandezjennifer@soto.com,Bermuda,726.261.1584,2.51,2024-01-29,Yes
+2fbc8b9b-3db0-4210-a63b-312bcce33ef8,"Wilson, Wheeler and Powell",Jesse Sutton,dwayneedwards@stein.com,Haiti,001-844-370-8231x714,3.07,2025-01-14,No
+3e6ef9f8-baac-407c-96c5-fbb19281ebd7,"Nelson, Walter and Tucker",Jason Salas,johnwarner@bennett.com,Burundi,001-861-884-0257x8703,4.51,2023-06-28,Yes
+64b3f1a9-0d44-4a84-9006-9c8fed99b044,Williams Group,Ronald Watson,jessicaeaton@holland.com,Taiwan,3984910390,1.87,2023-07-05,No
+0760416d-a39b-4330-bcbc-e9f0bda3c0e3,Diaz Inc,Gina Barker,ksherman@horton-richardson.com,Morocco,+1-626-700-9860x2757,2.64,2023-11-28,No
+972d5b66-a152-45d6-bb42-6ef045fa8cb6,Williams LLC,Tonya Campbell,sara38@martinez.net,British Indian Ocean Territory (Chagos Archipelago),001-889-465-5834x456,4.21,2025-02-15,No
+5ef981f8-af92-4913-8b50-d1f598dcb918,Martinez PLC,Ethan Russell Jr.,agarcia@collins.com,Kiribati,7473266023,3.37,2024-02-15,No
+5fdc889f-122d-474d-86f4-d1bb5d7b83be,Becker Inc,Michael Walters,hendersonlisa@henderson-reed.info,Montserrat,7526244133,1.06,2024-04-11,Yes
+6018a71b-b5ab-466e-8e7e-481143eddd87,Dennis-Diaz,Robert Benson,usilva@stevens.net,Northern Mariana Islands,001-786-864-6936,1.49,2025-03-01,No
+e1903719-31de-44b2-bc2c-55298dc12eba,Reeves-Simpson,Kristin Foster,brookstaylor@waller.info,Tanzania,818.943.0192x2095,2.59,2023-11-16,Yes
+24c6ab6d-d13f-4c1a-99ad-d770308d2579,"Mccarthy, Hale and Lewis",Christine Murillo,croberts@oneill.com,Dominican Republic,001-426-576-9924x27739,3.25,2024-10-31,No
+2404595d-a6d6-4d00-9690-d9cdde1243a5,Taylor Ltd,Kenneth King,brownchristina@juarez.net,Fiji,723-747-1998x2907,4.55,2025-02-12,No
+b0a6b1c9-44cb-4c8d-97bd-e1f55408906f,Martinez-Price,Jessica Graham,harrissusan@johnson.biz,Solomon Islands,533-322-6227x7773,3.33,2024-03-21,No
+f5c87d66-b328-4054-8198-6c1db9d999b6,Friedman Group,Monica Johnson,jsmith@williams-gray.com,Grenada,+1-252-498-4241x074,4.37,2025-03-10,Yes
+a5e39314-ace6-49cb-84bc-969a452f03c9,Kennedy-Blake,Jessica Fisher,ashley06@smith.com,Romania,(938)556-4614x9745,1.08,2023-08-08,Yes
+964a852c-fb1e-455a-b7b3-ef4dece136fe,"Carrillo, Shelton and Goodman",Michelle Wilkinson,scottrobin@simmons.com,Suriname,604-893-2664x32239,2.72,2023-08-06,No
+8c4d2dae-b7f6-4ccc-a82d-c67419d0eebb,"Padilla, Gilmore and Shaffer",Sean Garcia,anna53@smith-lyons.com,Poland,762.823.9847x422,4.33,2024-10-27,No
+7ddfbc34-b232-43b2-8107-2c9fbf1c25a8,Boone PLC,Susan Anderson,ifox@webb.com,Bangladesh,(680)861-3495x6479,2.34,2023-06-10,No
+6daa6647-83eb-4c88-9316-d79fadf0505b,"Wallace, Adams and Hampton",Stephen Weaver,chasemichele@moore-foster.com,Australia,+1-209-326-1662,1.53,2024-03-25,No
+bb822a13-5193-4ec1-a69f-4f215b385a6a,Cohen-Russell,Jonathan Mcintosh,wmorris@beasley-bell.com,Equatorial Guinea,464.600.0687x5868,2.18,2024-10-04,No
+61f3067a-6a2b-4c64-9240-22615b7f706f,Scott-Rodriguez,David Turner,carrillobrianna@fitzpatrick-smith.com,Cook Islands,868.560.8357x01703,2.66,2023-06-26,No
+efc5a8dc-cf54-488a-8c5d-53779f493777,Moore-Lewis,Amy Williams,jessica89@nichols.com,San Marino,934-990-9619,3.72,2025-02-16,Yes
+936b5322-e533-41c5-923e-b130eb56fde3,Taylor-Nelson,Kristi Rodriguez MD,alisha45@marshall.biz,Sao Tome and Principe,001-774-280-9573x940,1.2,2023-09-03,No
+2b287004-0047-4b2e-aea4-6c5ffb8b161e,"Jensen, Nelson and Curtis",Amanda Hall,gomezalyssa@cook.org,Tajikistan,9739420319,2.47,2024-05-02,Yes
+5cd1a960-75d4-43be-afd1-3b5e8857d802,"Diaz, Fry and Douglas",Steven Rojas,jamesmason@anderson.net,Tunisia,(884)619-6233x2605,4.81,2023-09-22,No
+4ae39c1e-7b06-483b-96b1-59816b8476fb,"Clark, Sweeney and Ramos",Janet White,dianemay@miller.com,Lao People's Democratic Republic,+1-682-842-6559,1.92,2024-08-21,Yes
+eefe1006-05fd-46c5-9602-7e8297fe0542,Reilly-Young,Charles Valdez,colewayne@johnson.info,Philippines,001-600-965-4870,2.15,2025-05-12,Yes
+426df154-b409-4d74-92ad-8e9194b77fa7,Burton Group,Erik Harris,zhangnatalie@fernandez.com,Kyrgyz Republic,815.491.5790x89458,4.4,2024-03-15,No
+43799f1c-816a-47ad-b5c8-f9988cc81670,"Hunt, Jenkins and Warren",Tina Jennings,pmiller@ross.org,Antarctica (the territory South of 60 deg S),+1-451-288-1298x8618,3.25,2024-09-09,No
+66dbb507-ea58-4411-81cd-8f3c7d0b57ce,Espinoza-Horn,Shelley Williams,jeffreymaxwell@peters.com,Czech Republic,786-949-7035x067,4.13,2024-05-31,No
+c86ecb62-84c0-42e5-9cbc-8f6469ec8c8e,"Grimes, Barajas and Lee",Jeremy Mcbride,gyoung@larsen.com,Bolivia,555-605-7052x18799,2.23,2024-10-24,No
+4fa977fc-0b72-46e2-836e-aced47b8595e,Holden-Medina,Billy Brown,ptapia@garcia.com,Thailand,3362871568,3.99,2024-07-23,Yes
+73491aef-df6a-456a-a0da-fc08701ae861,"Griffin, Brown and Khan",William Brock,michael84@jenkins-kennedy.com,Anguilla,001-936-564-0163x29573,2.85,2025-02-16,No
+7f8b4f9f-f1e5-4e88-9511-19685ae5afa6,Chavez-Stark,Michele Thomas,ghall@nixon-schroeder.com,Russian Federation,5295158542,4.75,2023-09-28,No
+fe1f4ee7-dac2-465c-a03b-fb9017290ea5,"Watson, Pierce and Sims",David Reynolds,djohnson@evans.info,Russian Federation,362-815-9584x174,2.86,2023-07-09,No
+f2c416f1-035c-4a0b-9630-033c00c08124,Merritt Inc,Anna Cunningham,brewersherri@perez.com,Papua New Guinea,460.894.8377x4029,1.69,2023-12-20,Yes
+f899945f-3dca-4875-bf36-3203a30d5097,Townsend Inc,Jessica Farrell,tanya09@brewer.com,Moldova,866.877.1966,4.69,2025-04-19,Yes
+503e19e9-ff54-4b60-a3b9-89fa0062050e,"Long, Allen and Thompson",Amanda Leon,dennishale@adams.net,Armenia,237-368-3675,4.24,2024-05-04,Yes
+53d05823-1279-4646-9d40-ae1a73cc8561,Reid LLC,Barbara Carter,jasonfrank@brown-torres.biz,United States of America,(864)526-0186x372,4.59,2023-07-11,Yes
+5b50f72b-c01c-45b4-8844-78ba95a57efe,"Conway, James and Salazar",Kevin Moore,toddgonzales@cain-evans.com,Anguilla,685.602.5513,4.26,2025-03-30,No
+663a80fd-8ca0-4958-a000-5105417d4986,Taylor-Ferguson,Laura Turner,suejones@hill-simon.com,Holy See (Vatican City State),+1-974-793-2511x49788,4.95,2023-10-27,Yes
+0211597b-b02e-4da7-9ff6-1376224eae65,Smith-Morris,Jon Graham,palmerbrett@brock.net,Lesotho,614.539.1511,2.37,2024-04-04,Yes
+a19d5b96-2bbb-47e0-a99d-0f7288eca10b,Landry Inc,Mr. Joshua Davis,umccoy@turner-rivera.info,Taiwan,3687026933,4.3,2025-04-11,Yes
+32389612-be38-42e3-b4ec-2cea2de06f51,Powell Inc,Anthony Haley,psawyer@dunlap.com,United States Virgin Islands,(824)911-4206,2.58,2023-06-19,No
+51dbb17f-418f-49ac-934c-9e8650a64568,"Chapman, Thomas and Davis",Jessica Wright,davidfarrell@johnson-esparza.com,Trinidad and Tobago,001-322-220-5620,2.88,2025-02-03,No
+418aeb2e-352e-4768-8217-14981d26b39d,"Parker, Walker and Garcia",Christopher White,hmoses@moore.org,Equatorial Guinea,864-252-3428x64497,1.31,2023-09-27,Yes
+6ded13fe-6e17-4778-8312-5afa956a1351,Adams Ltd,Robert Sampson,samuelchavez@wells.com,Panama,001-385-729-7356,1.97,2024-10-08,No
+f5b680f9-fb59-425b-a236-c6f1ff4daa0c,Watson-Cook,Debra Gallagher,xhorne@brennan.com,Niger,(964)614-7533x69524,3.99,2025-03-29,Yes
+515a1417-b83c-450d-af2e-6e7364d083d7,"Hall, Clark and Carpenter",Tammy Martinez,julie24@rich.biz,Lithuania,001-824-515-7127,1.42,2024-11-18,Yes
+52f074c3-397f-4fd4-ae64-73038c0b9e42,Lewis-Hopkins,Gary Curry,elizabethjohnson@long.com,French Polynesia,001-379-739-9816,1.01,2025-02-10,No
+15534ea0-8006-4969-b243-5fb4ac7edd94,Long PLC,Melissa Davis,andrewdrake@anderson-brown.com,Singapore,001-501-348-9678x08264,3.92,2023-08-28,No
+65f28679-4914-434e-baa2-bdc61f5b3f8d,Vargas LLC,Jessica White,mary92@kirby-phillips.biz,Costa Rica,591.872.9940,2.28,2025-01-12,Yes
+aa39c161-d8b2-4336-8170-c7214323c3c7,Holder Inc,Jason Bartlett,ashley19@hayes-chambers.biz,Pitcairn Islands,+1-833-353-9101,3.18,2023-09-25,Yes
+070cdacd-923b-4c06-85fa-bf97c907460e,Morales Ltd,Kyle Simon,juarezchristopher@hall.com,Lebanon,+1-367-834-8140x98410,2.71,2024-05-18,Yes
+fe752dea-12eb-4d94-89a6-86a9376d353d,Kerr-Davis,William Lane,ingrambrandon@douglas-livingston.com,Canada,486.361.6801x99034,4.13,2025-04-20,Yes
+807f690e-4200-4aca-b358-b2ecc50b9ab2,"Michael, Turner and Green",Anthony Flores,colemanheather@joyce.org,Bolivia,986.301.5711,2.83,2023-10-19,Yes
+1906de77-b496-40e4-885e-6e15229e898b,"Maldonado, Howe and Montoya",Elizabeth Marshall DVM,tarameyer@davis.net,Kuwait,+1-845-627-1936x7857,4.41,2025-02-10,Yes
+3d24c1c1-125e-4ce9-9aee-253d30017603,"Kramer, Miller and Hardin",Mr. Brian Odom Jr.,gary21@campbell-williams.com,Belize,735-406-9626x16845,4.35,2025-05-22,Yes
+7f317011-a7ee-452d-81f6-00272ced976e,"Collins, Jones and Taylor",John Stokes,msilva@austin.com,Japan,(894)989-9300x5195,2.67,2024-02-02,No
+354d1177-66e2-4a94-aac1-76f3a9d51bcf,Cox-Wagner,Sarah Lopez,bryantpeter@hodges.biz,Haiti,6463070014,4.59,2025-01-26,Yes
+60c96560-d183-4f31-bca0-cd72014dd114,"Wong, Woodward and Callahan",Richard Hunt,mcdowelladam@hooper.com,Peru,317-328-2076x238,4.58,2024-02-04,Yes
+23d77f97-294d-4e96-a8db-9b01caf13eb1,Thomas and Sons,Justin Campbell,thomas28@howard.org,Nepal,300-341-0847x9135,4.31,2025-04-07,No
+d3778853-079a-4055-aac1-6b4258d6e90d,Lee-Coffey,Tanya Martin,sandrasmith@roberts-bowman.com,Zimbabwe,680.397.8302x8010,3.3,2024-08-20,No
+f1770366-b658-47a0-9de1-7cd3e8f7f4ca,Sanchez-Jones,Peter Buchanan,spearsjose@peters-marsh.com,Saint Martin,+1-728-902-1889x3063,1.11,2025-05-10,No
+f7d348ef-b5da-458c-a479-44b68f2ab4c2,Nunez and Sons,Kevin Wilson,connorholloway@swanson.com,Swaziland,001-669-290-5585x5759,2.65,2024-06-25,No
+e5112379-936f-417a-afc3-36b1473bdfcb,"Smith, Barnes and Oconnell",Amber Evans,aprilowen@smith-jones.com,Iceland,967-833-7457x01652,3.19,2023-07-31,Yes
+8f654132-a9f4-4e23-ab12-bd633900f29b,Evans PLC,Hunter Reid,james69@martin.com,Gabon,572.650.8423x242,3.68,2024-06-01,Yes
+147bf656-461e-4f44-882b-3c90c44c8117,Fletcher-Parker,Gloria Dunlap,uburke@morgan.org,Vanuatu,4627796024,1.46,2024-04-18,No
+36804804-c34c-4fdf-bf2a-f7ad3d39b5bb,Sandoval PLC,Megan Carter,sarahcharles@bowman-dorsey.com,Malta,(930)440-2966x2991,1.74,2023-08-04,No
+99a93fad-282f-47e5-b386-fc844ba548a8,Calderon Inc,Jason Weaver,rebeccahoward@garza.biz,Netherlands,370.563.2503,2.72,2024-07-25,No
+88197b4c-4d54-4b96-8b8f-743d8007519f,Smith-Hernandez,Michael Williams,dawnlewis@perez.com,Afghanistan,4027956162,3.61,2024-02-23,No
+b3341bf8-47e0-4cac-ad50-dfe2b7cb05a0,Brown-Singh,Kyle Smith,nriley@perez.com,Saint Lucia,623.716.7781,3.42,2024-02-23,No
+d67e7010-49b6-4d1c-bbe1-fa3b70eb6a37,Wallace Ltd,Edward Sherman,ericalyons@mora.info,Luxembourg,(366)750-5276x12092,1.77,2024-05-06,Yes
+12fd66db-a984-4f6c-a822-b2cd0e10d045,"Weber, Moore and Sanchez",Jeanette Garrett,ojohnson@chen-harris.com,Burkina Faso,(437)818-5921,1.05,2025-01-11,Yes
+a5a9c1be-48d3-4f98-b870-2def844e19ff,"Richardson, Walker and Jimenez",Ryan Obrien,andrewjohnson@sanchez.com,Montenegro,001-889-523-1324x65986,3.54,2023-08-24,Yes
+890e2e44-f6e5-47b1-8145-6f267a8f36a2,"Scott, Henry and Spencer",Kathleen Peterson,khanmatthew@calhoun.com,Bhutan,440-865-2664,3.96,2024-04-13,No
+df1aebe7-3867-4af3-a077-8fcecb031bc6,Brown-Thomas,Douglas Hahn,suzannebrowning@clements-diaz.biz,Germany,001-669-676-4878x49622,3.03,2024-10-22,Yes
+4e8c378e-058c-45ca-9ecc-e184d4991725,Garrett-Edwards,Lauren Arellano,imurphy@trevino-thomas.com,Tonga,(627)667-2935x09793,4.99,2025-02-15,Yes
+1c392667-9355-4e00-a188-966e12acccff,Kim-Patton,Aaron Hernandez,kellysnyder@riggs.com,France,(579)572-5184x070,2.55,2024-09-09,No
+4ae8285c-17f6-44cf-a24a-d577879a67ac,Peters-Randall,Theresa Schroeder,seansimon@steele.com,Ghana,567-467-0636,1.82,2025-02-02,Yes
+852d23cd-ced9-4eb2-bac2-a13bc8a8a522,Gonzalez-Rodriguez,Sophia Petersen MD,vancejennifer@carter.com,Sierra Leone,+1-433-836-7960,2.54,2024-05-22,No
+b28307d7-15f6-47fd-a35c-f9f7bd74f9d3,James LLC,Dawn Lowery,mmcdowell@johnson.biz,Fiji,001-501-732-4951,3.99,2023-06-29,No
+dfe713ba-e3d6-486e-b818-7871a7308128,Jones LLC,Brian Cooper,fernandezbrandon@gross.com,France,710-340-4315x668,2.49,2024-10-07,Yes
+85beac2f-30e0-4e79-9486-334bd5694a38,"Pena, Hill and Brewer",Jimmy Bell,gonzalezclaudia@garcia.net,Venezuela,964-371-7784x01902,2.5,2024-03-14,Yes
+8f0a89a5-b1a4-475d-86f1-06d99b3716cf,"Warner, Webb and Garcia",Jacob Reilly,hpollard@rodriguez-carroll.info,Sweden,(275)798-3326x1705,3.7,2025-05-01,Yes
+30890e76-5ffb-4456-b516-d066894b984f,Kelly-Ryan,Jennifer Gonzales,amywright@archer.org,Sierra Leone,001-382-742-6621x77580,1.15,2024-06-21,No
+6d817b6b-6ce1-4dee-add4-f2094486fb1b,"Washington, Melton and Smith",Christina Hernandez,james72@molina-jordan.net,Sudan,+1-834-351-5025x2854,3.3,2025-04-30,No
+7794e58e-8b5b-4bfd-8dc5-4cae01218ca8,Pugh Inc,Kristy Kennedy,fowlerkathy@peters.com,Zambia,877.571.1842x5278,2.69,2023-05-24,No
+714d466c-0234-4ddf-8fbd-0e7f9a40013b,Thomas Inc,Michelle Ramirez,kennethroberts@beasley.com,Saint Vincent and the Grenadines,+1-877-771-9619x97165,2.32,2024-12-08,No
+681ec744-748b-49d3-8508-c7e76713250d,Williams-Lynch,Kelly Young,kimberly00@reeves.com,Western Sahara,(365)337-9322,3.65,2024-11-29,Yes
+b4135c64-9faf-40fd-bbec-4b873e6ebd2c,Ellis LLC,Karen Sanchez,farmermatthew@willis.com,Samoa,001-810-716-2600x802,1.77,2024-07-06,Yes
+42fbc4a0-ab5f-49c9-b57c-c20cb7bfa181,Browning-Harper,Tamara Harris,keith83@vasquez-davis.com,Botswana,596-479-1463x8664,3.65,2023-06-09,No
+feb2b833-f141-4d13-9774-5bc23529c231,Schwartz-Roth,Jacob Osborne,lanceryan@garrison-vargas.com,Saint Helena,824.200.0208x6014,4.51,2024-01-12,Yes
+c4044523-8f39-48f3-862a-9d3196d7aa01,Ramirez-Holloway,Brian Best II,kochheather@mcneil.biz,Tanzania,+1-536-393-0100x0908,4.28,2024-07-01,Yes
+00e8c059-ba24-4f05-9d2c-5ae28562f3ab,Nash-Schmidt,Joseph Haas,matthewcrane@rogers.com,Nigeria,+1-409-230-4376x61366,4.64,2024-06-01,Yes
+fc2bedfc-23ec-4390-9514-b88acf8eeaf3,Craig Group,Hannah Riggs,kimberly47@wiggins.com,Barbados,905-583-3096,4.82,2024-08-08,No
+fa8e2dec-4a4b-470c-80fb-89ee9e6557d0,Davis PLC,Dr. Brenda Henderson,thomasrussell@holland-todd.com,Iraq,567.818.7762x8836,3.85,2024-06-25,No
+5b876aa9-aab1-4294-aa30-6b9de7f3072a,Miller Ltd,Ricardo Bowman,lglass@moore.net,Switzerland,001-280-993-7616x522,2.31,2023-12-23,Yes
+5167dd70-cef4-4789-bde9-0fd9956f769b,"Nichols, Taylor and Peterson",John Hamilton,bjames@roberson.net,Anguilla,301-441-7165x78939,4.16,2024-07-28,No
+de0e1824-5a3c-4a65-9ceb-bf94f2f1feb0,Bell-Davis,Angela Wilson,alicia00@ward.com,Estonia,492-587-8757x030,2.23,2023-06-06,No
+26618449-e08f-4d7b-bb28-7a6d1a07657b,Schultz-Brown,Sara Johnson,george06@day.com,Denmark,269.231.8062,2.89,2024-12-15,Yes
+05127656-3210-4614-a391-7bc87f9c0bc1,Burnett and Sons,Marilyn Henderson,jacqueline97@allen-landry.com,Anguilla,001-257-814-4695x674,1.27,2024-06-23,No
+5ca4a098-3551-4f83-89fa-f9b77e31c35f,"Torres, Case and Robinson",Austin James,ikemp@carson.com,Papua New Guinea,001-548-834-8358x6267,1.13,2025-05-08,No
+502d3593-8480-46ab-8cba-06edd47262cf,Moore Ltd,Kaitlyn Warren,glassrachel@sanchez-mejia.biz,Sierra Leone,+1-283-644-3695x805,3.68,2024-01-12,No
+b881d322-fe99-4342-9c76-2bd60f403393,Carlson PLC,John Oconnor,williamsjames@hardin.com,Montenegro,7772372954,1.3,2023-11-16,No
+6bf531f9-103d-4175-8750-d866ece57307,Rogers LLC,Andrew Anderson,evansmatthew@lopez.com,Denmark,727-594-3379,1.91,2023-07-20,Yes
+19befadf-e7d8-4614-b991-f5eab8b78c4a,Thomas Ltd,Allen Chaney,richardlopez@montoya-hernandez.biz,Tajikistan,+1-762-651-0857x38385,2.91,2024-01-29,Yes
+c1b07882-a1c5-4ede-8271-7ada148b119e,Davila-Yates,Lori Richards,clayton74@poole-edwards.com,Portugal,906.627.2816x733,4.64,2024-02-29,No
+d88a0619-23f1-427b-97eb-c00bff68728e,Contreras Group,Jay Bowen,kathleenscott@thompson.com,Malaysia,581-387-6209x906,4.29,2024-08-07,Yes
+ca43f7c5-052a-4c27-bd91-56b66e75f4a1,Leblanc PLC,Benjamin Garner,collinsantonio@griffith-underwood.net,Cambodia,(267)631-2343,3.96,2024-05-25,No
+a8568d84-1727-4487-af8d-f74dd9a74d36,Santos-Brown,Robert Morales,brandon28@floyd.com,Egypt,327-755-7672x991,3.94,2023-12-24,Yes
+a0f330b4-4905-4447-bf9c-d75c063766dd,Lee-Miller,Christina Evans,xandrade@herman.com,Poland,+1-929-477-1150x6291,4.13,2024-03-03,No
+cf13ee0c-56f8-4d8d-b5be-ee1ac8422488,Browning and Sons,Katrina Wilkinson,ginamiller@simon.com,Svalbard & Jan Mayen Islands,+1-522-919-8369x157,3.83,2024-04-06,No
+06e33f44-c5db-448f-9d29-18e07bea76c1,Taylor-Palmer,Aaron Schneider,melissa91@boyer-brown.com,Ghana,9022026838,3.51,2025-03-02,Yes
+a350c524-4f47-488b-b0ac-7edcbea9a566,Gilmore-Jackson,James Juarez,youngkimberly@smith-norman.com,Faroe Islands,(575)441-8236x88101,3.56,2024-04-14,Yes
+c0167336-df10-41ff-8c68-693112590735,Garcia-Sanchez,Brian Collins,aaronyoung@payne.com,Sierra Leone,+1-231-568-1636,1.28,2024-06-19,No
+16010fdd-ae22-4a57-aae5-8054ad3e9fa2,"Mays, Mendoza and Sanchez",Adam Curry,deborah67@williams.com,Bulgaria,541-607-0716,2.64,2024-07-06,No
+cb61756c-070f-47e9-8b55-bdafdf118c67,"Lambert, Massey and Flores",Jimmy Rice,hubbardnicole@molina.com,Guyana,456-997-2965x561,4.05,2024-03-31,Yes
+7236b469-706e-4ef9-bc7f-f37d1408049b,"Cohen, Wilson and Fischer",Jennifer Thomas,wallen@rodriguez-harmon.biz,Uzbekistan,001-978-630-5573x71388,2.63,2025-01-14,No
+23c944ab-babc-4d4b-aa76-ab820be9eea0,Mcdaniel Ltd,Donna James,turnerkristin@thompson-coleman.com,Afghanistan,511-376-1421x5248,4.77,2024-08-05,Yes
+6be74e77-bcb4-467d-8828-418dfd879360,Eaton Group,Alexander Wright,nicholas96@dixon.biz,Micronesia,+1-530-804-8379,3.74,2024-11-06,No
+c3f8525a-1429-4ac2-97ca-deafb0aa1503,Ray-White,Penny Mann,stanleygary@reyes.com,Fiji,904-406-2911,2.44,2023-08-25,No
+1fc38609-7ad5-4b22-87e0-44b728292b59,"Lee, Miller and Wilson",Patricia Shah,charlestimothy@west.net,Palau,497-349-9799x052,4.98,2024-05-16,No
+da89f0cc-8bd9-49db-8776-fcba1c41c9cf,Gibbs-Travis,Oscar Tran,cooleypatricia@reynolds.com,Norfolk Island,+1-456-831-6312x97557,2.82,2023-08-07,No
+6917e2e2-9bda-49cc-8e1a-443a98c03fd6,Freeman PLC,Ann Combs,alicianorris@wong.net,Yemen,(701)530-7167,3.98,2024-12-25,No
+6396a633-1d6b-4978-abf7-3025b21352ae,Lang Ltd,Thomas Lang,chaseaustin@rivera.com,Georgia,001-590-737-2954x585,1.96,2024-10-12,No
+de196147-d201-4306-b7ba-4319e75fc9d8,Frazier PLC,Sandra Hernandez,yvette39@moore.com,Botswana,341.492.5814x762,2.44,2024-10-21,Yes
+1f1b8f72-098d-4a47-8fa4-1ffa67e38fcd,"Weaver, Hall and George",Brent Clark,lucas15@robinson-brown.com,Algeria,001-979-468-5909x64598,1.7,2024-08-26,No
+8ff9aa6c-0838-43e9-bab8-a244ea279487,"Carr, Cline and Park",Mark Mcclain,debra16@romero-jones.com,Cuba,+1-273-467-0721x734,4.03,2024-01-02,No
+2bb55ac9-a576-4e70-abf1-4f70a6844cf3,"Rosales, Nelson and Barker",Rebecca Bowen,jenkinsrita@quinn.com,Gambia,6184144424,2.85,2024-09-24,No
+b170c9b9-2847-4f5d-87e3-a513ab0c16dd,Sanchez-Copeland,Michael Parker,fbell@barnett.biz,Palestinian Territory,656-940-9941,3.02,2024-02-04,No
+b4e91064-9ebb-45ca-8a05-d8999ef9ab9a,Merritt Group,Eric Fields,mary19@romero.biz,Tokelau,410-435-6594,4.39,2023-06-18,No
+7af3f398-3dea-49c7-acac-003cf4f183e5,Dawson-Reynolds,Yvonne Greene,ashleyhall@reyes.com,Niue,+1-439-609-3424,3.92,2023-05-25,No
+832bd042-2d7c-4657-ac60-81446cb53299,"Lopez, Ortiz and Harris",Joseph Munoz,jonathankennedy@crosby.net,Hong Kong,(494)708-6542x43826,3.85,2024-01-30,No
+570bee97-3446-4c32-84dc-6f427323eab3,Lane LLC,Peter Hansen,chelsea70@hudson.biz,Finland,535-291-7650x47188,1.01,2023-06-20,No
+5718da0a-96b5-4c4c-8c54-d9819787edf2,Taylor-Romero,Timothy Odom,hestrada@jordan-chapman.org,Mozambique,970-361-7069x014,4.16,2023-07-22,Yes
+cc654e5f-3703-46f9-823b-4ffaf69face8,"Green, Bean and Baldwin",Ashley Myers,robert50@morgan.com,Poland,567-744-9234,2.27,2024-08-12,No
+9352e5e1-6f58-4d82-bbbe-f86ba3c0d6de,"Murphy, Andrade and Gay",Peter Smith,kimberly69@washington.com,Burkina Faso,001-342-686-1789x257,4.31,2025-04-24,No
+0e422912-5497-4c9e-a14b-286fd8302225,"Villarreal, Ryan and Savage",Mrs. Carrie Bennett DVM,sotokathleen@holmes.org,Ecuador,001-468-906-3585x30101,1.66,2024-06-28,Yes
+1584e6bf-555d-4dac-99e0-859c609b7c1a,"Wong, Smith and Carter",Shannon Hernandez,hstevens@blake-williams.com,Iceland,862-503-6344x43946,4.2,2023-11-10,No
+f6876db2-ac9c-4563-926a-9d3c89870d1b,Gonzalez LLC,Javier Woods,westjeffrey@blackwell.com,Tonga,(777)262-6263x678,1.2,2024-05-30,Yes
+ea324e73-8de4-41c5-a8d4-523ce6d7b38f,"Freeman, Simpson and Bowers",Shannon Austin,debra48@cook.info,San Marino,640.437.6768x740,3.53,2023-06-09,Yes
+779d6d31-6bd7-417b-bae2-7d85ddd7f32d,Miller-Carlson,Edward Jones,pmiranda@brown.com,Solomon Islands,4095406565,1.54,2024-11-18,Yes
+3e81ac75-57e9-487c-836d-a10db8ec06fe,"Bird, Mcbride and Pena",David Mckay,michelleanderson@jordan-johnson.com,Tokelau,6477091103,1.31,2025-01-15,Yes
+b07ecdca-999a-4fbc-9423-59e313ea7ae0,"Shaw, Vargas and Ross",Bobby Kelley,wayne74@simmons-collins.com,Latvia,861.886.8704x796,2.9,2024-06-27,Yes
+040cf50a-9d36-41cf-b54a-9d9325b2e968,"Watson, Anderson and Powell",Laurie Smith,hillfrank@holt.com,Morocco,001-827-464-0547x398,1.29,2025-03-22,No
+5ac401de-0e07-4e00-80dd-4e0f112c8124,Robinson Inc,Jamie Parker,shannon33@garza.net,Guadeloupe,(647)644-2035,1.94,2023-08-07,No
+dfaed25c-bf0d-4fc6-a5ae-565cee15fd4e,"Jackson, Bowen and Logan",Mr. Hunter Miller,fgutierrez@turner-harris.com,Uruguay,(718)330-2585x346,1.11,2024-02-03,No
+86f86d78-ef87-4dbe-9f3b-7131f36bf8bf,"Diaz, Jackson and Wilson",Erin Mcdowell,lambalexandra@mercado.com,Micronesia,(355)581-6759x2383,1.63,2024-01-06,Yes
+1779a44c-926a-4390-b460-4426c31fd749,"Snow, Cannon and Oconnor",Toni Brown MD,ilopez@lawson.com,Bosnia and Herzegovina,001-795-497-3091x218,3.37,2024-05-03,Yes
+fd7a3950-1736-4adc-8b91-b45031750735,Phillips Group,David Cook,michael01@walker-lopez.com,French Polynesia,7776811096,1.26,2024-09-20,Yes
+68228d75-74e4-434c-91dc-3a8e5017bace,"Franco, Reynolds and Curry",William Torres,carlagarcia@mcmillan-mathews.org,Ethiopia,320-264-1910x61669,2.38,2023-07-06,No
+d98df6a0-d717-4de4-a360-4e7ec0f61d0d,"Acosta, Fields and Moore",Robert Martinez,robertgordon@hernandez.info,Guinea-Bissau,+1-362-269-9620x8347,2.54,2023-06-01,Yes
+a97c0644-239f-4c50-bafb-233e91968637,"Schultz, Giles and Schultz",Peter Arnold MD,ericjohnson@guerrero.com,Nicaragua,424.238.7129x5145,4.69,2024-01-21,No
+ecedecb0-e274-4915-8300-0f15feeffc7f,"Johnson, Spears and Mcintyre",Jennifer Shaffer,robertsanthony@baker.com,Tanzania,774-876-9509x0418,2.81,2024-03-05,Yes
+0907ec9e-3448-4c44-8274-2e66b0145cbb,Lester LLC,Heather Trujillo,zacharyvasquez@mcintosh.com,Jamaica,001-299-331-3606x229,2.72,2025-05-18,No
+318b2903-de3e-4bc2-ba17-2ab1cca324c6,"Reyes, Weeks and Olson",Mary West,molinachristina@hicks.com,British Virgin Islands,001-648-995-3829x44191,2.89,2025-01-04,No
+5c978975-f500-4058-8c3b-491fbb27dcbb,Parker and Sons,Leah Andrade,owells@wilkins.com,Brunei Darussalam,+1-467-708-4886x86562,4.0,2024-12-10,No
+a9de64a3-88e8-4648-a994-ddcaf07369c3,Salas and Sons,Carmen Herrera,wolfdaniel@moore.com,Armenia,(888)656-8467x67809,1.39,2024-01-15,Yes
+f93b9f4f-7ac9-480c-b803-fd7f8d39db39,Gross-Andrews,Karen Thomas,michaelgonzalez@morris-cooper.com,Netherlands Antilles,+1-828-497-4874x1148,3.9,2024-04-01,Yes
+d6cab354-1ecc-40a0-82b7-87b152bf3c8a,"Pearson, Tyler and Montgomery",George Adams,ukelly@saunders.biz,Georgia,296-578-9630,1.52,2024-02-04,No
+0f9f5ee2-2f06-42c6-9174-03d2811ae804,Foster and Sons,Angelica Doyle,jpearson@weeks.com,Malta,683-849-2766x809,2.75,2024-09-13,No
+cdf160a1-1533-45f8-b475-7b230c9fe37c,"Sawyer, Arellano and Hill",Christina Evans,jonesmelissa@gonzales.com,South Africa,466.871.5544x60539,1.75,2023-06-22,No
+db15304f-7c0b-482a-affa-a787e3f9d5ff,Velazquez-Summers,Michael Simpson,sotokara@schaefer-phelps.com,Nigeria,001-411-792-8567,1.49,2024-11-13,Yes
+e12587f7-15e2-4230-bb2a-5d582bb3d05d,Booker-Sharp,Mariah Douglas,michellenunez@peterson-flores.com,Benin,(962)664-3956,2.46,2023-12-20,Yes
+8fa967a9-7220-4bf9-80a5-a790653a81fb,"Frank, Johnson and Castillo",Melvin English,lawsoncalvin@brooks-jones.org,Philippines,001-444-514-9253x164,4.05,2024-06-05,No
+920368b2-a9b7-4b58-961a-a5bea4e343db,Nelson-Wallace,Richard Aguilar,olsonmichael@swanson-baker.com,Northern Mariana Islands,636-287-7156x9220,4.87,2024-05-13,No
+3db195a9-b1a5-41dc-b30f-e9daf254f70f,Grimes-Reed,John Martinez,beckdaniel@schneider-ford.com,Seychelles,794-831-4872x2557,4.84,2023-11-26,No
+a5edab34-4536-4ab5-97b5-35d13926f68b,"Walters, Parker and Long",Matthew Mcdonald,edward28@levy-bailey.com,Syrian Arab Republic,001-695-379-4758x16602,2.04,2024-12-11,Yes
+36a1b4f7-3d03-494f-aaea-bc3a691973ce,"Fitzgerald, Cobb and Little",Eric Marshall,richard97@moran.org,Liechtenstein,001-634-718-5595x0837,2.76,2024-10-26,No
+7623850e-1f66-498f-897e-0cad67052038,Lee Group,Blake Bailey,hopkinsbenjamin@gonzales.biz,Kuwait,001-749-707-8692,1.26,2024-10-02,Yes
+27f5e4d5-b421-46c0-a763-b8fe65dab531,Curry LLC,Phyllis Beck,rwallace@gomez.biz,Libyan Arab Jamahiriya,955.489.6070,1.81,2023-08-29,No
+c7727807-4524-48de-b6e2-d60f89d00d69,Rasmussen and Sons,Samantha Mullins,jonesjake@mcdonald.com,Nicaragua,366.635.7967,3.99,2024-06-07,Yes
+c4844fcc-b41e-4704-b22e-2f0e05b88314,"Smith, Williams and Bryant",Regina Schroeder,jbridges@price.net,China,326-337-9412x88669,1.32,2025-01-05,No
+32352fdb-f4f8-4212-a0e0-4cd7ac168dcc,Jones Ltd,Erica Moore,gmiller@burns.com,Tajikistan,694-665-7446x53255,1.36,2025-03-29,No
+cc1b5e2e-18f9-49a7-8551-4ed61c000740,"Patel, Horn and Stein",Daniel Morse,williamsmith@thomas-harris.net,Bolivia,001-693-876-8418x471,4.9,2024-09-25,Yes
+13127c2b-f234-4465-8724-89f72a72b033,Stanley-Sanchez,Derek Brown,rodriguezscott@clark.net,Liberia,001-964-877-0906x76183,1.23,2023-09-06,No
+7bb1df10-00a9-4273-9f88-7f619a8c1761,Pena-Barker,Jason Mullen,sthomas@mills.com,Bosnia and Herzegovina,969.630.3264x56496,3.57,2023-08-11,No
+09792863-66ba-4851-9554-1a3f9ce555f4,Robbins-Cohen,Michael Hughes,laura90@ball.com,French Southern Territories,(751)397-0181,4.13,2023-10-08,No
+945f2b79-2467-417c-8b79-ecccfe540e0f,Marshall-Smith,Bruce Rivera,carlwright@chandler-norman.com,Zambia,(960)722-1690,2.08,2024-12-23,Yes
+dd661ebb-243d-4300-82ad-cdde83afa815,"Hall, Mejia and Richardson",Jonathan Evans,smithmichael@mcclure.com,Lesotho,354-469-3510x2140,3.9,2025-03-19,No
+9244704e-1637-401e-b07c-68e03e9a66d6,Richardson-Lynn,Karen Lane,matthewchang@chavez.info,Reunion,6303568709,1.98,2023-08-26,No
+61c9e3d4-b2da-486e-aecf-dd43e8fabfb4,Rivera Group,Robert Hodges,jason76@green.biz,Kuwait,360.906.4345x973,2.06,2024-11-29,Yes
+2d52f504-39cd-4a83-ba47-0c640b6b60bc,Carpenter-Fisher,Molly Cook,qkemp@wilson-smith.net,Fiji,+1-709-847-3181,3.97,2023-06-07,Yes
+2985cdd3-4a1d-4528-985a-254f57458fc4,Williams-Wheeler,Stephanie Ward,leah61@rodriguez.org,Lebanon,(447)454-5657x2897,3.47,2024-03-02,Yes
+81c4d943-4bc9-4e36-b5c8-5907939d0deb,Adams-Zhang,Dalton Smith,sue68@harmon-smith.biz,Hong Kong,001-999-926-1382x6870,1.29,2025-03-04,No
+77e83c58-5fe4-4158-989c-da7070647540,Sherman and Sons,Stephanie Sullivan,dwalker@white.info,Bangladesh,+1-810-473-5128x96220,4.04,2023-12-20,Yes
+af358d31-314d-4bab-bb59-192729f98244,Williams and Sons,Kevin Hall,nicholas60@knight-mccann.com,Pitcairn Islands,8697523578,1.92,2024-12-13,Yes
+22f44bda-1720-4826-8e36-98a4994a04ce,"Cooper, Olson and Davenport",James Bentley,amanda85@schmidt-chan.com,Ecuador,619-480-4255,3.75,2024-06-13,No
+f974046a-3f61-4ca8-92f0-94d301a77438,Ortiz-Holder,Holly Owen,bhawkins@moreno.com,Philippines,(903)292-2131,4.06,2025-03-13,Yes
+b792acbe-f805-4265-9f16-2c7017d0d0fc,Castro-Brandt,Tiffany Rowe,amberkennedy@frank.info,Cook Islands,001-814-624-9562x917,4.12,2023-12-29,Yes
+31d7bc49-3c05-4a87-8222-b3006d5719ab,Weaver PLC,Aaron Nguyen,whitetony@cohen-hernandez.com,Cameroon,+1-420-317-5454x16487,3.12,2023-07-03,Yes
+6a40e034-67e1-46e7-84e1-2017e356fae8,Baxter LLC,Alicia Davis,richardbecker@king-jackson.com,Denmark,001-960-478-5483x3095,3.61,2025-03-13,Yes
+65dc8a7e-3756-4efe-8e2e-160ab054d5c8,"Mann, Smith and Williams",David Griffin,jermainemorales@adams.net,Guam,419.270.1501x96797,1.7,2024-08-17,No
+217547ed-924b-4644-92d8-5d3c59b3a79c,Wilson PLC,Nathaniel Gomez,jeremyhernandez@cole.com,Saudi Arabia,895.582.9158x5511,2.47,2024-12-30,No
+484cd5ce-1551-46cf-b191-d9b0a55b4de1,"Martin, Smith and Cobb",Timothy Turner,cooleysylvia@evans.com,Myanmar,(926)925-9188x31249,4.35,2023-11-12,No
+b551d776-6f2a-4106-a550-cb22ec8b8b37,Castillo-Macias,Corey Torres,michelle97@simpson.com,Lebanon,256-543-8029,1.82,2023-12-07,Yes
+a40566ac-04cd-43ea-a5b3-c11588b05aaf,Martinez-Ruiz,Tonya Sims,bradleyalbert@barnes.info,Denmark,262.542.6622x5492,3.26,2024-03-20,Yes
+986e4827-0d94-45c9-bb1e-27d9997f14d6,Robbins LLC,Lori Brown,sheltoneddie@rodriguez.com,Sao Tome and Principe,222.364.1475x690,2.88,2024-06-08,Yes
+cc145445-9c41-4132-ab1c-ad6920394286,Robinson LLC,Victoria Nelson,frank98@allen.com,Nicaragua,(967)571-5390x22624,4.1,2024-03-13,No
+33ea336c-b83e-4321-8aee-c8d402b6892e,Jacobs Inc,Michele Fields,dturner@jones-pittman.com,Gabon,(678)473-5540,4.68,2024-09-03,No
+7e22329a-9e86-48f8-a68a-99421ffc2123,"Thomas, Thornton and Brown",Trevor Shepherd,sophia39@torres.org,Iran,001-904-553-9252,2.9,2024-01-23,Yes
+cc5322e3-d3c5-445d-bf84-ca5232b88480,"Garcia, Walker and Smith",Mr. David Villanueva,brentodom@collins-bruce.com,French Polynesia,001-274-709-8537x20335,2.35,2025-03-23,Yes
+3fa03182-2021-470d-8c56-b0286656bec2,Murphy Inc,Mr. Travis Nguyen,lbrown@walters-wolfe.com,Canada,(445)764-1199,2.03,2025-01-07,No
+521c2428-21b0-44fc-966d-0b64db190bf7,Dixon Inc,Patricia Jones,richardlynn@beltran.com,Saint Lucia,001-949-341-9715x755,3.4,2025-03-07,Yes
+3b0986a2-cc2b-43da-aea7-751c646fdc80,Benjamin Ltd,Veronica Ortiz,larsenryan@jenkins.net,Palestinian Territory,(663)452-0076x150,2.6,2023-07-03,Yes
+62aa616f-a8d6-4d03-8ff7-f0ad9b6bc8bd,"Stokes, Contreras and Fisher",Shawn Torres,heatherhenderson@williams.com,Belgium,561-203-9278x8881,2.45,2023-12-15,Yes
+a80cb095-6407-4b44-a555-31d8f94bb175,Cruz and Sons,Ashley Rasmussen,uzimmerman@davis-roth.com,Venezuela,(490)250-9656x88267,3.64,2023-06-01,No
+7cff9981-b6eb-4f09-a7f5-042bf301cfca,Holloway Ltd,Kristen Nunez,seth37@bell.com,Lao People's Democratic Republic,330.683.0697x89995,2.74,2024-02-01,No
+3454d6fa-8c72-4b40-9b89-5f0148b7de64,Murray-Miller,Dennis Johnson,ggray@butler.com,Serbia,611.564.5605x9563,3.77,2025-03-30,Yes
+ea85dbc1-0c7f-4bc5-80f7-c5f016e33c1d,"Rios, Clark and Frederick",Andrew Bailey,roy33@warner-olson.com,Andorra,+1-931-467-8719x26154,2.18,2023-06-02,Yes
+aa2f7040-433b-4440-a4c1-7bb61a7ebdd5,Taylor LLC,Donna Morris,sheakenneth@hunter.com,Papua New Guinea,001-998-439-7673,3.75,2024-01-05,Yes
+036064a3-36ed-4588-a448-45b118eefdc3,Yates LLC,Daniel Lambert,johnsonchristopher@edwards.com,Niger,707.641.7996,3.89,2024-03-21,Yes
+9e83b5ce-8311-4d02-a711-0ce063324743,Steele-Howard,Rebecca Moore,eric56@smith.com,Argentina,(434)705-6771,4.65,2023-07-20,Yes
+bc906e5e-9059-42c5-84c6-b6175e745453,Mckenzie Inc,Sarah Martin,rogersrobert@williams-daniels.com,Thailand,(939)227-8844,2.84,2024-07-23,No
+6a9199ed-3196-4282-8cb6-588f61b1ad35,Nguyen Group,Frank Arnold,kevin20@moore.net,Canada,788-263-1373x714,3.8,2023-11-05,No
+df19cede-d5e8-4907-966c-d55312dc4248,Gentry Inc,Jamie James,morakristin@farmer.biz,Belize,4477189119,4.77,2025-02-01,No

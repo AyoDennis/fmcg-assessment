@@ -1,0 +1,20 @@
+[2025-05-24T22:32:06.321+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-05-24T22:32:06.362+0000] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: supplier_data_etl_pipeline.upload_merged_to_s3 manual__2025-05-24T21:08:13.436954+00:00 [queued]>
+[2025-05-24T22:32:06.379+0000] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: supplier_data_etl_pipeline.upload_merged_to_s3 manual__2025-05-24T21:08:13.436954+00:00 [queued]>
+[2025-05-24T22:32:06.381+0000] {taskinstance.py:2303} INFO - Starting attempt 2 of 7
+[2025-05-24T22:32:06.410+0000] {taskinstance.py:2327} INFO - Executing <Task(PythonOperator): upload_merged_to_s3> on 2025-05-24 21:08:13.436954+00:00
+[2025-05-24T22:32:06.432+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'supplier_data_etl_pipeline', 'upload_merged_to_s3', 'manual__2025-05-24T21:08:13.436954+00:00', '--job-id', '149', '--raw', '--subdir', 'DAGS_FOLDER/supplier_dag.py', '--cfg-path', '/tmp/tmpbndpc47b']
+[2025-05-24T22:32:06.435+0000] {standard_task_runner.py:91} INFO - Job 149: Subtask upload_merged_to_s3
+[2025-05-24T22:32:06.431+0000] {warnings.py:110} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=1827) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2025-05-24T22:32:06.437+0000] {standard_task_runner.py:63} INFO - Started process 1835 to run task
+[2025-05-24T22:32:06.566+0000] {task_command.py:426} INFO - Running <TaskInstance: supplier_data_etl_pipeline.upload_merged_to_s3 manual__2025-05-24T21:08:13.436954+00:00 [running]> on host a7d211f7b093
+[2025-05-24T22:32:06.714+0000] {taskinstance.py:2644} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='supplier_data_etl_pipeline' AIRFLOW_CTX_TASK_ID='upload_merged_to_s3' AIRFLOW_CTX_EXECUTION_DATE='2025-05-24T21:08:13.436954+00:00' AIRFLOW_CTX_TRY_NUMBER='2' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-05-24T21:08:13.436954+00:00'
+[2025-05-24T22:32:06.718+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-05-24T22:32:07.899+0000] {python.py:237} INFO - Done. Returned value was: None
+[2025-05-24T22:32:07.901+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-05-24T22:32:07.914+0000] {taskinstance.py:1205} INFO - Marking task as SUCCESS. dag_id=supplier_data_etl_pipeline, task_id=upload_merged_to_s3, execution_date=20250524T210813, start_date=20250524T223206, end_date=20250524T223207
+[2025-05-24T22:32:07.946+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2025-05-24T22:32:07.967+0000] {taskinstance.py:3482} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-05-24T22:32:07.969+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

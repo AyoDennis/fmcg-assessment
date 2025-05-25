@@ -7,3 +7,4 @@ terraform/main.tf
 .terraform*
 test-etl.py
 .env
+airbyte

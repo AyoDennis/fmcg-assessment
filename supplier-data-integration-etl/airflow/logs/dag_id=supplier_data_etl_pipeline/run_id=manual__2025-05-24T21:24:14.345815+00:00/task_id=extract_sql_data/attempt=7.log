@@ -1,0 +1,24 @@
+[2025-05-24T22:35:20.242+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-05-24T22:35:20.424+0000] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: supplier_data_etl_pipeline.extract_sql_data manual__2025-05-24T21:24:14.345815+00:00 [queued]>
+[2025-05-24T22:35:20.479+0000] {taskinstance.py:2073} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: supplier_data_etl_pipeline.extract_sql_data manual__2025-05-24T21:24:14.345815+00:00 [queued]>
+[2025-05-24T22:35:20.480+0000] {taskinstance.py:2303} INFO - Starting attempt 7 of 12
+[2025-05-24T22:35:20.624+0000] {taskinstance.py:2327} INFO - Executing <Task(PythonOperator): extract_sql_data> on 2025-05-24 21:24:14.345815+00:00
+[2025-05-24T22:35:20.726+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'supplier_data_etl_pipeline', 'extract_sql_data', 'manual__2025-05-24T21:24:14.345815+00:00', '--job-id', '161', '--raw', '--subdir', 'DAGS_FOLDER/supplier_dag.py', '--cfg-path', '/tmp/tmpmfjqg6ee']
+[2025-05-24T22:35:20.706+0000] {warnings.py:110} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61: DeprecationWarning: This process (pid=1882) is multi-threaded, use of fork() may lead to deadlocks in the child.
+  pid = os.fork()
+
+[2025-05-24T22:35:20.735+0000] {standard_task_runner.py:91} INFO - Job 161: Subtask extract_sql_data
+[2025-05-24T22:35:20.737+0000] {standard_task_runner.py:63} INFO - Started process 1909 to run task
+[2025-05-24T22:35:21.174+0000] {task_command.py:426} INFO - Running <TaskInstance: supplier_data_etl_pipeline.extract_sql_data manual__2025-05-24T21:24:14.345815+00:00 [running]> on host a7d211f7b093
+[2025-05-24T22:35:21.598+0000] {taskinstance.py:2644} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='supplier_data_etl_pipeline' AIRFLOW_CTX_TASK_ID='extract_sql_data' AIRFLOW_CTX_EXECUTION_DATE='2025-05-24T21:24:14.345815+00:00' AIRFLOW_CTX_TRY_NUMBER='7' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-05-24T21:24:14.345815+00:00'
+[2025-05-24T22:35:21.607+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-05-24T22:35:21.663+0000] {etl.py:77} INFO - connected to db source
+[2025-05-24T22:35:21.878+0000] {etl.py:79} INFO - queried db source
+[2025-05-24T22:35:21.889+0000] {etl.py:81} INFO - closed db connection
+[2025-05-24T22:35:21.935+0000] {etl.py:83} INFO - db source pickled
+[2025-05-24T22:35:22.000+0000] {python.py:237} INFO - Done. Returned value was: None
+[2025-05-24T22:35:22.008+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-05-24T22:35:22.147+0000] {taskinstance.py:1205} INFO - Marking task as SUCCESS. dag_id=supplier_data_etl_pipeline, task_id=extract_sql_data, execution_date=20250524T212414, start_date=20250524T223520, end_date=20250524T223522
+[2025-05-24T22:35:22.382+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2025-05-24T22:35:22.532+0000] {taskinstance.py:3482} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2025-05-24T22:35:22.565+0000] {local_task_job_runner.py:222} INFO - ::endgroup::
