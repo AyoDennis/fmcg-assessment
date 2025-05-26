@@ -13,7 +13,7 @@ resource "aws_vpc" "fmcg_vpc" {
 resource "aws_subnet" "public_subnet" {
   vpc_id                  = aws_vpc.fmcg_vpc.id
   cidr_block              = "10.0.1.0/24"
-  availability_zone       = "us-west-2a"
+  availability_zone       = "eu-central-1a"
   map_public_ip_on_launch = true
 
   tags = {
@@ -25,7 +25,7 @@ resource "aws_subnet" "public_subnet" {
 resource "aws_subnet" "private_subnet" {
   vpc_id            = aws_vpc.fmcg_vpc.id
   cidr_block        = "10.0.2.0/24"
-  availability_zone = "us-west-2b"
+  availability_zone = "eu-central-1b"
 
   tags = {
     Name = "private_subnet"
@@ -63,7 +63,7 @@ resource "aws_route_table_association" "public_subnet_association" {
 
 # Redshift subnet group with both subnets
 resource "aws_redshift_subnet_group" "redshift_subnet_group" {
-  name       = "redshift-subnet-group"
+  name = "redshift-subnet-group"
   subnet_ids = [
     aws_subnet.public_subnet.id,
     aws_subnet.private_subnet.id
@@ -100,7 +100,7 @@ resource "aws_security_group" "redshift_sg" {
 resource "random_password" "password" {
   length           = 16
   special          = true
-  override_special = "[#$%&*()-_=+[0o:?"
+  override_special = "[#$%&*()-_=+[03o:?"
 }
 
 # Random suffix for secret name
@@ -112,7 +112,7 @@ resource "random_string" "unique_suffix" {
 # Redshift cluster
 resource "aws_redshift_cluster" "redshift_cluster" {
   cluster_identifier        = "forecast-redshift-cluster"
-  database_name             = "mydb"
+  database_name             = "fmcg_db"
   master_username           = "admin"
   master_password           = random_password.password.result
   node_type                 = "dc2.large"

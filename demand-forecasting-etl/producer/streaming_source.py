@@ -39,10 +39,6 @@ def delivery_report(err, msg):
               partition => [{msg.partition()}], offset = {msg.offset()}')
 
 
-from faker import Faker
-import random
-import time
-
 sample_data = Faker()
 
 CHANNELS = {
@@ -64,13 +60,12 @@ while i <= 100:
         "customer_id": sample_data.uuid4(),
         "customer_name": sample_data.name(),
         "customer_email": sample_data.email(),
-        "product_name": sample_data.catch_phrase(),
         "product_category": product_category,
         "quantity": random.randint(1, 5),
         "unit_price": round(random.uniform(min_price, max_price), 2),
         "total_price": 0,
         "payment_method": random.choice(["credit_card", "debit_card", "paypal", "cash"]),
-        "timestamp": int(time.time() * 1000),
+        "timestamp": int(time.time() * 1000), # int(time.time() * 1000)
         "location": {
             "country": sample_data.country_code(),
             "city": sample_data.city(),

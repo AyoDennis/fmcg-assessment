@@ -8,3 +8,7 @@ terraform/main.tf
 test-etl.py
 .env
 airbyte
+testing*
+consume_*
+query*
+dashboard*
