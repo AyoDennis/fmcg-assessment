@@ -11,7 +11,7 @@ logging.getLogger().setLevel(20)
 
 producer_configuration = {
     'bootstrap.servers': 'localhost:9092',
-    'client.id': 'demo_producer',
+    'client.id': 'stream 1',
     'acks': 'all',
     'compression.type': 'none',
     'retry.backoff.ms': 1000,
@@ -44,8 +44,11 @@ sample_data = Faker()
 i = 0
 while i <= 100:
     event = {'index': i,
-             'name': sample_data.name(),
-             'phone_number': sample_data.phone_number(),
+             "sale_id": sample_data.uuid4(),
+             "channel": sample_data,
+             "customer_id": sample_data.uuid4(),
+             "customer_name": sample_data.name(),
+             "customer_email": sample_data.email(),
              'occupation': sample_data.job(),
              'country': sample_data.country(),
              'continent': sample_data.location_on_land()
