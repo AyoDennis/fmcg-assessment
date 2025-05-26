@@ -1,5 +1,6 @@
 import json
 import logging
+import random
 import time
 
 from confluent_kafka import Producer
@@ -45,7 +46,8 @@ i = 0
 while i <= 100:
     event = {'index': i,
              "sale_id": sample_data.uuid4(),
-             "channel": sample_data,
+             "product_channel": "web",
+             "product_category": random.choice(["electronics", "books", "clothing", "home"]),
              "customer_id": sample_data.uuid4(),
              "customer_name": sample_data.name(),
              "customer_email": sample_data.email(),
@@ -59,8 +61,9 @@ while i <= 100:
     serialize = json.dumps(event)
     logging.info("event serialised")
     producer.produce("demo_topic", serialize, callback=delivery_report)
-    producer.produce("demo_topic2", serialize, callback=delivery_report)
 
 logging.info("Flushing remaining messages...")
 producer.flush()
 logging.info("Producer shutdown complete")
+
+
