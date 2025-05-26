@@ -22,7 +22,7 @@ resource "aws_redshift_cluster" "redshift_cluster" {
 }
 
 resource "aws_secretsmanager_secret" "redshift_connection" {
-  description = "Redshift connect details"
+  description = "fmcg Redshift connect details"
   name        = "redshift_secret_${random_string.unique_suffix.result}"
 }
 
