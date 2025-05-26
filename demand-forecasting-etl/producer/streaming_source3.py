@@ -46,8 +46,8 @@ i = 0
 while i <= 100:
     event = {'index': i,
              "sale_id": sample_data.uuid4(),
-             "product_channel": "web",
-             "product_category": random.choice(["electronics", "books", "clothing", "home"]),
+             "product_channel": "store",
+             "product_category": random.choice(["groceries", "furniture", "appliances", "toys"]),
              "customer_id": sample_data.uuid4(),
              "customer_name": sample_data.name(),
              "customer_email": sample_data.email(),
