@@ -1,14 +1,11 @@
-from datetime import datetime
-
 from airflow import DAG
 from airflow.operators.python import PythonOperator
-
-from etl import (extract_api, extract_csv, extract_sql, transform_and_merge,
-                 upload_to_s3)
+from datetime import datetime
+from etl import extract_csv, extract_api, extract_sql, transform_and_merge, upload_to_s3
 
 default_args = {
     'owner': 'airflow',
-    'start_date': datetime(2024, 1, 1),
+    'start_date': datetime(2025, 5, 24),
     'retries': 5
 }
 

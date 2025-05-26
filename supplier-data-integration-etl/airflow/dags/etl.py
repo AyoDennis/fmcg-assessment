@@ -1,11 +1,10 @@
+
+import pandas as pd
 import json
-import logging
-import os
 import sqlite3
 from datetime import datetime
-
 import boto3
-import pandas as pd
+import logging
 from airflow.models import Variable
 from botocore.exceptions import ClientError
 
@@ -22,40 +21,6 @@ def extract_csv():
     df.to_pickle("/opt/airflow/dags/tmp/df_csv.pkl")
     logging.info("csv data source pickled")
     return "success"
-
-# import os
-
-# def extract_csv():
-#     """
-#     Converts csv data source into a pickle binary object
-#     """
-#     try:
-#         # Use absolute paths or paths relative to Airflow's working directory
-#         csv_path = "/opt/airflow/dags/mock_supplier_data.csv"  # Adjust path as needed
-#         pickle_path = "/opt/airflow/dags/tmp/df_csv.pkl"      # Adjust path as needed
-        
-#         logging.info(f"Starting to read CSV from: {csv_path}")
-        
-#         # Check if CSV file exists
-#         if not os.path.exists(csv_path):
-#             raise FileNotFoundError(f"CSV file not found at: {csv_path}")
-        
-#         # Read CSV
-#         df = pd.read_csv(csv_path)
-#         logging.info(f"CSV read successfully. Shape: {df.shape}")
-        
-#         # Create tmp directory if it doesn't exist
-#         os.makedirs(os.path.dirname(pickle_path), exist_ok=True)
-        
-#         # Save to pickle
-#         df.to_pickle(pickle_path)
-#         logging.info(f"CSV data source pickled successfully to: {pickle_path}")
-        
-#         return f"Successfully processed {len(df)} rows"
-        
-#     except Exception as e:
-#         logging.error(f"Error in extract_csv: {str(e)}")
-#         raise
 
 
 def extract_api():
@@ -119,15 +84,6 @@ def transform_and_merge():
     logging.info(f"Merged data saved to {output_path}")
 
 
-def aws_session():
-    session = boto3.Session(
-                    aws_access_key_id=Variable.get('aws_access_key'),
-                    aws_secret_access_key=Variable.get('aws_secret_access_key'),
-                    region_name="eu-central-1"
-    )
-    return session
-
-
 def boto3_client(aws_service):
 
     client = boto3.client(aws_service,
@@ -167,18 +123,3 @@ def upload_to_s3():
     except Exception as e:
         logging.error(f"Unexpected error during S3 upload: {str(e)}")
         raise
-
-
-try:
-    logging.info("Starting ETL pipeline")
-    
-    extract_csv()
-    extract_api()
-    extract_sql()
-    transform_and_merge()
-    upload_to_s3()
-    
-   
-    logging.info("ETL completed successfully")
-except Exception as e:
-    logging.error(f"ETL failed: {str(e)}")
