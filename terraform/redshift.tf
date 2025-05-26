@@ -23,7 +23,7 @@ resource "aws_redshift_cluster" "redshift_cluster" {
 
 resource "aws_secretsmanager_secret" "redshift_connection" {
   description = "Redshift connect details"
-  name        = "redshiff[secret_s(random_string.unique_suffix.result}"
+  name        = "redshift_secret_${random_string.unique_suffix.result}"
 }
 
 resource "aws_secretsmanager_secret_version" "redshift_connection" {
