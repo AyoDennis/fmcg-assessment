@@ -1,4 +1,6 @@
 .terraform*
 .env
-
 __pycache__
+config
+*pycache*
+*logs*
