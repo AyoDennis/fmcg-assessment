@@ -1,13 +1,2 @@
-guide.txt
-__pycache__
-# terraform/providers.tf
-terraform/s3.tf
-terraform/main.tf
 .terraform*
-test-etl.py
 .env
-airbyte
-testing*
-consume_*
-query*
-dashboard*

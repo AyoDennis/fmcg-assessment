@@ -2238,3 +2238,24 @@
 [2025-05-27T08:11:11.166+0000] {logging_mixin.py:188} INFO - [2025-05-27T08:11:11.166+0000] {dag.py:3096} INFO - Sync 1 DAGs
 [2025-05-27T08:11:11.175+0000] {logging_mixin.py:188} INFO - [2025-05-27T08:11:11.175+0000] {dag.py:3954} INFO - Setting next_dagrun for supplier_data_etl_pipeline to 2025-05-27 00:00:00+00:00, run_after=2025-05-28 00:00:00+00:00
 [2025-05-27T08:11:11.184+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/supplier_dag.py took 0.623 seconds
+[2025-05-27T08:11:41.970+0000] {processor.py:161} INFO - Started process (PID=33015) to work on /opt/airflow/dags/supplier_dag.py
+[2025-05-27T08:11:41.971+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/supplier_dag.py for tasks to queue
+[2025-05-27T08:11:41.972+0000] {logging_mixin.py:188} INFO - [2025-05-27T08:11:41.971+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/supplier_dag.py
+[2025-05-27T08:11:42.642+0000] {processor.py:840} INFO - DAG(s) 'supplier_data_etl_pipeline' retrieved from /opt/airflow/dags/supplier_dag.py
+[2025-05-27T08:11:42.665+0000] {logging_mixin.py:188} INFO - [2025-05-27T08:11:42.665+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-27T08:11:42.684+0000] {logging_mixin.py:188} INFO - [2025-05-27T08:11:42.684+0000] {dag.py:3954} INFO - Setting next_dagrun for supplier_data_etl_pipeline to 2025-05-27 00:00:00+00:00, run_after=2025-05-28 00:00:00+00:00
+[2025-05-27T08:11:42.699+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/supplier_dag.py took 0.734 seconds
+[2025-05-27T08:12:13.461+0000] {processor.py:161} INFO - Started process (PID=33077) to work on /opt/airflow/dags/supplier_dag.py
+[2025-05-27T08:12:13.463+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/supplier_dag.py for tasks to queue
+[2025-05-27T08:12:13.464+0000] {logging_mixin.py:188} INFO - [2025-05-27T08:12:13.463+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/supplier_dag.py
+[2025-05-27T08:12:14.093+0000] {processor.py:840} INFO - DAG(s) 'supplier_data_etl_pipeline' retrieved from /opt/airflow/dags/supplier_dag.py
+[2025-05-27T08:12:14.109+0000] {logging_mixin.py:188} INFO - [2025-05-27T08:12:14.109+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-27T08:12:14.126+0000] {logging_mixin.py:188} INFO - [2025-05-27T08:12:14.126+0000] {dag.py:3954} INFO - Setting next_dagrun for supplier_data_etl_pipeline to 2025-05-27 00:00:00+00:00, run_after=2025-05-28 00:00:00+00:00
+[2025-05-27T08:12:14.135+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/supplier_dag.py took 0.680 seconds
+[2025-05-27T08:12:44.780+0000] {processor.py:161} INFO - Started process (PID=33139) to work on /opt/airflow/dags/supplier_dag.py
+[2025-05-27T08:12:44.786+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/supplier_dag.py for tasks to queue
+[2025-05-27T08:12:44.788+0000] {logging_mixin.py:188} INFO - [2025-05-27T08:12:44.787+0000] {dagbag.py:540} INFO - Filling up the DagBag from /opt/airflow/dags/supplier_dag.py
+[2025-05-27T08:12:45.741+0000] {processor.py:840} INFO - DAG(s) 'supplier_data_etl_pipeline' retrieved from /opt/airflow/dags/supplier_dag.py
+[2025-05-27T08:12:45.764+0000] {logging_mixin.py:188} INFO - [2025-05-27T08:12:45.764+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-05-27T08:12:45.776+0000] {logging_mixin.py:188} INFO - [2025-05-27T08:12:45.776+0000] {dag.py:3954} INFO - Setting next_dagrun for supplier_data_etl_pipeline to 2025-05-27 00:00:00+00:00, run_after=2025-05-28 00:00:00+00:00
+[2025-05-27T08:12:45.790+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/supplier_dag.py took 1.045 seconds
