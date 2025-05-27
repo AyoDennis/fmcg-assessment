@@ -2,7 +2,6 @@
 import pandas as pd
 import json
 import sqlite3
-from datetime import datetime
 import boto3
 import logging
 from airflow.models import Variable
@@ -29,11 +28,14 @@ def extract_api():
     """
     with open("/opt/airflow/dags/api_suppliers.json") as f:
         data = json.load(f)
+
     logging.info("api data read")
+
     df = pd.json_normalize(data)
     logging.info("api json data normalized")
     df.to_pickle("/opt/airflow/dags/tmp/df_api.pkl")
     logging.info("api data source pickled")
+
 
 def extract_sql():
     """
@@ -48,11 +50,12 @@ def extract_sql():
     df.to_pickle("/opt/airflow/dags/tmp/df_sql.pkl")
     logging.info("db source pickled")
 
+
 def transform_and_merge():
     """
-    Loads pickled DataFrames, merges side-by-side, renames columns, then saves to CSV.
+    Loads pickled DataFrames, merges them, renames columns, then saves to CSV.
     """
-    
+
     df_csv = pd.read_pickle("/opt/airflow/dags/tmp/df_csv.pkl")
     logging.info("Pickled CSV data converted into DataFrame")
     df_api = pd.read_pickle("/opt/airflow/dags/tmp/df_api.pkl")
@@ -86,12 +89,14 @@ def transform_and_merge():
 
 def boto3_client(aws_service):
 
-    client = boto3.client(aws_service,
-                          aws_access_key_id=Variable.get('aws_access_key'),
-                          aws_secret_access_key=Variable.get('aws_secret_access_key'),
-                          region_name="eu-central-1")
+    client = boto3.client(
+        aws_service,
+        aws_access_key_id=Variable.get('aws_access_key'),
+        aws_secret_access_key=Variable.get('aws_secret_access_key'),
+        region_name="eu-central-1")
 
     return client
+
 
 def upload_to_s3():
     """
@@ -102,15 +107,15 @@ def upload_to_s3():
         bucket = "fmcg-de-assessment"
         key = "supplier_data/merged_supplier_data.csv"
         local_path = "/opt/airflow/dags/merged_supplier_data.csv"
-        
+
         # Verify file exists before upload
         import os
         if not os.path.exists(local_path):
             raise FileNotFoundError(f"Local file not found: {local_path}")
-        
+
         # Perform upload
         s3.upload_file(local_path, bucket, key)
-        
+
         # Verify upload succeeded
         s3.head_object(Bucket=bucket, Key=key)
         logging.info(f"Successfully uploaded to s3://{bucket}/{key}")

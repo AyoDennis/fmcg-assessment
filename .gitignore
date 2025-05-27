@@ -1,6 +1,5 @@
 guide.txt
 __pycache__
-terraform/iam.tf
 # terraform/providers.tf
 terraform/s3.tf
 terraform/main.tf

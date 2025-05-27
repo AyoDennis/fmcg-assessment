@@ -1,7 +1,10 @@
+from datetime import datetime
+
 from airflow import DAG
 from airflow.operators.python import PythonOperator
-from datetime import datetime
-from etl import extract_csv, extract_api, extract_sql, transform_and_merge, upload_to_s3
+
+from etl import (extract_api, extract_csv, extract_sql, transform_and_merge,
+                 upload_to_s3)
 
 default_args = {
     'owner': 'airflow',
@@ -41,4 +44,5 @@ with DAG(
         python_callable=upload_to_s3
     )
 
-    [task_extract_csv, task_extract_api, task_extract_sql] >> task_transform >> task_upload_s3
+    [task_extract_csv, task_extract_api, task_extract_sql] \
+        >> task_transform >> task_upload_s3

@@ -21,16 +21,6 @@ resource "aws_subnet" "public_subnet" {
   }
 }
 
-# Create private subnet
-resource "aws_subnet" "private_subnet" {
-  vpc_id            = aws_vpc.fmcg_vpc.id
-  cidr_block        = "10.0.2.0/24"
-  availability_zone = "eu-central-1b"
-
-  tags = {
-    Name = "private_subnet"
-  }
-}
 
 # Create Internet Gateway for public access
 resource "aws_internet_gateway" "fmcg_igw" {
@@ -65,8 +55,7 @@ resource "aws_route_table_association" "public_subnet_association" {
 resource "aws_redshift_subnet_group" "redshift_subnet_group" {
   name = "redshift-subnet-group"
   subnet_ids = [
-    aws_subnet.public_subnet.id,
-    aws_subnet.private_subnet.id
+    aws_subnet.public_subnet.id
   ]
   description = "Subnet group for Redshift cluster"
 }
@@ -81,7 +70,7 @@ resource "aws_security_group" "redshift_sg" {
     from_port   = 5439
     to_port     = 5439
     protocol    = "tcp"
-    cidr_blocks = ["0.0.0.0/0"] # ⚠️ Insecure — restrict in production!
+    cidr_blocks = ["0.0.0.0/0"]
   }
 
   egress {
@@ -119,6 +108,7 @@ resource "aws_redshift_cluster" "redshift_cluster" {
   cluster_type              = "single-node"
   port                      = 5439
   skip_final_snapshot       = true
+  publicly_accessible       = true
 
   vpc_security_group_ids    = [aws_security_group.redshift_sg.id]
   cluster_subnet_group_name = aws_redshift_subnet_group.redshift_subnet_group.name
