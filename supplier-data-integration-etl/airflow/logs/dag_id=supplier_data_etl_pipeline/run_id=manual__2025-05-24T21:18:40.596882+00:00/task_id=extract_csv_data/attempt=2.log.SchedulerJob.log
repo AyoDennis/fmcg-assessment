@@ -1,1 +1,0 @@
-[2025-05-24T22:31:57.701+0000] {task_context_logger.py:104} ERROR - Executor reports task instance <TaskInstance: supplier_data_etl_pipeline.extract_csv_data manual__2025-05-24T21:18:40.596882+00:00 [queued]> finished (failed) although the task says it's queued. (Info: None) Was the task killed externally?
