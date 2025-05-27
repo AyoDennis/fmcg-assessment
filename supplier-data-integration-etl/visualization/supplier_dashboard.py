@@ -7,8 +7,8 @@ import streamlit as st
 from dotenv import load_dotenv
 
 # --- Streamlit App ---
-st.set_page_config(layout="wide", page_title="Supplier Data Dashboard")
-st.title("Supplier Data Visualization Dashboard")
+st.set_page_config(layout="wide", page_title="Supplier Raw Material Procurement Dashboard")
+st.title("Supplier Raw Material Procurement Dashboard")
 st.markdown("---")
 
 load_dotenv()

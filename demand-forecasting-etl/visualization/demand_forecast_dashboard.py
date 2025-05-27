@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 
 # Configure Streamlit page
 st.set_page_config(
-    page_title="Real-time Sales Analytics",
+    page_title="Demand Forecasting Dashboard for Sales Planning",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -168,7 +168,7 @@ def format_currency(value):
     return f"${value:,.2f}" if isinstance(value, (int, float)) else str(value)
 
 def main():
-    st.title("🚀 Real-time Sales Analytics Dashboard")
+    st.title("🚀 Demand Forecasting Dashboard for Sales Planning")
     st.markdown("Live streaming data from Kafka → Redshift")
     
     # Check if connection parameters are available
