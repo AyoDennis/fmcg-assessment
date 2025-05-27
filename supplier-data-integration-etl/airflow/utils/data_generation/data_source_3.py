@@ -9,7 +9,7 @@ fake = Faker()
 logging.basicConfig(format='%(asctime)s %(levelname)s:%(name)s:%(message)s')
 logging.getLogger().setLevel(20)
 
-conn = sqlite3.connect('./suppliers.db')
+conn = sqlite3.connect('../dags/suppliers.db')
 cursor = conn.cursor()
 
 logging.info("cursor connected")

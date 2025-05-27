@@ -11,6 +11,7 @@ fake = Faker()
 Faker.seed(42)
 logging.info("faker instantiated")
 
+
 def generate_supplier_data(n=1000):
     """
     This functions generates random supplier data
@@ -25,15 +26,18 @@ def generate_supplier_data(n=1000):
             "country": fake.country(),
             "phone": fake.phone_number(),
             "performance_score": round(random.uniform(1.0, 5.0), 2),
-            "last_audit_date": fake.date_between(start_date='-2y', end_date='today'),
+            "last_audit_date": fake.date_between(
+                start_date='-2y', end_date='today'
+                ),
             "preferred_supplier": random.choice(["Yes", "No"])
         })
     return pd.DataFrame(data)
+
 
 df = generate_supplier_data(1000)
 
 logging.info("data generated")
 
-df.to_csv("../mock_supplier_data.csv", index=False)
+df.to_csv("../dags/mock_supplier_data.csv", index=False)
 
 logging.info("csv created")
